@@ -155,9 +155,9 @@ TOPICS = {
     "social_insurance": {
         "label": "Social Insurance",
         "keywords": [
-            r"disability\s+insurance", r"\bssdi\b", r"unemployment\s+insurance.*(?:benefit|claim|take[\s-]up|reform|generosity|duration|replace)",
-            r"\bssi\b.*(?:benefit|income|program|disab)",
-            r"supplemental\s+security\s+income",
+            r"disability\s+insurance", r"\bssdi\b",
+            r"\bssi\b.*(?:benefit|income|program|disab).*(?:elderly|aged|older|adult|retire|disab)",
+            r"supplemental\s+security\s+income.*(?:elderly|aged|older|adult|retire|disab)",
             r"safety\s+net.*(?:retire|pension|elderly|aged|older|disab)",
             r"workers[\'\u2019]?\s*compensation",
             r"social\s+insurance.*(?:retire|pension|disab|benefit|elderly|older)",
@@ -169,6 +169,8 @@ TOPICS = {
         "exclude": [
             r"car\s+insurance", r"auto\s+insurance", r"property\s+insurance",
             r"crop\s+insurance", r"school\s+meal", r"free\s+lunch",
+            r"opioid", r"prescription\s+drug\s+(?:abuse|misuse|epidemic)",
+            r"infant", r"birth\s+weight", r"neonatal",
         ],
         "concept_names": ["disability insurance", "social insurance", "supplemental security income"],
     },
@@ -231,7 +233,9 @@ TOPICS = {
             r"retirement\s+plan\s+leakage", r"plan\s+sponsor.*(?:retire|pension)",
             r"\berisa\b",
         ],
-        "exclude": [],
+        "exclude": [
+            r"private\s+equity.*(?:esg|value\s+creation|rhetoric)",
+        ],
         "concept_names": ["pension", "defined benefit pension plan", "defined contribution plan"],
     },
     "insurance_markets": {
