@@ -12,6 +12,7 @@ Outputs docs/data/papers.json for the static frontend.
 from __future__ import annotations
 
 import argparse
+import html as html_module
 import json
 import logging
 import re
@@ -154,18 +155,20 @@ TOPICS = {
     "social_insurance": {
         "label": "Social Insurance",
         "keywords": [
-            r"disability\s+insurance", r"\bssdi\b", r"unemployment\s+insurance",
+            r"disability\s+insurance", r"\bssdi\b", r"unemployment\s+insurance.*(?:benefit|claim|take[\s-]up|reform|generosity|duration|replace)",
             r"\bssi\b.*(?:benefit|income|program|disab)",
-            r"supplemental\s+security\s+income", r"safety\s+net",
-            r"workers[\'\u2019]?\s*compensation", r"social\s+insurance",
+            r"supplemental\s+security\s+income",
+            r"safety\s+net.*(?:retire|pension|elderly|aged|older|disab)",
+            r"workers[\'\u2019]?\s*compensation",
+            r"social\s+insurance.*(?:retire|pension|disab|benefit|elderly|older)",
             r"disability\s+benefit", r"disability\s+program",
             r"disability\s+application", r"disability\s+claim",
             r"benefit\s+adequacy.*(?:social|disab|insur)",
-            r"means[\s-]test.*(?:benefit|program|pension|social)",
+            r"means[\s-]test.*(?:pension|retire|elderly|aged|older|disab)",
         ],
         "exclude": [
             r"car\s+insurance", r"auto\s+insurance", r"property\s+insurance",
-            r"crop\s+insurance",
+            r"crop\s+insurance", r"school\s+meal", r"free\s+lunch",
         ],
         "concept_names": ["disability insurance", "social insurance", "supplemental security income"],
     },
@@ -196,7 +199,9 @@ TOPICS = {
             r"mortality\s+differential.*(?:income|socioeconomic|retire|pension|elderly)",
             r"actuarial", r"survival\s+curve.*(?:retire|pension|elderly|cohort)",
             r"mortality\s+(?:rate|improve|trend).*(?:elderly|aged|retire|pension|older\s+adult|65|socioeconomic)",
-            r"longevity\s+trend", r"demographic\s+aging", r"population\s+aging",
+            r"longevity\s+trend",
+            r"demographic\s+aging.*(?:pension|retire|social\s+security|fiscal|entitlement)",
+            r"population\s+aging.*(?:pension|retire|social\s+security|fiscal|entitlement|labor)",
             r"mortality\s+inequality", r"lifespan.*(?:inequal|socioeconomic|retire)",
             r"compression\s+of\s+morbidity", r"healthy\s+life\s+expectancy",
             r"active\s+life\s+expectancy", r"disability[\s-]free\s+life",
@@ -233,8 +238,8 @@ TOPICS = {
         "label": "Annuities & Insurance",
         "keywords": [
             r"\bannuit", r"long[\s-]term\s+care\s+insurance",
-            r"adverse\s+selection.*(?:insur|annuit)",
-            r"insur.*adverse\s+selection.*(?:retire|elderly|health|annuit)",
+            r"adverse\s+selection.*(?:annuit|retire|elderly|medicare|medigap)",
+            r"insur.*adverse\s+selection.*(?:retire|elderly|annuit|medicare)",
             r"medigap", r"medicare\s+supplement",
             r"health\s+insurance.*(?:older|elderly|retire)",
             r"ltci\b", r"medicare\s+advantage",
@@ -267,8 +272,9 @@ TOPICS = {
     },
 }
 
-# Minimum keyword matches required for NBER RSS papers (no concepts available)
-NBER_MIN_KEYWORD_MATCHES = 2
+# Minimum keyword matches required for NBER RSS papers (no concepts available).
+# Set to 1 since NBER already provides a strong topical prior (economics WPs).
+NBER_MIN_KEYWORD_MATCHES = 1
 
 
 def classify_paper(title: str, abstract: str, concepts: list[dict],
@@ -304,6 +310,19 @@ def classify_paper(title: str, abstract: str, concepts: list[dict],
 # OpenAlex Helpers
 # ---------------------------------------------------------------------------
 
+def strip_html(text: str) -> str:
+    """Remove HTML tags and decode HTML entities from text."""
+    # Decode entities (may need two passes: &amp;nbsp; -> &nbsp; -> space)
+    text = html_module.unescape(text)
+    # Remove HTML tags
+    text = re.sub(r"<[^>]+>", "", text)
+    # Second unescape pass for double-encoded entities
+    text = html_module.unescape(text)
+    # Normalize whitespace (e.g., non-breaking spaces from &nbsp;)
+    text = text.replace("\xa0", " ")
+    return text.strip()
+
+
 def reconstruct_abstract(inverted_index: dict | None) -> str:
     """Reconstruct abstract text from OpenAlex's inverted index format."""
     if not inverted_index:
@@ -321,7 +340,7 @@ def parse_openalex_work(work: dict, matched_by: str) -> dict | None:
     oa_id = work.get("id", "")
     short_id = oa_id.replace("https://openalex.org/", "")
 
-    title = work.get("title") or ""
+    title = strip_html(work.get("title") or "")
     if not title.strip():
         return None
 

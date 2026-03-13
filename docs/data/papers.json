@@ -20,7 +20,64 @@
       "doi": "",
       "url": "https://www.nber.org/papers/w34928#fromrss",
       "topics": [
-        "insurance_markets"
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "nber_w34938",
+      "title": "Reducing Waste through Anti-Fraud Enforcement: Evidence from Hospital Admission Cases",
+      "authors": [
+        {
+          "name": "David H. Howard",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Jetson Leder-Luis",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The use of federal anti-fraud laws to address unnecessary medical care is controversial. Targeted providers frequently argue that, in their judgment, the treatment in question was appropriate. We examine the effects of anti-fraud litigation against hospitals for over-admitting patients from the emergency department, using 100% Medicare claims for 2005-2019 and a design based on the staggered rollout of these lawsuits. We find that anti-fraud lawsuits reduced admission rates by 3.6 percentage points without increasing mortality rates. We estimate five-year savings to Medicare of $1.3 billion. Our results suggest that anti-fraud enforcement can be successful in reducing costly, unnecessary care.",
+      "publication_date": "2026-03-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w34938#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "nber_w34943",
+      "title": "The Changing Landscape of International Development: An Introduction",
+      "authors": [
+        {
+          "name": "Pascaline Dupas",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Pinelopi Koujianou Goldberg",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Rohini Pande",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Since the late 1980s, extreme poverty has declined sharply, life expectancy and schooling have increased, and electoral democracy has expanded. However poverty reduction has slowed in recent years, particularly following the COVID-19 pandemic, amid intensifying conflict, fragility, climate risks, democratic backsliding, and the erosion of global trends—including trade integration and geopolitical stability—that once supported growth. These dynamics raise three interrelated questions: what barriers impede further progress; where will future growth in lower-income countries come from; and how can growth be broadly shared. Taking stock of 15 chapters forthcoming in Volume 6 of the Handbook of Development Economics, we discuss how external conditions, state capacity and policy choices shape development; analyze the shifting growth drivers, including trade, technology and the rise of services; discuss persistent inequality and distributional tensions; and conjecture that investing in institutions and people pays off.",
+      "publication_date": "2026-03-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w34943#fromrss",
+      "topics": [
+        "longevity_mortality"
       ],
       "concepts": [],
       "matched_by": "nber_rss",
@@ -120,49 +177,6 @@
         {
           "name": "Medicare Part D",
           "score": 0.471
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W7127564140",
-      "title": "Imperfect Competition in Markets with Adverse or Advantageous Selection",
-      "authors": [
-        {
-          "name": "Markus Parlasca",
-          "affiliation": "Leibniz Institute for Financial Research SAFE"
-        }
-      ],
-      "abstract": "Abstract This paper proposes a spatial model of imperfect competition in markets with adverse or advantageous selection. The model shows that a reduction in competition exacerbates the inefficiency created by adverse selection but can ameliorate the inefficiency created by advantageous selection. However, reduced competition never corrects the inefficiency perfectly because it introduces an allocative inefficiency. By contrast, the inefficiency can be corrected perfectly through a corrective tax when there is perfect competition. Our results have implications for competition policy in credit and insurance markets, as they caution against viewing imperfect competition as a solution to the inefficiencies created by selection.",
-      "publication_date": "2026-02-04",
-      "source": "The Review of Economics and Statistics",
-      "source_type": "journal",
-      "doi": "10.1162/rest.a.1700",
-      "url": "https://doi.org/10.1162/rest.a.1700",
-      "topics": [
-        "insurance_markets"
-      ],
-      "concepts": [
-        {
-          "name": "Inefficiency",
-          "score": 0.949
-        },
-        {
-          "name": "Allocative efficiency",
-          "score": 0.834
-        },
-        {
-          "name": "Adverse selection",
-          "score": 0.811
-        },
-        {
-          "name": "Imperfect competition",
-          "score": 0.759
-        },
-        {
-          "name": "Competition (biology)",
-          "score": 0.725
         }
       ],
       "matched_by": "keyword",
@@ -588,7 +602,7 @@
     },
     {
       "id": "W7118022352",
-      "title": "&lt;div&gt; The Impact of Demographic Change on Household&amp;nbsp;&lt;span&gt;Debt&lt;/span&gt;&lt;/div&gt;",
+      "title": "The Impact of Demographic Change on Household Debt",
       "authors": [
         {
           "name": "Meeroo Kim",
@@ -689,7 +703,6 @@
       "url": "https://doi.org/10.2139/ssrn.5963695",
       "topics": [
         "public_pensions",
-        "social_insurance",
         "private_pensions"
       ],
       "concepts": [
@@ -930,7 +943,6 @@
       "doi": "10.1017/s1474747225100103",
       "url": "https://doi.org/10.1017/s1474747225100103",
       "topics": [
-        "longevity_mortality",
         "private_pensions"
       ],
       "concepts": [
@@ -1209,57 +1221,6 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4415675016",
-      "title": "Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges",
-      "authors": [
-        {
-          "name": "Evan Saltzman",
-          "affiliation": "Florida State University"
-        },
-        {
-          "name": "Ashley Swanson",
-          "affiliation": "Madison Group (United States)"
-        },
-        {
-          "name": "Daniel Polsky",
-          "affiliation": "Johns Hopkins University"
-        }
-      ],
-      "abstract": "Abstract We study how inertia interacts with market power and adverse selection in health insurance. We incorporate inertia into a model of plan selection and price competition, and estimate it using data from the California ACA exchange. We estimate inertia costs equaling 26% of average premiums. Our simulations indicate that inertia exacerbates market power, but has minimal interaction with selection. Eliminating inertia reduces average premiums by 6.6%. Maintaining premium-linked subsidies or reducing consumer churn increases the impact of inertia by enhancing market power. Provider network attachment is an important impediment to plan switching, but substantial inertia remains after accounting for networks.",
-      "publication_date": "2025-10-29",
-      "source": "The Review of Economics and Statistics",
-      "source_type": "journal",
-      "doi": "10.1162/rest.a.1615",
-      "url": "https://doi.org/10.1162/rest.a.1615",
-      "topics": [
-        "insurance_markets"
-      ],
-      "concepts": [
-        {
-          "name": "Adverse selection",
-          "score": 0.724
-        },
-        {
-          "name": "Inertia",
-          "score": 0.723
-        },
-        {
-          "name": "Subsidy",
-          "score": 0.716
-        },
-        {
-          "name": "Selection (genetic algorithm)",
-          "score": 0.574
-        },
-        {
-          "name": "Health plan",
-          "score": 0.481
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
       "id": "W4415598714",
       "title": "Household Bundling of Health Insurance",
       "authors": [
@@ -1275,8 +1236,7 @@
       "doi": "10.1162/rest.a.1627",
       "url": "https://doi.org/10.1162/rest.a.1627",
       "topics": [
-        "social_insurance",
-        "insurance_markets"
+        "social_insurance"
       ],
       "concepts": [
         {
@@ -1976,53 +1936,6 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4411583707",
-      "title": "In-kind government assistance and crowd-out of charitable services: Evidence from free school meals",
-      "authors": [
-        {
-          "name": "Krista Ruffini",
-          "affiliation": ""
-        },
-        {
-          "name": "Orgül D. Öztürk",
-          "affiliation": ""
-        },
-        {
-          "name": "Pelin Pekgün",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "Many community organizations provide services similar to government programs, but there is limited evidence how increased government aid affects the use and availability of charitable services. This study examines how greater access to federal nutrition assistance through schoolwide free meal programs affects food bank use within the U.S.’s largest food bank network. A 10 percent increase in access to free school meals reduces the amount of food that food banks distribute by 0.9–1.4 percent, without significantly reducing donations, fundraising activity, or the amount of food available. The reduction of food bank use is only found in areas where relatively few students previously qualified for government aid. Our findings highlight that even safety net programs that serve a specific population and offer distinct services can reduce pressures on charitable organizations, particularly in areas previously underserved by government assistance. • Greater access to free school meals reduces food bank use. • Effects are largest in low-poverty and urban areas. • Increased free school meals do not significantly change resources available at food banks. • Savings to charitable organizations offset more than 11% of the government costs of this program.",
-      "publication_date": "2025-06-24",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105391",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105391",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Government (linguistics)",
-          "score": 0.66
-        },
-        {
-          "name": "Economics",
-          "score": 0.618
-        },
-        {
-          "name": "Crowding out",
-          "score": 0.526
-        },
-        {
-          "name": "Public economics",
-          "score": 0.494
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
       "id": "W4411407378",
       "title": "Frames, incentives, and education: Effectiveness of interventions to delay public pension claiming",
       "authors": [
@@ -2114,100 +2027,6 @@
         {
           "name": "Health care",
           "score": 0.511
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4411116433",
-      "title": "The employment effects of a means-tested guaranteed income policy",
-      "authors": [
-        {
-          "name": "Timo Verlaat",
-          "affiliation": "Utrecht University"
-        },
-        {
-          "name": "Federico Todeschini",
-          "affiliation": "Universitat Pompeu Fabra"
-        },
-        {
-          "name": "Xavier Ramos",
-          "affiliation": "Universitat Autònoma de Barcelona"
-        }
-      ],
-      "abstract": "Through a randomized controlled trial, we study the labor market effects of a generous means-tested guaranteed income policy targeting low-income families in Barcelona. Two years into the program, beneficiaries are 22 % less likely to work compared to subjects assigned to a control group. A lower phase-out of transfers attenuates negative employment effects and reduces the government cost per euro of benefit by two-thirds. Participation elasticities for a family of four range from 0.39 to 0.49. Treatment effects persisted at least 6 months after the program ended. We find indications that effects are driven by subjects with care duties, suggesting substitution of labor for care tasks. • We study the labor supply response of low-income individuals to a means-tested guaranteed income program through an RCT. • Assignment to the program reduced labor participation by 22 %. • Negative employment effects are larger when phase-out marginal tax rates are larger. • Participation elasticities for a family of four range from 0.39 to 0.49. • We find tentative evidence of substitution of labor for caregiving.",
-      "publication_date": "2025-06-07",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105420",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105420",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.84
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.449
-        },
-        {
-          "name": "Microeconomics",
-          "score": 0.347
-        },
-        {
-          "name": "Public economics",
-          "score": 0.336
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4410588482",
-      "title": "Racial inequality in unemployment insurance receipt",
-      "authors": [
-        {
-          "name": "Elira Kuka",
-          "affiliation": "George Washington University"
-        },
-        {
-          "name": "Bryan A. Stuart",
-          "affiliation": "Federal Reserve Bank of Philadelphia"
-        }
-      ],
-      "abstract": "",
-      "publication_date": "2025-05-21",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105401",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105401",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Receipt",
-          "score": 0.812
-        },
-        {
-          "name": "Economics",
-          "score": 0.788
-        },
-        {
-          "name": "Unemployment",
-          "score": 0.786
-        },
-        {
-          "name": "Inequality",
-          "score": 0.644
-        },
-        {
-          "name": "Economic inequality",
-          "score": 0.436
         }
       ],
       "matched_by": "keyword",
@@ -2463,100 +2282,6 @@
         {
           "name": "Demographic economics",
           "score": 0.35
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4409578397",
-      "title": "The employment effects of a pandemic wage subsidy",
-      "authors": [
-        {
-          "name": "Michael Smart",
-          "affiliation": "University of Toronto"
-        },
-        {
-          "name": "Matthew Kronberg",
-          "affiliation": "Statistics Canada"
-        },
-        {
-          "name": "Josip Lesica",
-          "affiliation": "Statistics Canada"
-        },
-        {
-          "name": "Huju Liu",
-          "affiliation": "Statistics Canada"
-        }
-      ],
-      "abstract": "We estimate causal effects of a pandemic-era wage subsidy in Canada on job losses and business closures. Our estimates use administrative microdata and a regression discontinuity strategy to estimate the effects of marginal changes in the wage subsidy rate. The estimated net wage elasticity of employment was 0.05 to 0.22, implying a small employment effect of the program and an estimated fiscal cost per job saved of more than $185,000 per year. Subsidy payments caused a small but persistent reduction in business closure rates during subsequent waves of the pandemic, and increased earnings of existing employees. In all, our results suggest the subsidies did little to preserve job matches, but played a greater role in the overall social insurance response to the pandemic.",
-      "publication_date": "2025-04-19",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105358",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105358",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Subsidy",
-          "score": 0.837
-        },
-        {
-          "name": "Economics",
-          "score": 0.787
-        },
-        {
-          "name": "Wage",
-          "score": 0.642
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.601
-        },
-        {
-          "name": "Pandemic",
-          "score": 0.593
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4409541748",
-      "title": "Micro and Macro Effects of Unemployment Insurance Policies: Evidence from Missouri",
-      "authors": [
-        {
-          "name": "Fatih Karahan",
-          "affiliation": "Stanford University"
-        },
-        {
-          "name": "Kurt Mitman",
-          "affiliation": "Economic Policy Institute"
-        },
-        {
-          "name": "Brendan Moore",
-          "affiliation": "Central Bank of the Republic of Turkey"
-        }
-      ],
-      "abstract": "",
-      "publication_date": "2025-04-17",
-      "source": "Journal of Political Economy",
-      "source_type": "journal",
-      "doi": "10.1086/736215",
-      "url": "https://doi.org/10.1086/736215",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Macro",
-          "score": 0.756
-        },
-        {
-          "name": "Economics",
-          "score": 0.447
         }
       ],
       "matched_by": "keyword",
@@ -2895,8 +2620,8 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-03-13T12:52:33Z",
-    "paper_count": 59,
+    "last_updated": "2026-03-13T13:01:25Z",
+    "paper_count": 54,
     "date_range": {
       "from": "2025-03-13",
       "to": "2026-03-13"
