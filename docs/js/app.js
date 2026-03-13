@@ -17,7 +17,8 @@
     retirement_decisions:'Retirement Decisions',
     longevity_mortality: 'Longevity / Mortality',
     private_pensions:    'Private Pensions',
-    insurance_markets:   'Insurance Markets',
+    insurance_markets:   'Annuities & Insurance',
+    health_retirement:   'Health Care & Medicare',
   };
 
   // --- State ---
@@ -27,17 +28,19 @@
   let displayedCount = 0;
   let activeTopics = new Set();
   let searchQuery = '';
-  let timeDays = 7;
+  let timeDays = 30;
 
   // --- DOM refs ---
-  const searchInput   = document.getElementById('searchInput');
-  const topicPillsEl  = document.getElementById('topicPills');
-  const timeFilter    = document.getElementById('timeFilter');
-  const statusText    = document.getElementById('statusText');
-  const paperList     = document.getElementById('paperList');
-  const loadMoreDiv   = document.getElementById('loadMore');
-  const loadMoreBtn   = document.getElementById('loadMoreBtn');
-  const noPapersEl    = document.getElementById('noPapers');
+  const searchInput    = document.getElementById('searchInput');
+  const topicPillsEl   = document.getElementById('topicPills');
+  const timeFilter     = document.getElementById('timeFilter');
+  const statusText     = document.getElementById('statusText');
+  const filterLogicEl  = document.getElementById('filterLogicHint');
+  const clearFiltersEl = document.getElementById('clearFilters');
+  const paperList      = document.getElementById('paperList');
+  const loadMoreDiv    = document.getElementById('loadMore');
+  const loadMoreBtn    = document.getElementById('loadMoreBtn');
+  const noPapersEl     = document.getElementById('noPapers');
 
   // --- Init ---
   async function init() {
@@ -60,7 +63,6 @@
 
   // --- Topic Pills ---
   function buildTopicPills() {
-    // Count papers per topic across all papers (not filtered)
     const counts = {};
     for (const p of allPapers) {
       for (const t of p.topics) {
@@ -68,13 +70,14 @@
       }
     }
 
-    // Build pills in defined order
     for (const [slug, label] of Object.entries(TOPIC_LABELS)) {
       const count = counts[slug] || 0;
+      if (count === 0) continue; // hide empty topics
       const pill = document.createElement('button');
       pill.className = 'topic-pill';
       pill.dataset.topic = slug;
       pill.textContent = `${label} (${count})`;
+      pill.setAttribute('aria-pressed', 'false');
       pill.addEventListener('click', () => toggleTopic(slug, pill));
       topicPillsEl.appendChild(pill);
     }
@@ -84,9 +87,11 @@
     if (activeTopics.has(slug)) {
       activeTopics.delete(slug);
       pill.classList.remove('active');
+      pill.setAttribute('aria-pressed', 'false');
     } else {
       activeTopics.add(slug);
       pill.classList.add('active');
+      pill.setAttribute('aria-pressed', 'true');
     }
     applyFilters();
   }
@@ -106,6 +111,33 @@
     loadMoreBtn.addEventListener('click', () => {
       renderMore();
     });
+
+    clearFiltersEl.addEventListener('click', () => {
+      activeTopics.clear();
+      searchQuery = '';
+      timeDays = 30;
+      searchInput.value = '';
+      timeFilter.value = '30';
+      topicPillsEl.querySelectorAll('.topic-pill').forEach(p => {
+        p.classList.remove('active');
+        p.setAttribute('aria-pressed', 'false');
+      });
+      applyFilters();
+    });
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault();
+        searchInput.focus();
+      }
+      if (e.key === 'Escape' && document.activeElement === searchInput) {
+        searchInput.value = '';
+        searchQuery = '';
+        searchInput.blur();
+        applyFilters();
+      }
+    });
   }
 
   // --- Filtering ---
@@ -120,7 +152,7 @@
         if (diffDays > timeDays) return false;
       }
 
-      // Topic filter (AND with search, OR across selected topics)
+      // Topic filter (OR across selected topics, AND with search)
       if (activeTopics.size > 0) {
         const hasMatch = p.topics.some(t => activeTopics.has(t));
         if (!hasMatch) return false;
@@ -158,8 +190,14 @@
 
     displayedCount = end;
 
-    // Show/hide load more
-    loadMoreDiv.style.display = displayedCount < filteredPapers.length ? 'block' : 'none';
+    // Show/hide load more with remaining count
+    if (displayedCount < filteredPapers.length) {
+      const remaining = filteredPapers.length - displayedCount;
+      loadMoreBtn.textContent = `Load ${Math.min(PAPERS_PER_PAGE, remaining)} more (${remaining} remaining)`;
+      loadMoreDiv.style.display = 'block';
+    } else {
+      loadMoreDiv.style.display = 'none';
+    }
     noPapersEl.style.display = filteredPapers.length === 0 ? 'block' : 'none';
   }
 
@@ -170,6 +208,15 @@
     const isNew = isRecentlyAdded(paper);
     const dateStr = formatDate(paper.publication_date);
     const authorsStr = formatAuthors(paper.authors);
+
+    // Build abstract HTML without inline handlers
+    let abstractHtml = '';
+    if (paper.abstract) {
+      abstractHtml = `
+        <div class="paper-abstract collapsed">${escapeHtml(paper.abstract)}</div>
+        <button class="paper-abstract-toggle" tabindex="0" role="button" aria-expanded="false">Show more</button>
+      `;
+    }
 
     card.innerHTML = `
       <div class="paper-header">
@@ -186,11 +233,24 @@
       <div class="paper-topics">
         ${paper.topics.map(t => `<span class="paper-topic-tag">${escapeHtml(TOPIC_LABELS[t] || t)}</span>`).join('')}
       </div>
-      ${paper.abstract ? `
-        <div class="paper-abstract collapsed" onclick="this.classList.toggle('collapsed')">${escapeHtml(paper.abstract)}</div>
-        <span class="paper-abstract-toggle" onclick="this.previousElementSibling.classList.toggle('collapsed'); this.textContent = this.previousElementSibling.classList.contains('collapsed') ? 'Show more' : 'Show less'">Show more</span>
-      ` : ''}
+      ${abstractHtml}
     `;
+
+    // Wire up abstract toggle with proper event listeners
+    const toggleBtn = card.querySelector('.paper-abstract-toggle');
+    const abstractDiv = card.querySelector('.paper-abstract');
+    if (toggleBtn && abstractDiv) {
+      const toggle = () => {
+        abstractDiv.classList.toggle('collapsed');
+        const expanded = !abstractDiv.classList.contains('collapsed');
+        toggleBtn.textContent = expanded ? 'Show less' : 'Show more';
+        toggleBtn.setAttribute('aria-expanded', String(expanded));
+      };
+      toggleBtn.addEventListener('click', toggle);
+      toggleBtn.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggle(); }
+      });
+    }
 
     return card;
   }
@@ -201,7 +261,16 @@
       : '';
     const totalStr = `${filteredPapers.length} paper${filteredPapers.length !== 1 ? 's' : ''}`;
     const updatedStr = lastUpdated ? ` · Last updated ${lastUpdated}` : '';
-    statusText.textContent = `${totalStr}${updatedStr}`;
+    statusText.textContent = `${totalStr}${updatedStr} · Newest first`;
+
+    // Show logic hint when 2+ topics selected
+    if (filterLogicEl) {
+      filterLogicEl.style.display = activeTopics.size >= 2 ? 'inline' : 'none';
+    }
+
+    // Show clear filters button when any filter is active
+    const hasFilters = activeTopics.size > 0 || searchQuery || timeDays !== 30;
+    clearFiltersEl.style.display = hasFilters ? 'inline' : 'none';
   }
 
   // --- Helpers ---

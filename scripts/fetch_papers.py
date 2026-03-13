@@ -38,7 +38,7 @@ log = logging.getLogger(__name__)
 MAILTO = "colavito@crfb.org"
 OPENALEX_BASE = "https://api.openalex.org/works"
 NBER_RSS_URL = "https://back.nber.org/rss/new.xml"
-RETENTION_DAYS = 180  # 6 months
+RETENTION_DAYS = 365  # 12 months
 PAGE_SIZE = 200
 MAX_PAGES = 10  # safety cap per query
 
@@ -52,7 +52,6 @@ CONCEPT_IDS = [
     "C2780586",    # Defined contribution plan
     "C93843015",   # Annuity
     "C2776466",    # Life-cycle hypothesis
-    "C2776466",    # Precautionary saving (covered by life-cycle)
     "C71924100",   # Longevity
     "C2779708",    # Medicare
     "C144133560",  # Old age
@@ -80,6 +79,27 @@ SOURCE_IDS = {
     "S199447588":  "Journal of Public Economics",
     "S95323914":   "Journal of Political Economy",
     "S4210172589": "SSRN Electronic Journal",
+    "S161828561":  "Journal of Human Resources",
+    "S73aborec":   "placeholder",  # will be looked up below
+}
+
+# Look up additional source IDs at import time is impractical;
+# use known IDs from OpenAlex for additional journals
+SOURCE_IDS = {
+    "S2809516038":  "National Bureau of Economic Research",
+    "S23254222":    "American Economic Review",
+    "S203860005":   "The Quarterly Journal of Economics",
+    "S158011328":   "AEJ: Economic Policy",
+    "S199447588":   "Journal of Public Economics",
+    "S95323914":    "Journal of Political Economy",
+    "S4210172589":  "SSRN Electronic Journal",
+    "S62957338":    "The Journal of Human Resources",
+    "S8557221":     "Journal of Labor Economics",
+    "S180061323":   "The Review of Economics and Statistics",
+    "S72880728":    "The Journal of Economic Perspectives",
+    "S73680622":    "Journal of Pension Economics and Finance",
+    "S42893225":    "AEJ: Applied Economics",
+    "S4210173904":  "Brookings Papers on Economic Activity",
 }
 
 # ---------------------------------------------------------------------------
@@ -90,12 +110,20 @@ TOPICS = {
     "public_pensions": {
         "label": "Public Pensions / Social Security",
         "keywords": [
-            r"social\s+security", r"oasdi", r"payroll\s+tax", r"trust\s+fund",
+            r"social\s+security(?!\s+(?:market|price|cyber|network|food))",
+            r"oasdi", r"trust\s+fund.*(?:social|oasi|pension|retire)",
             r"claiming\s+age", r"full\s+retirement\s+age", r"fra\b",
-            r"social\s+security\s+benefit", r"ssa\b", r"public\s+pension",
-            r"state\s+pension", r"old[\s-]age\s+insurance",
+            r"social\s+security\s+benefit", r"ssa\b.*(?:retire|benefit|claim)",
+            r"public\s+pension", r"state\s+pension\s+(?:system|scheme|benefit|reform|age)",
+            r"old[\s-]age\s+insurance",
             r"social\s+security\s+reform", r"social\s+security\s+wealth",
-            r"bend\s+point", r"pia\b", r"aime\b",
+            r"bend\s+point", r"\bpia\b.*(?:benefit|formula)", r"\baime\b",
+            r"payroll\s+tax.*(?:social\s+security|oasdi|pension|retire|trust\s+fund)",
+            r"benefit\s+formula.*(?:social|pension|retire)",
+            r"earnings\s+test.*(?:social|pension|retire)",
+            r"windfall\s+elimination", r"government\s+pension\s+offset",
+            r"\bwep\b.*(?:social|pension)", r"\bgpo\b.*(?:social|pension)",
+            r"cost[\s-]of[\s-]living\s+adjust.*(?:social|pension|benefit)",
         ],
         "exclude": [
             r"network\s+security", r"cyber\s+security", r"food\s+security",
@@ -106,16 +134,20 @@ TOPICS = {
     "consumption_savings": {
         "label": "Consumption-Savings / Life Cycle",
         "keywords": [
-            r"life[\s-]cycle", r"precautionary\s+sav", r"wealth\s+accumulation",
-            r"bequest\s+motive", r"saving\s+rate", r"consumption\s+smooth",
-            r"wealth\s+inequality", r"household\s+saving", r"buffer[\s-]stock",
+            r"life[\s-]cycle.*(?:saving|consumption|wealth|retire|pension|model.*(?:retire|saving))",
+            r"precautionary\s+sav", r"wealth\s+accumulation.*(?:retire|household|life)",
+            r"bequest\s+motive", r"consumption\s+smooth",
+            r"household\s+saving", r"buffer[\s-]stock.*saving",
             r"wealth\s+decumulation", r"retirement\s+saving",
             r"retirement\s+wealth", r"consumption\s+in\s+retirement",
+            r"retirement\s+readiness", r"replacement\s+rate.*(?:income|retire|pension)",
+            r"under[\s-]?saving.*retire", r"financial\s+literacy.*retire",
         ],
         "exclude": [
             r"energy\s+consumption", r"drug\s+consumption", r"alcohol\s+consumption",
             r"water\s+consumption", r"food\s+consumption", r"meat\s+consumption",
-            r"media\s+consumption",
+            r"media\s+consumption", r"life[\s-]cycle\s+assess",
+            r"product\s+life[\s-]cycle", r"life[\s-]cycle\s+(?:cost|emission|impact|inventory)",
         ],
         "concept_names": ["life-cycle hypothesis", "precautionary saving"],
     },
@@ -123,10 +155,13 @@ TOPICS = {
         "label": "Social Insurance",
         "keywords": [
             r"disability\s+insurance", r"\bssdi\b", r"unemployment\s+insurance",
-            r"\bssi\b", r"supplemental\s+security\s+income", r"safety\s+net",
+            r"\bssi\b.*(?:benefit|income|program|disab)",
+            r"supplemental\s+security\s+income", r"safety\s+net",
             r"workers[\'\u2019]?\s*compensation", r"social\s+insurance",
             r"disability\s+benefit", r"disability\s+program",
             r"disability\s+application", r"disability\s+claim",
+            r"benefit\s+adequacy.*(?:social|disab|insur)",
+            r"means[\s-]test.*(?:benefit|program|pension|social)",
         ],
         "exclude": [
             r"car\s+insurance", r"auto\s+insurance", r"property\s+insurance",
@@ -137,29 +172,40 @@ TOPICS = {
     "retirement_decisions": {
         "label": "Retirement Decision-Making",
         "keywords": [
-            r"retirement\s+timing", r"early\s+retirement", r"claiming\s+decision",
-            r"older\s+worker", r"labor\s+force\s+participation.*(?:older|elderly|aged)",
+            r"retirement\s+timing", r"early\s+retirement",
+            r"claiming\s+decision.*(?:social|retire|benefit)",
+            r"older\s+worker.*(?:retire|pension|employ|labor)",
             r"bridge\s+job", r"phased\s+retirement", r"delayed\s+retirement",
             r"retirement\s+age", r"work\s+incentive.*retire",
             r"retire.*work\s+incentive", r"retirement\s+decision",
-            r"retirement\s+transition", r"labor\s+supply.*(?:older|elderly|retire)",
+            r"retirement\s+transition",
+            r"labor\s+supply.*(?:older|elderly).*(?:retire|pension)",
+            r"gradual\s+retirement", r"un[\s-]?retirement",
+            r"labor\s+force\s+exit.*(?:older|retire)",
+            r"work.*(?:after|past|beyond)\s+(?:65|retirement|70)",
         ],
-        "exclude": [],
+        "exclude": [
+            r"early\s+retirement.*(?:galaxy|star|planet)",
+        ],
         "concept_names": ["retirement"],
     },
     "longevity_mortality": {
         "label": "Longevity / Mortality",
         "keywords": [
-            r"longevity\s+risk", r"life\s+expectancy", r"mortality\s+differential",
-            r"actuarial", r"survival\s+curve", r"mortality\s+rate",
-            r"mortality\s+improvement", r"longevity\s+trend",
-            r"demographic\s+aging", r"population\s+aging",
-            r"mortality\s+inequality", r"death\s+rate",
-            r"lifespan", r"years\s+of\s+life",
+            r"longevity\s+risk", r"life\s+expectancy.*(?:retire|pension|elderly|aged|socioeconomic|inequal|gap|60|65|70)",
+            r"mortality\s+differential.*(?:income|socioeconomic|retire|pension|elderly)",
+            r"actuarial", r"survival\s+curve.*(?:retire|pension|elderly|cohort)",
+            r"mortality\s+(?:rate|improve|trend).*(?:elderly|aged|retire|pension|older\s+adult|65|socioeconomic)",
+            r"longevity\s+trend", r"demographic\s+aging", r"population\s+aging",
+            r"mortality\s+inequality", r"lifespan.*(?:inequal|socioeconomic|retire)",
+            r"compression\s+of\s+morbidity", r"healthy\s+life\s+expectancy",
+            r"active\s+life\s+expectancy", r"disability[\s-]free\s+life",
         ],
         "exclude": [
             r"infant\s+mortality", r"child\s+mortality", r"neonatal",
             r"maternal\s+mortality", r"under[\s-]five\s+mortality",
+            r"conflict\s+mortality", r"war\s+mortality", r"cancer\s+(?:stat|mortal)",
+            r"fashion", r"product\s+longevity",
         ],
         "concept_names": ["longevity", "life expectancy"],
     },
@@ -167,24 +213,34 @@ TOPICS = {
         "label": "Private Pensions (401k, DB/DC)",
         "keywords": [
             r"401\s*\(?\s*k\s*\)?", r"defined\s+benefit", r"defined\s+contribution",
-            r"pension\s+fund", r"auto[\s-]enrollment", r"auto[\s-]escalation",
+            r"pension\s+fund", r"auto[\s-]enrollment.*(?:retire|pension|saving)",
+            r"auto[\s-]escalation",
             r"employer[\s-]sponsored\s+retirement", r"private\s+pension",
             r"occupational\s+pension", r"pension\s+plan",
             r"retirement\s+plan", r"403\s*\(?\s*b\s*\)?",
-            r"thrift\s+savings", r"ira\b", r"individual\s+retirement",
+            r"thrift\s+savings", r"\bira\b.*(?:retire|saving|contribution|account)",
+            r"individual\s+retirement",
             r"target[\s-]date\s+fund", r"pension\s+reform",
+            r"employer\s+match.*(?:retire|401|pension|saving)",
+            r"catch[\s-]up\s+contribution", r"secure\s+(?:act|2\.0)",
+            r"retirement\s+plan\s+leakage", r"plan\s+sponsor.*(?:retire|pension)",
+            r"\berisa\b",
         ],
         "exclude": [],
         "concept_names": ["pension", "defined benefit pension plan", "defined contribution plan"],
     },
     "insurance_markets": {
-        "label": "Insurance Markets",
+        "label": "Annuities & Insurance",
         "keywords": [
             r"\bannuit", r"long[\s-]term\s+care\s+insurance",
-            r"adverse\s+selection.*insur", r"insur.*adverse\s+selection",
+            r"adverse\s+selection.*(?:insur|annuit)",
+            r"insur.*adverse\s+selection.*(?:retire|elderly|health|annuit)",
             r"medigap", r"medicare\s+supplement",
-            r"insurance\s+market", r"health\s+insurance.*(?:older|elderly|retire)",
+            r"health\s+insurance.*(?:older|elderly|retire)",
             r"ltci\b", r"medicare\s+advantage",
+            r"longevity\s+insurance", r"deferred\s+income\s+annuity",
+            r"tontine", r"variable\s+annuity",
+            r"guaranteed\s+lifetime.*income",
         ],
         "exclude": [
             r"auto\s+insurance", r"car\s+insurance", r"property\s+insurance",
@@ -192,10 +248,31 @@ TOPICS = {
         ],
         "concept_names": ["annuity"],
     },
+    "health_retirement": {
+        "label": "Health Care & Medicare",
+        "keywords": [
+            r"medicare(?!\s+for\s+all)", r"medicaid.*(?:elderly|aged|nursing|long[\s-]term)",
+            r"health\s+care\s+cost.*(?:retire|elderly|aged|older)",
+            r"out[\s-]of[\s-]pocket.*(?:elderly|retire|health.*older)",
+            r"nursing\s+home", r"long[\s-]term\s+care(?!\s+insurance)",
+            r"retiree\s+health", r"medicare\s+part\s+[a-d]",
+            r"health\s+spending.*(?:older|retire|elderly)",
+            r"prescription\s+drug.*(?:elderly|medicare|older)",
+            r"health\s+insurance.*(?:retire|elderly|older\s+adult)",
+        ],
+        "exclude": [
+            r"medicare\s+for\s+all",
+        ],
+        "concept_names": ["medicare"],
+    },
 }
 
+# Minimum keyword matches required for NBER RSS papers (no concepts available)
+NBER_MIN_KEYWORD_MATCHES = 2
 
-def classify_paper(title: str, abstract: str, concepts: list[dict]) -> list[str]:
+
+def classify_paper(title: str, abstract: str, concepts: list[dict],
+                   require_min_keywords: int = 1) -> list[str]:
     """Assign topic slugs to a paper based on concepts and keyword matching."""
     text = f"{title} {abstract}".lower()
     matched_topics = []
@@ -207,8 +284,12 @@ def classify_paper(title: str, abstract: str, concepts: list[dict]) -> list[str]
             for c in concepts
         )
 
-        # Check keywords
-        keyword_match = any(re.search(kw, text, re.IGNORECASE) for kw in config["keywords"])
+        # Count keyword matches
+        keyword_hits = sum(
+            1 for kw in config["keywords"]
+            if re.search(kw, text, re.IGNORECASE)
+        )
+        keyword_match = keyword_hits >= require_min_keywords
 
         if concept_match or keyword_match:
             # Check excludes
@@ -242,6 +323,11 @@ def parse_openalex_work(work: dict, matched_by: str) -> dict | None:
 
     title = work.get("title") or ""
     if not title.strip():
+        return None
+
+    # Language filter: English only
+    lang = work.get("language", "en")
+    if lang and lang != "en":
         return None
 
     # Authors
@@ -325,8 +411,8 @@ def fetch_openalex_concept_filtered(from_date: str) -> list[dict]:
 
     for page_num in range(MAX_PAGES):
         params = {
-            "filter": f"concepts.id:{concept_filter},from_publication_date:{from_date},type:article|preprint",
-            "select": "id,title,authorships,abstract_inverted_index,publication_date,primary_location,doi,type,concepts",
+            "filter": f"concepts.id:{concept_filter},from_publication_date:{from_date},language:en,type:article|preprint",
+            "select": "id,title,authorships,abstract_inverted_index,publication_date,primary_location,doi,type,concepts,language",
             "per_page": PAGE_SIZE,
             "cursor": cursor,
             "mailto": MAILTO,
@@ -372,8 +458,8 @@ def fetch_openalex_source_filtered(from_date: str) -> list[dict]:
 
         for page_num in range(max_pages):
             params = {
-                "filter": f"primary_location.source.id:{source_id},from_publication_date:{from_date}",
-                "select": "id,title,authorships,abstract_inverted_index,publication_date,primary_location,doi,type,concepts",
+                "filter": f"primary_location.source.id:{source_id},from_publication_date:{from_date},language:en",
+                "select": "id,title,authorships,abstract_inverted_index,publication_date,primary_location,doi,type,concepts,language",
                 "per_page": PAGE_SIZE,
                 "cursor": cursor,
                 "mailto": MAILTO,
@@ -452,8 +538,10 @@ def fetch_nber_rss() -> list[dict]:
         if hasattr(entry, "published_parsed") and entry.published_parsed:
             pub_date = time.strftime("%Y-%m-%d", entry.published_parsed)
 
-        # Topic classification with empty concepts (RSS doesn't have them)
-        topics = classify_paper(title, abstract, [])
+        # Topic classification: require 2+ keyword matches for NBER RSS
+        # (no concepts available, so stricter keyword threshold)
+        topics = classify_paper(title, abstract, [],
+                                require_min_keywords=NBER_MIN_KEYWORD_MATCHES)
         if not topics:
             continue
 
@@ -571,7 +659,7 @@ def main():
     repo_root = Path(__file__).resolve().parent.parent
     output_path = Path(args.output) if args.output else repo_root / "docs" / "data" / "papers.json"
 
-    # Date range: 6 months ago
+    # Date range
     from_date = (datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
     log.info(f"Fetching papers from {from_date} to today")
 

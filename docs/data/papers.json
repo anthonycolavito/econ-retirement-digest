@@ -1,32 +1,6 @@
 {
   "papers": [
     {
-      "id": "nber_w34922",
-      "title": "The Labor Market Consequences of Rapid Sectoral Shifts",
-      "authors": [
-        {
-          "name": "John R. Grigsby",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Nathan Zorzi",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Sectoral shifts require costly labor reallocation for workers, fueling concerns about how quickly they occur. We study how the pace of such sectoral shifts affects workers at risk of displacement. We develop a life-cycle model with skill heterogeneity and job ladders where labor demand gradually rises in one sector and declines in another. The model reveals three novel insights. First, workers’ lifetime earnings are strongly non-linear and even nonmonotonic in the horizon over which the transition unfolds. Second, more and more workers benefit on the extensive margin as the transition accelerates, but the tail of losses becomes thicker on the intensive margin. Third, labor market frictions are important to quantify these non-linearities. We apply our model to the climate transition and find substantial earnings losses from a transition ending in 2060. Completing the transition ten years earlier reduces average losses, but raises losses in the tail by a fifth.",
-      "publication_date": "2026-03-13",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w34922#fromrss",
-      "topics": [
-        "consumption_savings"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-03-13"
-    },
-    {
       "id": "nber_w34928",
       "title": "Competition in Health Insurance Markets",
       "authors": [
@@ -47,92 +21,6 @@
       "url": "https://www.nber.org/papers/w34928#fromrss",
       "topics": [
         "insurance_markets"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "nber_w34938",
-      "title": "Reducing Waste through Anti-Fraud Enforcement: Evidence from Hospital Admission Cases",
-      "authors": [
-        {
-          "name": "David H. Howard",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Jetson Leder-Luis",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "The use of federal anti-fraud laws to address unnecessary medical care is controversial. Targeted providers frequently argue that, in their judgment, the treatment in question was appropriate. We examine the effects of anti-fraud litigation against hospitals for over-admitting patients from the emergency department, using 100% Medicare claims for 2005-2019 and a design based on the staggered rollout of these lawsuits. We find that anti-fraud lawsuits reduced admission rates by 3.6 percentage points without increasing mortality rates. We estimate five-year savings to Medicare of $1.3 billion. Our results suggest that anti-fraud enforcement can be successful in reducing costly, unnecessary care.",
-      "publication_date": "2026-03-13",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w34938#fromrss",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "nber_w34939",
-      "title": "The Skill Premium in Times of Rapid Technological Change",
-      "authors": [
-        {
-          "name": "Tarek Alexander Hassan",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Aakash Kalyani",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Pascual Restrepo",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "This paper shows that the pace of technology creation is a key driver of the skill premium. It develops a model in which skilled workers have a comparative advantage in learning new technologies. As technologies age, they become standardized and accessible to other workers. The skill premium is determined by the interplay between the pace of technology creation and standardization. A rapid pace of technology creation leads to a sustained increase in the skill premium. We calibrate the model using novel text-based data on new technologies and their changing demand for skills as they age. These data show that new technologies are initially skill intensive but become less so as they age. The data also point to an increased pace of new technology creation starting in the 1970s and tapering off in the 2000s. In response to this rapid pace of technology creation, the model generates a 32 percent increase in the college premium, which begins to reverse in the 2010s. Our framework also explains why the college premium is higher in dense cities, why its increase was mainly urban, and why it rose first for young workers and later for older workers.",
-      "publication_date": "2026-03-13",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w34939#fromrss",
-      "topics": [
-        "retirement_decisions"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "nber_w34943",
-      "title": "The Changing Landscape of International Development: An Introduction",
-      "authors": [
-        {
-          "name": "Pascaline Dupas",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Pinelopi Koujianou Goldberg",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Rohini Pande",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Since the late 1980s, extreme poverty has declined sharply, life expectancy and schooling have increased, and electoral democracy has expanded. However poverty reduction has slowed in recent years, particularly following the COVID-19 pandemic, amid intensifying conflict, fragility, climate risks, democratic backsliding, and the erosion of global trends—including trade integration and geopolitical stability—that once supported growth. These dynamics raise three interrelated questions: what barriers impede further progress; where will future growth in lower-income countries come from; and how can growth be broadly shared. Taking stock of 15 chapters forthcoming in Volume 6 of the Handbook of Development Economics, we discuss how external conditions, state capacity and policy choices shape development; analyze the shifting growth drivers, including trade, technology and the rise of services; discuss persistent inequality and distributional tensions; and conjecture that investing in institutions and people pays off.",
-      "publication_date": "2026-03-13",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w34943#fromrss",
-      "topics": [
-        "longevity_mortality"
       ],
       "concepts": [],
       "matched_by": "nber_rss",
@@ -181,6 +69,357 @@
         {
           "name": "Deferral",
           "score": 0.502
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7130643125",
+      "title": "Lagged-price reimbursement contracts: The impact of medicare Part B on pharmaceutical price growth",
+      "authors": [
+        {
+          "name": "Angelique Acquatella",
+          "affiliation": "Toulouse School of Economics"
+        },
+        {
+          "name": "Keith Marzilli Ericson",
+          "affiliation": "Boston University"
+        },
+        {
+          "name": "Amanda Starc",
+          "affiliation": "Kellogg's (Canada)"
+        }
+      ],
+      "abstract": "We examine lagged-price cost-plus reimbursement contracts, focusing on Medicare Part B’s payment for physician-administered drugs. While previous research has shown that Part B increased launch prices, we estimate its effect on later prices and find that lagged-price reimbursement lowers prices in later periods. Drugs more exposed to Medicare reimbursement have lower price growth (net of rebates): a drug with above median Part B exposure has a 10% lower price after 3 years than a below median exposure drug that launched at the same price. The effect is larger for newly approved molecules, which face less competition. • Lagged Medicare reimbursement affects pharmaceutical price trajectories. • Physician-administered drugs with higher exposure to Medicare experience slower price growth. • Price dampening emerges several years after market entry. • Effects are strongest for new drugs facing limited early competition. • Results inform the design of cost-plus procurement contracts.",
+      "publication_date": "2026-02-20",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105595",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105595",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Reimbursement",
+          "score": 0.9
+        },
+        {
+          "name": "Payment",
+          "score": 0.627
+        },
+        {
+          "name": "Drug prices",
+          "score": 0.614
+        },
+        {
+          "name": "Economics",
+          "score": 0.494
+        },
+        {
+          "name": "Medicare Part D",
+          "score": 0.471
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7127564140",
+      "title": "Imperfect Competition in Markets with Adverse or Advantageous Selection",
+      "authors": [
+        {
+          "name": "Markus Parlasca",
+          "affiliation": "Leibniz Institute for Financial Research SAFE"
+        }
+      ],
+      "abstract": "Abstract This paper proposes a spatial model of imperfect competition in markets with adverse or advantageous selection. The model shows that a reduction in competition exacerbates the inefficiency created by adverse selection but can ameliorate the inefficiency created by advantageous selection. However, reduced competition never corrects the inefficiency perfectly because it introduces an allocative inefficiency. By contrast, the inefficiency can be corrected perfectly through a corrective tax when there is perfect competition. Our results have implications for competition policy in credit and insurance markets, as they caution against viewing imperfect competition as a solution to the inefficiencies created by selection.",
+      "publication_date": "2026-02-04",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.1700",
+      "url": "https://doi.org/10.1162/rest.a.1700",
+      "topics": [
+        "insurance_markets"
+      ],
+      "concepts": [
+        {
+          "name": "Inefficiency",
+          "score": 0.949
+        },
+        {
+          "name": "Allocative efficiency",
+          "score": 0.834
+        },
+        {
+          "name": "Adverse selection",
+          "score": 0.811
+        },
+        {
+          "name": "Imperfect competition",
+          "score": 0.759
+        },
+        {
+          "name": "Competition (biology)",
+          "score": 0.725
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7127639882",
+      "title": "Why Does Disability Insurance Enrollment Increase During Recessions? Evidence from Medicare",
+      "authors": [
+        {
+          "name": "Colleen Carey",
+          "affiliation": "Cornell University"
+        },
+        {
+          "name": "Nolan Miller",
+          "affiliation": "University of Illinois System"
+        },
+        {
+          "name": "David Molitor",
+          "affiliation": "University of Illinois System"
+        }
+      ],
+      "abstract": "Abstract Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
+      "publication_date": "2026-02-04",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.1698",
+      "url": "https://doi.org/10.1162/rest.a.1698",
+      "topics": [
+        "public_pensions",
+        "social_insurance",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Unemployment",
+          "score": 0.731
+        },
+        {
+          "name": "Disability insurance",
+          "score": 0.557
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.536
+        },
+        {
+          "name": "Recession",
+          "score": 0.53
+        },
+        {
+          "name": "Great recession",
+          "score": 0.487
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7127647932",
+      "title": "Willingness-To-Pay versus Administrative Hurdles: Understanding Barriers to Social Insurance Enrollment in Thailand",
+      "authors": [
+        {
+          "name": "Benjamin A. Olken",
+          "affiliation": "Moscow Institute of Thermal Technology"
+        },
+        {
+          "name": "Rema Hanna",
+          "affiliation": ""
+        },
+        {
+          "name": "Phitawat Poonpolkul",
+          "affiliation": "Bank Indonesia"
+        },
+        {
+          "name": "Nada Wasi",
+          "affiliation": "Bank Indonesia"
+        }
+      ],
+      "abstract": "Abstract Many social insurance programs have low take-up, but it is unclear whether this is due to administrative barriers, information, or low insurance valuations. We study a Thai policy that offered large incentives for informal workers in selected provinces to enroll. The incentives increased insurance coverage by 67 percentage points- from 6 percent of informal workers to 73 percent- within two months. However, 12 months later, only 13 percent remained insured. Using choices among insurance tiers to back out revealed valuations, we find that low social insurance enrollment may be due to low ex-ante valuations of insurance, rather than administrative barriers.",
+      "publication_date": "2026-02-04",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.1711",
+      "url": "https://doi.org/10.1162/rest.a.1711",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.739
+        },
+        {
+          "name": "Business",
+          "score": 0.627
+        },
+        {
+          "name": "Social insurance",
+          "score": 0.566
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.472
+        },
+        {
+          "name": "General insurance",
+          "score": 0.426
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7127592864",
+      "title": "Family Institutions and the Global Fertility Transition",
+      "authors": [
+        {
+          "name": "Paula E. Gobbi",
+          "affiliation": "Université Libre de Bruxelles"
+        },
+        {
+          "name": "Anne Hannusch",
+          "affiliation": "University of Bonn"
+        },
+        {
+          "name": "Pauline Rossi",
+          "affiliation": "École Polytechnique"
+        }
+      ],
+      "abstract": "Much of the observed cross-country variation in fertility aligns with the predictions of classic theories of the fertility transition: countries with higher levels of human capital, higher GDP per capita, or lower mortality rates tend to exhibit lower fertility. However, when examining changes within countries over the past 60 years, larger fertility declines are only weakly associated with greater improvements in human capital, per capita GDP, or survival rates. To understand why, we focus on the role of family institutions, particularly marriage and inheritance customs. We argue that, together with the diffusion of cultural norms, they help explain variations in the timing, speed and magnitude of the fertility decline. We propose a stylized model integrating economic, health, institutional and cultural factors to study how these factors interact to shape fertility transition paths. We find that family institutions can mediate the effect of economic development by constraining fertility responses.",
+      "publication_date": "2026-02-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251460",
+      "url": "https://doi.org/10.1257/jep.20251460",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Fertility",
+          "score": 0.894
+        },
+        {
+          "name": "Stylized fact",
+          "score": 0.789
+        },
+        {
+          "name": "Demographic transition",
+          "score": 0.725
+        },
+        {
+          "name": "Economics",
+          "score": 0.583
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.576
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7127622621",
+      "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
+      "authors": [
+        {
+          "name": "David Weil",
+          "affiliation": "Brown University"
+        }
+      ],
+      "abstract": "I assess the effect of continued sub-replacement fertility on age-adjusted consumption per capita. Channels assessed include transfers from working-age adults to children and the elderly, the effect of the labor force growth rate on required capital investment, sustainability of government debt, the interaction of population size with fixed natural resources (including a clean environment), and the effect of population size on the speed of technological progress. To isolate the effect of low fertility from other ongoing demographic changes, I use simulation models as well as projections from the United Nations and Social Security Administration that vary fertility rates while holding other factors constant. My main finding is that the impact of low fertility is likely to be negative but small. In addition, this negative impact arrives only after a long adjustment period. An increase in fertility back to the replacement rate would lower the standard of living for several decades.",
+      "publication_date": "2026-02-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251462",
+      "url": "https://doi.org/10.1257/jep.20251462",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Fertility",
+          "score": 0.862
+        },
+        {
+          "name": "Total fertility rate",
+          "score": 0.701
+        },
+        {
+          "name": "Economics",
+          "score": 0.646
+        },
+        {
+          "name": "Social security",
+          "score": 0.565
+        },
+        {
+          "name": "Population",
+          "score": 0.526
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7126193704",
+      "title": "Raising the Stakes: Physician Facility Investments and Provider Agency",
+      "authors": [
+        {
+          "name": "Elizabeth L. Munnich",
+          "affiliation": "University of Louisville"
+        },
+        {
+          "name": "Michael R. Richards",
+          "affiliation": "Cornell University"
+        },
+        {
+          "name": "Christopher Whaley",
+          "affiliation": "Department of Health Services"
+        },
+        {
+          "name": "Xiaoxi Zhao",
+          "affiliation": "RAND Corporation"
+        }
+      ],
+      "abstract": "Principal-agent problems often extend beyond what can be directly addressed through conventional incentive arrangements. We examine a context where physicians are likely under-incentivized to minimize total medical costs until their private financial interests align with those of patients. Leveraging novel data on physician ownership of ambulatory surgery centers——that is, same-day facilities——we show that these equity holdings cause a substitution away from higher cost, rival settings that lowers Medicare spending by 10–40 percent per physician. We find no clear evidence of perverse behavior following these investments. Instead, our findings demonstrate how entrepreneurial activity can indirectly limit principal-agent problems and improve efficiency. (JEL D82, D91, G51, I11, I18, L84)",
+      "publication_date": "2026-01-30",
+      "source": "American Economic Review",
+      "source_type": "journal",
+      "doi": "10.1257/aer.20211324",
+      "url": "https://doi.org/10.1257/aer.20211324",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.68
+        },
+        {
+          "name": "Business",
+          "score": 0.644
+        },
+        {
+          "name": "Context (archaeology)",
+          "score": 0.627
+        },
+        {
+          "name": "Raising (metalworking)",
+          "score": 0.596
+        },
+        {
+          "name": "Agency (philosophy)",
+          "score": 0.595
         }
       ],
       "matched_by": "keyword",
@@ -293,168 +532,6 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W7124941341",
-      "title": "The Future in Mind: Aspirations and Long-Term Outcomes in Rural Ethiopia",
-      "authors": [
-        {
-          "name": "Tanguy Bernard",
-          "affiliation": "Centre National de la Recherche Scientifique"
-        },
-        {
-          "name": "Stefan Dercon",
-          "affiliation": "Centre for Economic Policy Research"
-        },
-        {
-          "name": "Kate Orkin",
-          "affiliation": "Center for Economic and Policy Research"
-        },
-        {
-          "name": "Giulio Schinaia",
-          "affiliation": "University of Chicago"
-        },
-        {
-          "name": "Alemayehu Seyoum Taffesse",
-          "affiliation": "International Food Policy Research Institute"
-        }
-      ],
-      "abstract": "Abstract Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomized controlled trial in remote, rural Ethiopia to explore this and evaluate an intervention that aims to change how poor people perceive their future opportunities, alter their aspirations, and through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and who serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children’s education, and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.",
-      "publication_date": "2026-01-18",
-      "source": "The Quarterly Journal of Economics",
-      "source_type": "journal",
-      "doi": "10.1093/qje/qjag002",
-      "url": "https://doi.org/10.1093/qje/qjag002",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Poverty",
-          "score": 0.74
-        },
-        {
-          "name": "Intervention (counseling)",
-          "score": 0.595
-        },
-        {
-          "name": "Investment (military)",
-          "score": 0.557
-        },
-        {
-          "name": "Economic growth",
-          "score": 0.485
-        },
-        {
-          "name": "Chronic poverty",
-          "score": 0.432
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W7125390003",
-      "title": "Visions of the Future",
-      "authors": [
-        {
-          "name": "Jaba Tkemaladze",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "This paper posits that the most significant long-term existential risk to human civilization is not an acute technological or environmental catastrophe, but a chronic, systemic decay driven by the psychological and demographic consequences of a biologically capped lifespan. The entrenched expectation of mortality before 120 years fosters a condition of \"temporal myopia,\" which cultivates cultural short-termism, consumerist nihilism, and demographic apathy. A critical and compounding aspect of this risk is the observed strong negative correlation between high cognitive ability and reproductive rates, leading to a systematic, dysgenic drain on humanity's problem-solving capacity. This creates a recursive threat far greater than any single hazard, as it erodes the intellectual capital necessary to navigate all other complex challenges. To counter this civilizational trajectory, we propose a novel biomedical paradigm: a strategy of continuous personal rejuvenation. This approach is based on utilizing in-vitro gametogenesis to generate autologous gametes, followed by auto-fertilization to create a new embryonic lineage. This protocol enables a comprehensive reset of cellular age, including the critical de novo formation of young centrioles, addressing the Centriolar Theory of Organismal Aging. The resulting young, perfectly matched adult stem cells are proposed for periodic autologous transplantation to maintain the body's regenerative potential indefinitely. We argue that this intervention transcends its medical purpose. By enabling the indefinite maintenance of cognitive and physical vitality, it allows the most capable individuals to remain active contributors for centuries, provides time for wisdom to accumulate, and transforms detrimental demographic structures. Therefore, rejuvenation biotechnology should be framed not as a mere luxury, but as a necessary civilizational safeguard—a strategic imperative to prevent a slow-motion intellectual and demographic collapse and to secure a flourishing long-term future for humanity.",
-      "publication_date": "2026-01-03",
-      "source": "Longevity Horizon",
-      "source_type": "journal",
-      "doi": "10.65649/8be27s21",
-      "url": "https://doi.org/10.65649/8be27s21",
-      "topics": [
-        "public_pensions",
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Vision",
-          "score": 0.735
-        },
-        {
-          "name": "Civilization",
-          "score": 0.57
-        },
-        {
-          "name": "Serendipity",
-          "score": 0.471
-        },
-        {
-          "name": "Environmental ethics",
-          "score": 0.454
-        },
-        {
-          "name": "Anticipation (artificial intelligence)",
-          "score": 0.44
-        }
-      ],
-      "matched_by": "concept",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W7119471288",
-      "title": "Changing Opportunity: Sociological Mechanisms Underlying Growing Class Gaps and Shrinking Race Gaps in Economic Mobility",
-      "authors": [
-        {
-          "name": "Raj Chetty",
-          "affiliation": "Clinical Insights"
-        },
-        {
-          "name": "Will Dobbie",
-          "affiliation": "Clinical Insights"
-        },
-        {
-          "name": "Benjamin Goldman",
-          "affiliation": "Cornell University"
-        },
-        {
-          "name": "Sonya R Porter",
-          "affiliation": "United States Census Bureau"
-        },
-        {
-          "name": "Crystal S Yang",
-          "affiliation": "Clinical Insights"
-        }
-      ],
-      "abstract": "Abstract We show that intergenerational mobility changed rapidly by race and class in recent decades in the United States and study the causal mechanisms underlying those changes. Between the 1978 and 1992 birth cohorts, earnings increased for white children from high-income families relative to white children from low-income families, increasing earnings gaps by parental income (class) by 30%. Earnings increased for Black children at all parental income levels, reducing white-Black earnings gaps for children from low-income families by 30%. Class gaps grew and race gaps shrank similarly for nonmonetary outcomes such as educational attainment, standardized test scores, and mortality rates. Using a quasi-experimental design, we show that the divergent trends in economic mobility were caused by differential changes in childhood environments, as proxied by parental employment rates, in local communities defined by race, class, and childhood county. Outcomes improve across birth cohorts for children who grow up in communities with increasing parental employment rates, with larger effects for children who move to such communities at younger ages. Children’s outcomes are most strongly related to the parental employment rates of peers they are more likely to interact with, such as those in their own birth cohort, suggesting that the relationship between children’s outcomes and parental employment rates is mediated by social interaction.",
-      "publication_date": "2026-01-02",
-      "source": "The Quarterly Journal of Economics",
-      "source_type": "journal",
-      "doi": "10.1093/qje/qjaf057",
-      "url": "https://doi.org/10.1093/qje/qjaf057",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Earnings",
-          "score": 0.842
-        },
-        {
-          "name": "Social mobility",
-          "score": 0.68
-        },
-        {
-          "name": "Race (biology)",
-          "score": 0.677
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.613
-        },
-        {
-          "name": "Differential (mechanical device)",
-          "score": 0.485
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
       "id": "W3207058961",
       "title": "New Insights from Irish Pension Fund Statistics",
       "authors": [
@@ -510,43 +587,372 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W7117885449",
-      "title": "Effects of Anti-ESG Legislation: Evidence from the Mutual Fund Industry",
+      "id": "W7118022352",
+      "title": "&lt;div&gt; The Impact of Demographic Change on Household&amp;nbsp;&lt;span&gt;Debt&lt;/span&gt;&lt;/div&gt;",
       "authors": [
         {
-          "name": "Anna Rozhkova",
-          "affiliation": "University of Toronto"
+          "name": "Meeroo Kim",
+          "affiliation": "Korea Development Institute"
         }
       ],
       "abstract": "",
       "publication_date": "2026-01-01",
       "source": "SSRN Electronic Journal",
       "source_type": "preprint",
-      "doi": "10.2139/ssrn.5992314",
-      "url": "https://doi.org/10.2139/ssrn.5992314",
+      "doi": "10.2139/ssrn.6001214",
+      "url": "https://doi.org/10.2139/ssrn.6001214",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Asset (computer security)",
+          "score": 0.724
+        },
+        {
+          "name": "Incentive",
+          "score": 0.568
+        },
+        {
+          "name": "Debt",
+          "score": 0.567
+        },
+        {
+          "name": "Economics",
+          "score": 0.566
+        },
+        {
+          "name": "Demographic change",
+          "score": 0.522
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7118170164",
+      "title": "Impact Of MGNREGS on Poverty Alleviation in Telangana State",
+      "authors": [
+        {
+          "name": "Sathish Raikindi",
+          "affiliation": "Nizam's Institute of Medical Sciences"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-01-01",
+      "source": "SSRN Electronic Journal",
+      "source_type": "preprint",
+      "doi": "10.2139/ssrn.5796562",
+      "url": "https://doi.org/10.2139/ssrn.5796562",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Wage",
+          "score": 0.706
+        },
+        {
+          "name": "Poverty",
+          "score": 0.631
+        },
+        {
+          "name": "Livelihood",
+          "score": 0.626
+        },
+        {
+          "name": "Poverty reduction",
+          "score": 0.584
+        },
+        {
+          "name": "Economics",
+          "score": 0.579
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7118192714",
+      "title": "Does a weak social safety net hold back private consumption in China?",
+      "authors": [
+        {
+          "name": "Nicholas R. Lardy",
+          "affiliation": "Peterson Institute for International Economics"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-01-01",
+      "source": "SSRN Electronic Journal",
+      "source_type": "preprint",
+      "doi": "10.2139/ssrn.5963695",
+      "url": "https://doi.org/10.2139/ssrn.5963695",
+      "topics": [
+        "public_pensions",
+        "social_insurance",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Safety net",
+          "score": 0.748
+        },
+        {
+          "name": "Consumption (sociology)",
+          "score": 0.728
+        },
+        {
+          "name": "Consumer spending",
+          "score": 0.676
+        },
+        {
+          "name": "Government (linguistics)",
+          "score": 0.585
+        },
+        {
+          "name": "Economics",
+          "score": 0.557
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7118833805",
+      "title": "The Impact of Spousal Social Security Claiming Decisions on the Financial Shock of Widowhood",
+      "authors": [
+        {
+          "name": "Sita Slavov",
+          "affiliation": "George Mason University"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-01-01",
+      "source": "SSRN Electronic Journal",
+      "source_type": "preprint",
+      "doi": "10.2139/ssrn.5981522",
+      "url": "https://doi.org/10.2139/ssrn.5981522",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Earnings",
+          "score": 0.761
+        },
+        {
+          "name": "Social security",
+          "score": 0.634
+        },
+        {
+          "name": "Shock (circulatory)",
+          "score": 0.632
+        },
+        {
+          "name": "Economics",
+          "score": 0.602
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.503
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7118961216",
+      "title": "ESG Value Creation in Private Equity: From Rhetoric to Returns",
+      "authors": [
+        {
+          "name": "Evan Greenfield",
+          "affiliation": "State Power Investment Corporation (China)"
+        },
+        {
+          "name": "Ashby Monk",
+          "affiliation": "Stanford University"
+        },
+        {
+          "name": "Dane Rook",
+          "affiliation": "Stanford University"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-01-01",
+      "source": "SSRN Electronic Journal",
+      "source_type": "preprint",
+      "doi": "10.2139/ssrn.6000614",
+      "url": "https://doi.org/10.2139/ssrn.6000614",
       "topics": [
         "private_pensions"
       ],
       "concepts": [
         {
-          "name": "Mutual fund",
-          "score": 0.719
+          "name": "Private equity",
+          "score": 0.704
+        },
+        {
+          "name": "Equity (law)",
+          "score": 0.637
+        },
+        {
+          "name": "Corporation",
+          "score": 0.629
+        },
+        {
+          "name": "Corporate governance",
+          "score": 0.623
         },
         {
           "name": "Business",
-          "score": 0.656
+          "score": 0.596
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7117489691",
+      "title": "Disadvantaging Rivals: Vertical Integration in the Pharmaceutical Market",
+      "authors": [
+        {
+          "name": "Charles Gray",
+          "affiliation": "The White House"
         },
         {
-          "name": "Target date fund",
-          "score": 0.609
+          "name": "Abby Alpert",
+          "affiliation": "University of Pennsylvania"
         },
         {
-          "name": "Open-end fund",
-          "score": 0.607
+          "name": "Neeraj Sood",
+          "affiliation": "University of Southern California"
+        }
+      ],
+      "abstract": "The pharmaceutical market has experienced a wave of vertical integration between pharmacy benefit managers (PBMs) and insurers in recent years. Using a unique dataset on insurer-PBM contracts, we document increasing vertical integration in Medicare Part D. Next, we evaluate the effects of a large insurer-PBM merger in 2015, assessing the trade-offs of vertical integration—harms to competition on the one hand and improved efficiency on the other. We find premium increases for rival insurers post-merger, consistent with vertically integrated PBMs raising costs through input foreclosure. We find no evidence of benefits to consumers of the merged firm from lower premiums. (JEL G22, G34, I13, I18, L22, L65)",
+      "publication_date": "2025-12-29",
+      "source": "American Economic Journal Applied Economics",
+      "source_type": "journal",
+      "doi": "10.1257/app.20240011",
+      "url": "https://doi.org/10.1257/app.20240011",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Vertical integration",
+          "score": 0.911
         },
         {
-          "name": "Fund of funds",
-          "score": 0.593
+          "name": "Competition (biology)",
+          "score": 0.629
+        },
+        {
+          "name": "Business",
+          "score": 0.616
+        },
+        {
+          "name": "Pharmaceutical industry",
+          "score": 0.583
+        },
+        {
+          "name": "Industrial organization",
+          "score": 0.577
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7116980467",
+      "title": "The size and distribution of augmented wealth – A look at Austria and beyond",
+      "authors": [
+        {
+          "name": "Markus Knell",
+          "affiliation": ""
+        },
+        {
+          "name": "Reinhard Koman",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Abstract This paper contributes to the literature on augmented wealth (the sum of public pension entitlements and net wealth) along three dimensions. First, it provides new country-specific estimates of augmented wealth for Austria in the year 2017 by combining data from the HFCS (Household Finance and Consumption Survey) and the social security registry. Second, it shows that the main results, which are based on statistical matching, are surprisingly similar to estimates that utilize direct survey responses or information on work history. This finding suggests that international comparisons might be possible even if the results are based on different methodologies. Third, the paper also contrasts the size and distribution of augmented wealth for Austria with comparable estimates for other countries. The household averages of the present value of pension entitlements and of private net wealth turn out to be similar (both amounting to around € 250,000), which is in line with the results for other countries like Switzerland, Germany, and the US. Also, the reduction in the Gini coefficient due to the inclusion of pension entitlements (a decrease from 0.73 to 0.53) is similar for Austria in comparison to other countries.",
+      "publication_date": "2025-12-23",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100115",
+      "url": "https://doi.org/10.1017/s1474747225100115",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.713
+        },
+        {
+          "name": "Gini coefficient",
+          "score": 0.619
+        },
+        {
+          "name": "Consumption (sociology)",
+          "score": 0.58
+        },
+        {
+          "name": "Distribution (mathematics)",
+          "score": 0.565
+        },
+        {
+          "name": "Social security",
+          "score": 0.554
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4416952202",
+      "title": "Sustainability of pension reforms: An EU-wide political stress test",
+      "authors": [
+        {
+          "name": "Jean Hindriks",
+          "affiliation": ""
+        },
+        {
+          "name": "Sefane Çetin",
+          "affiliation": "Social Insurance Institute"
+        }
+      ],
+      "abstract": "Abstract Many countries have implemented a variety of pension reforms in response to the challenges posed by an aging population. These reforms typically involve a trade-off between ‘refinancing’ (i.e., increasing contributions) and ‘retrenchment’ (i.e., reducing benefits). The primary question addressed in this study is whether policymakers in the European Union (EU) possess the necessary capacity to sustain legislated pension reforms, particularly given the growing political influence of the elderly. To examine this issue, we develop a bargaining model designed to optimally allocate the economic burden of aging between successive cohorts of workers and retirees, incorporating retirement incentives. In a scenario where bargaining power remains constant, the optimal allocation rule dictates a fixed-contribution system, effectively shifting the full burden of aging onto the elderly. However, when bargaining power is allowed to fluctuate in response to changes in the relative size of the retiree population (i.e., the dependency rate), the optimal allocation rule involves a compromise between increasing contributions and reducing benefits. In the empirical analysis, we compare these theoretical optimal allocation rules with projections of pension benefit rates and dependency ratios from the 2021 Economic Policy Committee. By calculating the implicit bargaining power required to align projected pension benefits with the optimal sharing rule for each year, we demonstrate a growing divergence between projected pension benefits and the optimal levels in many EU countries, as demographic shifts progress. Furthermore, our findings indicate that for most countries, projected pension benefits are increasingly falling below optimal levels when bargaining power adjusts in accordance with population aging.",
+      "publication_date": "2025-12-03",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100103",
+      "url": "https://doi.org/10.1017/s1474747225100103",
+      "topics": [
+        "longevity_mortality",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.784
+        },
+        {
+          "name": "Economics",
+          "score": 0.738
+        },
+        {
+          "name": "Bargaining power",
+          "score": 0.623
+        },
+        {
+          "name": "Population",
+          "score": 0.509
+        },
+        {
+          "name": "Population ageing",
+          "score": 0.496
         }
       ],
       "matched_by": "keyword",
@@ -604,6 +1010,62 @@
       "added_date": "2026-03-13"
     },
     {
+      "id": "W4416233231",
+      "title": "Personal social environment as determinant of private pension planning",
+      "authors": [
+        {
+          "name": "Lukas Kleinheinz",
+          "affiliation": "Ospedale di Bolzano"
+        },
+        {
+          "name": "Gottfried Tappeiner",
+          "affiliation": "Universität Innsbruck"
+        },
+        {
+          "name": "Urban Perkmann",
+          "affiliation": "Ospedale di Bolzano"
+        },
+        {
+          "name": "Janette Walde",
+          "affiliation": "Universität Innsbruck"
+        }
+      ],
+      "abstract": "Abstract Following European pension reforms, the responsibility for old-age provision has increasingly shifted from the state to the individual. This study examines how behavioral norms and perceptions of parents’ or grandparents’ financial situation influence participation in the voluntary second pillar. Using survey data from two Italian provinces with high coverage of supplementary pension funds, the analysis shows that norms transmitted through family and friends strongly predict participation, whereas workplace norms matter only for women. Perceived financial hardship of older relatives increases both awareness of retirement planning and the likelihood of enrollment, underscoring the role of the social environment.",
+      "publication_date": "2025-11-14",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100097",
+      "url": "https://doi.org/10.1017/s1474747225100097",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.676
+        },
+        {
+          "name": "Business",
+          "score": 0.552
+        },
+        {
+          "name": "Private pension",
+          "score": 0.531
+        },
+        {
+          "name": "Perception",
+          "score": 0.486
+        },
+        {
+          "name": "Turnover",
+          "score": 0.401
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
       "id": "W4416176458",
       "title": "Crowding out crowd support? Substitution between formal and informal insurance",
       "authors": [
@@ -648,61 +1110,6 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4416027256",
-      "title": "Corrigendum to “The influence of inheritances on wealth inequality in rich countries”. [J. Public Econ. 247 (2025) 105398]",
-      "authors": [
-        {
-          "name": "Salvatore Morelli",
-          "affiliation": "Roma Tre University"
-        },
-        {
-          "name": "Brian Nolan",
-          "affiliation": "Oxford Policy Management"
-        },
-        {
-          "name": "Juan C. Palomino",
-          "affiliation": "Universidad Complutense de Madrid"
-        },
-        {
-          "name": "Philippe Van Kerm",
-          "affiliation": "Luxembourg Institute of Socio-Economic Research"
-        }
-      ],
-      "abstract": "",
-      "publication_date": "2025-11-08",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105511",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105511",
-      "topics": [
-        "consumption_savings"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.886
-        },
-        {
-          "name": "Inequality",
-          "score": 0.756
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.35
-        },
-        {
-          "name": "Monetary economics",
-          "score": 0.335
-        },
-        {
-          "name": "Economic inequality",
-          "score": 0.328
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
       "id": "W4415700305",
       "title": "Default Options and Retirement Saving Dynamics",
       "authors": [
@@ -741,49 +1148,6 @@
         {
           "name": "Panel Study of Income Dynamics",
           "score": 0.425
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4415700285",
-      "title": "International Trade Responses to Labor Market Regulations",
-      "authors": [
-        {
-          "name": "Mathilde Muñoz",
-          "affiliation": "Center for Economic and Policy Research"
-        }
-      ],
-      "abstract": "This paper demonstrates that labor market regulations, such as minimum wages or payroll taxes, shape trade competition in labor-intensive activities. I exploit data from a large European trade program where firms from different countries supply labor services at the same location but face different payroll taxes and minimum wage rules. Country case studies and model-consistent gravity estimates show large trade responses to tax and regulatory reforms, with an elasticity of trade in services to labor costs larger than one. The results imply that absent regulatory and fiscal harmonization, export competitiveness depends, in part, on domestic labor market policies. (JEL F14, F16, F42, H25, J22, J23, K31)",
-      "publication_date": "2025-10-30",
-      "source": "American Economic Review",
-      "source_type": "journal",
-      "doi": "10.1257/aer.20231531",
-      "url": "https://doi.org/10.1257/aer.20231531",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Payroll",
-          "score": 0.669
-        },
-        {
-          "name": "Economics",
-          "score": 0.605
-        },
-        {
-          "name": "Exploit",
-          "score": 0.552
-        },
-        {
-          "name": "Payroll tax",
-          "score": 0.49
-        },
-        {
-          "name": "Competition (biology)",
-          "score": 0.482
         }
       ],
       "matched_by": "keyword",
@@ -845,332 +1209,98 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4415659223",
-      "title": "Labor Supply Responses and Adjustment Frictions: A Tax-Free Year in Iceland",
+      "id": "W4415675016",
+      "title": "Inertia, Market Power, and Adverse Selection in Health Insurance: Evidence from the ACA Exchanges",
       "authors": [
         {
-          "name": "Jósef Sigurðsson",
-          "affiliation": "Center for Economic and Policy Research"
+          "name": "Evan Saltzman",
+          "affiliation": "Florida State University"
+        },
+        {
+          "name": "Ashley Swanson",
+          "affiliation": "Madison Group (United States)"
+        },
+        {
+          "name": "Daniel Polsky",
+          "affiliation": "Johns Hopkins University"
         }
       ],
-      "abstract": "Labor income earned in Iceland in 1987 went untaxed. I use this episode to study labor supply responses to temporary wage changes. Using a population-wide dataset of earnings and working time and two identification strategies, I estimate intensive and extensive margin Frisch elasticities of 0.4 and 0.09, respectively. Workers with the ability to adjust drive these average responses: extensive margin by young and close-to-retirement cohorts and intensive margin responses by workers in temporally flexible jobs, though secondary jobs contribute to one-tenth of the response. The results suggest that adjustment frictions may similarly explain differences in elasticities within and across countries. (JEL H24, H31, J22)",
+      "abstract": "Abstract We study how inertia interacts with market power and adverse selection in health insurance. We incorporate inertia into a model of plan selection and price competition, and estimate it using data from the California ACA exchange. We estimate inertia costs equaling 26% of average premiums. Our simulations indicate that inertia exacerbates market power, but has minimal interaction with selection. Eliminating inertia reduces average premiums by 6.6%. Maintaining premium-linked subsidies or reducing consumer churn increases the impact of inertia by enhancing market power. Provider network attachment is an important impediment to plan switching, but substantial inertia remains after accounting for networks.",
       "publication_date": "2025-10-29",
-      "source": "American Economic Journal Economic Policy",
+      "source": "The Review of Economics and Statistics",
       "source_type": "journal",
-      "doi": "10.1257/pol.20220386",
-      "url": "https://doi.org/10.1257/pol.20220386",
+      "doi": "10.1162/rest.a.1615",
+      "url": "https://doi.org/10.1162/rest.a.1615",
       "topics": [
-        "retirement_decisions"
+        "insurance_markets"
       ],
       "concepts": [
         {
-          "name": "Margin (machine learning)",
-          "score": 0.828
+          "name": "Adverse selection",
+          "score": 0.724
         },
         {
-          "name": "Earnings",
-          "score": 0.761
+          "name": "Inertia",
+          "score": 0.723
         },
         {
-          "name": "Economics",
-          "score": 0.743
+          "name": "Subsidy",
+          "score": 0.716
         },
         {
-          "name": "Wage",
-          "score": 0.637
+          "name": "Selection (genetic algorithm)",
+          "score": 0.574
         },
         {
-          "name": "Labour economics",
-          "score": 0.591
+          "name": "Health plan",
+          "score": 0.481
         }
       ],
       "matched_by": "keyword",
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4415100462",
-      "title": "Accounting for uncertainty in conflict mortality estimation: an application to the Gaza War in 2023-2024",
+      "id": "W4415598714",
+      "title": "Household Bundling of Health Insurance",
       "authors": [
         {
-          "name": "Ana C. Gómez-Ugarte",
-          "affiliation": "Max Planck Institute for Demographic Research"
-        },
-        {
-          "name": "Irena Chen",
-          "affiliation": "Max Planck Institute for Demographic Research"
-        },
-        {
-          "name": "Enrique Acosta",
-          "affiliation": "Max Planck Institute for Demographic Research"
-        },
-        {
-          "name": "Ugofilippo Basellini",
-          "affiliation": "Max Planck Institute for Demographic Research"
-        },
-        {
-          "name": "Diego Alburez‐Gutierrez",
-          "affiliation": "Max Planck Institute for Demographic Research"
+          "name": "Anh Nguyen",
+          "affiliation": "Carnegie Mellon University"
         }
       ],
-      "abstract": "",
-      "publication_date": "2025-10-13",
-      "source": "Population Health Metrics",
+      "abstract": "Abstract This paper examines how to bundle household health insurance, treating each member’s policy as a product in the bundle. Two regimes are analyzed: pure bundling and bundle discounts. Pure bundling is socially optimal when willingness to pay differs across members, when the bundle is valued more than individual components, or when households prefer insuring costlier members, implying within-household adverse selection. Using Vietnam’s Social Health Insurance data, structural estimates show substantial heterogeneity in willingness to pay, driven mainly by health-type differences. A pure bundling policy increases consumer surplus by 43% relative to bundle discounts.",
+      "publication_date": "2025-10-27",
+      "source": "The Review of Economics and Statistics",
       "source_type": "journal",
-      "doi": "10.1186/s12963-025-00422-9",
-      "url": "https://doi.org/10.1186/s12963-025-00422-9",
+      "doi": "10.1162/rest.a.1627",
+      "url": "https://doi.org/10.1162/rest.a.1627",
       "topics": [
-        "longevity_mortality"
+        "social_insurance",
+        "insurance_markets"
       ],
       "concepts": [
         {
-          "name": "Counterfactual thinking",
-          "score": 0.778
+          "name": "Bundle",
+          "score": 0.728
         },
         {
-          "name": "Life expectancy",
-          "score": 0.727
+          "name": "Willingness to pay",
+          "score": 0.674
         },
         {
-          "name": "Estimation",
-          "score": 0.575
+          "name": "Product (mathematics)",
+          "score": 0.62
         },
         {
-          "name": "Medicine",
-          "score": 0.488
+          "name": "Economics",
+          "score": 0.514
         },
         {
-          "name": "Armed conflict",
+          "name": "Health insurance",
           "score": 0.466
         }
       ],
-      "matched_by": "concept",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4415100896",
-      "title": "A CONTRIBUIÇÃO DA CONTABILIDADE PARA GESTÃO DAS FINANÇAS PESSOAIS E FAMILIARES",
-      "authors": [
-        {
-          "name": "Analice Andretti Gomes",
-          "affiliation": "Universidade do Tocantins"
-        },
-        {
-          "name": "Rafaela Brito da Silva",
-          "affiliation": "Universidade do Tocantins"
-        }
-      ],
-      "abstract": "Neste artigo foi analisada a forma como os princípios contábeis podem auxiliar no planejamento financeiro, no controle de gastos e tomadas de decisões para poder ter estabilidade econômica. O estudo destaca como a gestão financeira pessoal e familiar desempenha um papel essencial na organização econômica dos indivíduos. Nesse contexto, a contabilidade surge como uma ferramenta estratégica, proporcionando informações organizadas e estruturadas que auxiliam na tomada de decisões mais conscientes e eficazes. Este estudo busca responder à seguinte questão: “Como a contabilidade pode contribuir para a gestão financeira pessoal e familiar? ”. Foi definido como objetivo geral: analisar a importância da contabilidade como ferramenta essencial para a gestão eficiente das finanças pessoais e familiares, e como objetivos específicos incluem a investigação de estratégias contábeis para controle financeiro, a aplicação dos princípios contábeis na vida cotidiana e a formação de reservas financeiras para imprevistos. A metodologia adotada é de abordagem qualitativa, exploratória e explicativa, fundamentada na pesquisa bibliográfica, selecionados a partir de bases de dados reconhecidas, como Google Acadêmico e periódicos especializados na área de contábil, permitindo uma análise aprofundada sobre a relação entre contabilidade e gestão financeira pessoal e familiar. A análise dos dados foi realizada por meio de análise interpretativa. A pesquisa mostrou que a contabilidade é uma ferramenta essencial para o controle financeiro familiar, promovendo decisões mais conscientes e estabilidade econômica. O conhecimento sobre a separação de contas e o uso do fluxo de caixa ajudam a gestão e evitam desperdícios e endividamento. Espera-se que o estudo amplie a discussão sobre educação financeira e reforce a importância da contabilidade na gestão das finanças pessoais e familiares, incentivando hábitos responsáveis e promovendo maior estabilidade econômica.",
-      "publication_date": "2025-10-10",
-      "source": "Revista Multidisciplinar do Nordeste Mineiro",
-      "source_type": "journal",
-      "doi": "10.61164/zqh14d09",
-      "url": "https://doi.org/10.61164/zqh14d09",
-      "topics": [
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Humanities",
-          "score": 0.506
-        },
-        {
-          "name": "Political science",
-          "score": 0.453
-        }
-      ],
-      "matched_by": "concept",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4415047106",
-      "title": "Gestão Estratégica de Recursos no Sistema Único de Saúde (SUS): Desafios e Estratégias Administrativas",
-      "authors": [
-        {
-          "name": "Lucas Alves de Oliveira Lima",
-          "affiliation": ""
-        },
-        {
-          "name": "José Victor Ferreira Leite",
-          "affiliation": ""
-        },
-        {
-          "name": "Geyza Caroline Oliveira Pinto",
-          "affiliation": ""
-        },
-        {
-          "name": "Thais Garcia Raymond Franco",
-          "affiliation": ""
-        },
-        {
-          "name": "Claudio Luiz de Freitas",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "Esta pesquisa teve como objetivo analisar os principais desafios enfrentados na gestão estratégica de recursos no Sistema Único de Saúde (SUS) e identificar estratégias administrativas adotadas para otimizar a utilização desses recursos. Para isso, realizou-se uma revisão bibliográfica em bases de dados científicas como SciELO, PubMed, LILACS e Google Acadêmico, selecionando materiais publicados nos últimos dez anos que abordam aspectos financeiros, humanos e tecnológicos da gestão no SUS. Os resultados apontaram que o sistema convive com subfinanciamento crônico, desigualdade na distribuição de recursos financeiros e humanos, precariedade na infraestrutura e desafios na incorporação de tecnologias, além de dificuldades administrativas como burocracia e falta de transparência. Também evidenciaram a necessidade de políticas eficazes para valorização e capacitação dos profissionais da saúde, bem como investimentos estratégicos em inovação e modernização tecnológica. Concluiu-se que a gestão estratégica dos recursos no SUS demanda uma abordagem integrada que articule de forma eficiente os aspectos financeiros, humanos e tecnológicos, respeitando as especificidades regionais e promovendo governança fortalecida, transparência, capacitação contínua e estímulo à inovação responsável. Essa pesquisa contribui para aprofundar o entendimento sobre os entraves e possibilidades na administração do SUS, destacando a importância de políticas públicas estratégicas para garantir a universalidade, integralidade e equidade do sistema de saúde brasileiro.",
-      "publication_date": "2025-10-09",
-      "source": "Revista de Gestão e Secretariado (Management and Administrative Professional Review)",
-      "source_type": "journal",
-      "doi": "10.7769/gesec.v16i10.5320",
-      "url": "https://doi.org/10.7769/gesec.v16i10.5320",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Political science",
-          "score": 0.562
-        },
-        {
-          "name": "Humanities",
-          "score": 0.319
-        }
-      ],
-      "matched_by": "concept",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4414895643",
-      "title": "Secondhand fashion consumers exhibit fast fashion behaviors despite sustainability narratives",
-      "authors": [
-        {
-          "name": "Meital Peleg Mizrachi",
-          "affiliation": "Yale University"
-        },
-        {
-          "name": "Ori Sharon",
-          "affiliation": "Bar-Ilan University"
-        }
-      ],
-      "abstract": "The fashion industry contributes 2-8% of global greenhouse gas emissions, driven by rising clothing consumption and the proliferation of fast fashion. Fast fashion accelerates environmental harm through rapid production cycles, low costs, and short garment lifespans. Secondhand clothing markets are often promoted as a sustainable alternative, promising extended use and reduced waste. These markets have grown rapidly, with global sales reaching $177 billion in 2022 and projected to double by 2027. Despite this growth, few studies have empirically examined whether secondhand purchasing displaces or merely supplements primary market consumption. This study addresses that gap using a nationally representative survey of 1,009 U.S. consumers. We find that secondhand consumption is positively correlated with new clothing purchases (r = 0.58, p < 0.01), particularly among younger consumers and frequent shoppers. Cluster and principal component analyses reveal that highly engaged secondhand consumers also exhibit high overall consumption and short garment retention. Although many report high sustainability knowledge, such knowledge does not reliably predict sustainable behavior. Drawing on rebound and moral licensing theories, we suggest that secondhand purchases may psychologically or economically justify continued overconsumption. These findings challenge assumptions about resale's environmental benefits and support policy interventions to realign resale practices with sustainability goals.",
-      "publication_date": "2025-10-07",
-      "source": "Scientific Reports",
-      "source_type": "journal",
-      "doi": "10.1038/s41598-025-19089-1",
-      "url": "https://doi.org/10.1038/s41598-025-19089-1",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Clothing",
-          "score": 0.791
-        },
-        {
-          "name": "Sustainability",
-          "score": 0.763
-        },
-        {
-          "name": "Purchasing",
-          "score": 0.721
-        },
-        {
-          "name": "Consumption (sociology)",
-          "score": 0.711
-        },
-        {
-          "name": "Business",
-          "score": 0.654
-        }
-      ],
-      "matched_by": "concept",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4414861139",
-      "title": "The Macroeconomic Consequences of Exchange Rate Depreciations",
-      "authors": [
-        {
-          "name": "Masao Fukui",
-          "affiliation": "Boston University"
-        },
-        {
-          "name": "Emi Nakamura",
-          "affiliation": "University of California, Berkeley"
-        },
-        {
-          "name": "Jón Steinsson",
-          "affiliation": "University of California, Berkeley"
-        }
-      ],
-      "abstract": "Abstract We study the consequences of “regime-induced” exchange rate depreciations by comparing outcomes for peggers versus floaters to the U.S. dollar in response to a dollar depreciation. Pegger currencies depreciate relative to floater currencies and these depreciations are strongly expansionary. The boom is associated with a fall in net exports, and (if anything) an increase in interest rates in the pegger countries. This suggests that expenditure switching and domestic monetary policy are not the main drivers of the boom. We show that a large class of existing models cannot match our estimated responses and develop a model with imperfect financial openness that can. Following a depreciation, uncovered interest parity deviations lower the costs of borrowing from abroad and stimulate the economy, as in the data. The model is consistent with (unconditional) exchange rate disconnect and the Mussa fact, even though exchange rates have large effects on the economy.",
-      "publication_date": "2025-10-06",
-      "source": "The Quarterly Journal of Economics",
-      "source_type": "journal",
-      "doi": "10.1093/qje/qjaf039",
-      "url": "https://doi.org/10.1093/qje/qjaf039",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.875
-        },
-        {
-          "name": "Exchange rate",
-          "score": 0.715
-        },
-        {
-          "name": "Monetary economics",
-          "score": 0.713
-        },
-        {
-          "name": "Imperfect",
-          "score": 0.608
-        },
-        {
-          "name": "Interest rate parity",
-          "score": 0.594
-        }
-      ],
       "matched_by": "keyword",
-      "added_date": "2026-03-13"
-    },
-    {
-      "id": "W4414862158",
-      "title": "Can Digital Finance Unleash the Potential for Household Consumption? A Comparison Based on the Inconsistency Between Income and Consumption Classes",
-      "authors": [
-        {
-          "name": "Ziqing Du",
-          "affiliation": "Guangzhou University"
-        },
-        {
-          "name": "Guangming Lv",
-          "affiliation": "Beijing Normal University"
-        }
-      ],
-      "abstract": "The high savings propensity of households has led to inconsistencies between income and consumption classes in China. The issue of unleashing the consumption potential of households arouses public concern. This paper explores the effect of digital finance DF on unleashing the consumption potential of households from the perspective of household consumption habits. By examining the inconsistency between income and consumption classes, the findings reveal that households in China have substantial untapped consumption potential, and that prioritizing household consumption potential is a more effective approach to stimulating consumption. The mechanism analysis shows that DF facilitates consumption growth through both reducing time costs and precautionary savings, as well as easing credit and liquidity constraints. Notably, these effects are more pronounced in underconsumption households compared to equal-consumption households.",
-      "publication_date": "2025-10-04",
-      "source": "Journal of theoretical and applied electronic commerce research",
-      "source_type": "journal",
-      "doi": "10.3390/jtaer20040275",
-      "url": "https://doi.org/10.3390/jtaer20040275",
-      "topics": [
-        "consumption_savings"
-      ],
-      "concepts": [
-        {
-          "name": "Consumption (sociology)",
-          "score": 0.864
-        },
-        {
-          "name": "Autonomous consumption",
-          "score": 0.658
-        },
-        {
-          "name": "Economics",
-          "score": 0.625
-        },
-        {
-          "name": "Consumer spending",
-          "score": 0.535
-        },
-        {
-          "name": "Permanent income hypothesis",
-          "score": 0.499
-        }
-      ],
-      "matched_by": "concept",
       "added_date": "2026-03-13"
     },
     {
@@ -1253,6 +1383,49 @@
       "added_date": "2026-03-13"
     },
     {
+      "id": "W4414543758",
+      "title": "Taxes Today, Benefits Tomorrow",
+      "authors": [
+        {
+          "name": "Thomas Le Barbanchon",
+          "affiliation": "Bocconi University"
+        }
+      ],
+      "abstract": "This paper tests whether partially unemployed workers value future preserved benefits when they bunch at the kink of the unemployment insurance benefit-withdrawal schedule. I extend the bunching formula of Saez (2010) to a dynamic setting that accounts for the value of future benefits tied to taxation. This yields new tests of tax-benefit linkage based on bunching heterogeneity. I verify in quasi-experiments that UI extension programs that decrease the value of future preserved benefits lead to more bunching and to lower labor supply. Last, a quantification exercise of the dynamic bunching formula provides extra support for a strong tax-benefit linkage. (JEL H24, H31, H71, J22, J65)",
+      "publication_date": "2025-09-26",
+      "source": "American Economic Journal Applied Economics",
+      "source_type": "journal",
+      "doi": "10.1257/app.20210550",
+      "url": "https://doi.org/10.1257/app.20210550",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.741
+        },
+        {
+          "name": "Unemployment",
+          "score": 0.689
+        },
+        {
+          "name": "Value (mathematics)",
+          "score": 0.592
+        },
+        {
+          "name": "Linkage (software)",
+          "score": 0.465
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.458
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
       "id": "W4414401570",
       "title": "Short-term mortality and healthcare utilization consequences of pension income receipt: Evidence from South Korea",
       "authors": [
@@ -1304,70 +1477,1428 @@
       "added_date": "2026-03-13"
     },
     {
-      "id": "W4414302202",
-      "title": "The influence of China’s low-carbon city pilot policy on the green innovation of enterprises in the context of carbon neutrality",
+      "id": "W4414214471",
+      "title": "Mandatory pension contributions, household consumption, and savings",
       "authors": [
         {
-          "name": "Jintao Lu",
-          "affiliation": "Shanxi University"
+          "name": "Linda Sandris Larsen",
+          "affiliation": "Copenhagen Business School"
         },
         {
-          "name": "Zhencui Li",
-          "affiliation": "Taiyuan University of Science and Technology"
+          "name": "Ulf Nielsson",
+          "affiliation": "University of Iceland"
         },
         {
-          "name": "Xueli Chen",
-          "affiliation": "Lithuanian Social Research Centre"
+          "name": "Mara Nutu",
+          "affiliation": ""
         },
         {
-          "name": "Xue Qin Yu",
-          "affiliation": "Anhui University of Finance and Economics"
-        },
-        {
-          "name": "Malin Song",
-          "affiliation": "Anhui University of Finance and Economics"
+          "name": "Jesper Rangvid",
+          "affiliation": "Copenhagen Business School"
         }
       ],
-      "abstract": "China’s low-carbon city pilot policy (LCCPP) plays a crucial role in reducing carbon pollution and promoting green development. It stimulates enterprises’ green innovation (GI), such as through the promotion of circular carbon technologies and energy-efficient practices. However, a negative trend has emerged, wherein enterprises are increasingly focusing on low-end innovation to secure subsidies or comply with regulatory requirements. Despite this situation, few studies have explored the mechanisms driving enterprises’ adoption of either substantial or superficial GI within the LCCPP framework. This study uses data from Chinese A-share listed companies (2007–2022) and employed a difference-in-differences model to analyze the impact of the LCCPP on GI. Results show that while the LCCPP significantly promotes substantive GI, its effect on strategic GI is minimal. The policy primarily promotes substantive GI by increasing public environmental awareness, with managerial myopia moderating this relationship. Heterogeneity analysis reveals that the LCCPP boosts GI in technology-intensive enterprises and those with a high fixed asset ratio. However, it has limited impact on labor-intensive enterprises and those with a low fixed asset ratio. These findings contribute to the existing body of literature on low-carbon pilot policies and offer policy recommendations for enhancing innovation incentives in the context of carbon neutrality.",
-      "publication_date": "2025-09-17",
-      "source": "Journal of Innovation & Knowledge",
+      "abstract": "Abstract Using Danish register data, we study whether individuals save enough to maintain almost all (90%) of their pre-retirement consumption. We find that 85 percent do, largely due to mandatory labour market pension contributions. The remaining 15 percent are less likely to have mandatory pension schemes and do not compensate for the lack thereof via voluntary private savings. However, mandatory contributions come at the cost of lower consumption and non-retirement savings during working years. Individuals experiencing the largest increases in mandatory pension contributions accumulate less non-retirement wealth and consume less before retirement compared to those with small increases.",
+      "publication_date": "2025-09-09",
+      "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
-      "doi": "10.1016/j.jik.2025.100814",
-      "url": "https://doi.org/10.1016/j.jik.2025.100814",
+      "doi": "10.1017/s147474722510005x",
+      "url": "https://doi.org/10.1017/s147474722510005x",
+      "topics": [
+        "public_pensions",
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.716
+        },
+        {
+          "name": "Consumption (sociology)",
+          "score": 0.644
+        },
+        {
+          "name": "Business",
+          "score": 0.602
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.566
+        },
+        {
+          "name": "Danish",
+          "score": 0.504
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4413790838",
+      "title": "The Long-Term Effects of Income for At-Risk Infants: Evidence from Supplemental Security Income",
+      "authors": [
+        {
+          "name": "Amelia Hawkins",
+          "affiliation": "Brandeis University"
+        },
+        {
+          "name": "Christopher Hollrah",
+          "affiliation": "Federal Trade Commission"
+        },
+        {
+          "name": "Sarah Miller",
+          "affiliation": "Ross School"
+        },
+        {
+          "name": "Laura Wherry",
+          "affiliation": "Wagner College"
+        },
+        {
+          "name": "Gloria Aldana",
+          "affiliation": "United States Census Bureau"
+        },
+        {
+          "name": "Mitchell D. Wong",
+          "affiliation": "Olive View-UCLA Medical Center"
+        }
+      ],
+      "abstract": "The Supplemental Security Income program uses a birth weight cutoff at 1,200 grams to determine eligibility. Using birth certificates linked to administrative records, we find low-income families of infants born just below the cutoff receive higher monthly cash benefits (equal to 27 percent of family income) at ages 0–2 with smaller benefits continuing through age 10. Yet we detect no improvements in health care use and mortality in infancy, nor in health and human capital outcomes as observed through young adulthood for these infants. We also find no improvements for their older siblings. (JEL I12, I13, I18, I38, J13, J14, J31)",
+      "publication_date": "2025-08-28",
+      "source": "American Economic Review",
+      "source_type": "journal",
+      "doi": "10.1257/aer.20231293",
+      "url": "https://doi.org/10.1257/aer.20231293",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Term (time)",
+          "score": 0.634
+        },
+        {
+          "name": "Economics",
+          "score": 0.369
+        },
+        {
+          "name": "Business",
+          "score": 0.323
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4413205737",
+      "title": "Career arduousness and [healthy] life expectancy in Europe",
+      "authors": [
+        {
+          "name": "Vincent Vandenberghe",
+          "affiliation": "UCLouvain"
+        }
+      ],
+      "abstract": "Abstract The primary policy response to population aging in advanced economies has been to raise the mandatory retirement age. However, these policies have reignited calls for differentiated retirement ages that take into account variations in work intensity. This paper utilises microdata to examine the relevance and feasibility of this concept in Europe. It first quantifies career arduousness using SHARE wave 7 retrospective ISCO4-digit data on careers in combination with US O*NET working conditions data. Then, using SHARE follow-up data collecting (bad)health and death information about wave 7 respondents, it estimates (healthy) life expectancy by career arduousness decile, combining econometrics and life table methods. Findings reveal a life expectancy gap between the least and most arduous careers of 4to 4.2 years. Healthy life expectancy differences are slightly larger, ranging from 6.9 to 9.1 years. Also, women’s healthy life expectancy seems to be somewhat more impacted by arduousness.",
+      "publication_date": "2025-08-12",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100061",
+      "url": "https://doi.org/10.1017/s1474747225100061",
+      "topics": [
+        "retirement_decisions",
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Life expectancy",
+          "score": 0.864
+        },
+        {
+          "name": "Microdata (statistics)",
+          "score": 0.792
+        },
+        {
+          "name": "Decile",
+          "score": 0.753
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.467
+        },
+        {
+          "name": "Demography",
+          "score": 0.465
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4413105483",
+      "title": "What Drives Risky Prescription Opioid Use? Evidence From Migration",
+      "authors": [
+        {
+          "name": "Amy Finkelstein",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Matthew Gentzkow",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Dean Li",
+          "affiliation": "Massachusetts Institute of Technology"
+        }
+      ],
+      "abstract": "We develop and estimate a dynamic model of risky prescription opioid use that allows us to unpack the role of person- and place-specific drivers of the opioid epidemic and to assess the impact of state opioid policies. Event studies indicate that, among adults receiving federal disability insurance from 2006 to 2019, moves to states with higher rates of risky use produce an immediate jump in the probability of risky use, followed by an additional gradual increase for the next several years. Using a potential outcomes framework, we show how these results map to the person- and place-specific factors in the model. Model estimates imply large effects of place on both the likelihood of transitioning to addiction and the availability of prescription opioids; they also indicate that these place effects change significantly when state laws restricting pain clinics are enacted. A one standard deviation reduction in all place effects would have reduced risky use by about 40 percent over our study period. One particular source of place effects, pain clinic laws, reduced risky use by 5 percent, but could have reduced it by 30 percent if they had been enacted earlier, with much of this magnification operating through the dynamics of addiction.",
+      "publication_date": "2025-08-07",
+      "source": "The Quarterly Journal of Economics",
+      "source_type": "journal",
+      "doi": "10.1093/qje/qjaf037",
+      "url": "https://doi.org/10.1093/qje/qjaf037",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Medical prescription",
+          "score": 0.672
+        },
+        {
+          "name": "Addiction",
+          "score": 0.592
+        },
+        {
+          "name": "Opioid",
+          "score": 0.564
+        },
+        {
+          "name": "Human factors and ergonomics",
+          "score": 0.469
+        },
+        {
+          "name": "Jump",
+          "score": 0.458
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4412789326",
+      "title": "Employers and Unemployment Insurance Take-Up",
+      "authors": [
+        {
+          "name": "Marta Lachowska",
+          "affiliation": "W.E. Upjohn Institute for Employment Research"
+        },
+        {
+          "name": "Isaac Sorkin",
+          "affiliation": "Stanford University"
+        },
+        {
+          "name": "Stephen A. Woodbury",
+          "affiliation": "W.E. Upjohn Institute for Employment Research"
+        }
+      ],
+      "abstract": "We quantify the employer's role in unemployment insurance (UI) take-up. Employer effects on claiming and appeals are substantial, and those effects are negatively correlated, consistent with appeals deterring claims. Low-wage workers are less likely to claim and more likely to have their claims appealed than median-wage workers. Employer effects help explain these income gradients, so equalizing employer effects on claiming would increase the progressivity of UI. Finally, the main source of targeting error in UI is that eligible workers do not claim. (JEL J22, J31, J63, J64, J65)",
+      "publication_date": "2025-07-31",
+      "source": "American Economic Review",
+      "source_type": "journal",
+      "doi": "10.1257/aer.20230195",
+      "url": "https://doi.org/10.1257/aer.20230195",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Unemployment",
+          "score": 0.749
+        },
+        {
+          "name": "Business",
+          "score": 0.467
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.456
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.406
+        },
+        {
+          "name": "Economics",
+          "score": 0.347
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W3170277562",
+      "title": "Understanding debt in the older population",
+      "authors": [
+        {
+          "name": "Annamaria Lusardi",
+          "affiliation": "Stanford Medicine"
+        },
+        {
+          "name": "Olivia S. Mitchell",
+          "affiliation": "University of Pennsylvania"
+        },
+        {
+          "name": "Noemi Oggero",
+          "affiliation": "University of Turin"
+        }
+      ],
+      "abstract": "Abstract We explore debt and debt management among older Americans (ages 51–61 years) using the 2018 National Financial Capability Study. Though these individuals should have been at the peak of their retirement savings, we show that many were heavily indebted, often due to unpaid medical bills and student loans. Additionally, fewer than half (43%) could correctly answer three basic financial literacy questions; importantly, less financially literate people were more likely to hold excessive debt, be contacted by debt collectors, and carry medical debt or student loans. Our findings show that, even before the pandemic, a sizable proportion of older Americans was financially distressed, underscoring the need for researchers and policymakers to devote attention to specific types of debt that burden the older population. Particularly vulnerable groups include African-Americans, women, and the least-educated.",
+      "publication_date": "2025-07-15",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100024",
+      "url": "https://doi.org/10.1017/s1474747225100024",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Debt",
+          "score": 0.516
+        },
+        {
+          "name": "Population",
+          "score": 0.497
+        },
+        {
+          "name": "Economics",
+          "score": 0.422
+        },
+        {
+          "name": "Psychology",
+          "score": 0.389
+        },
+        {
+          "name": "Gerontology",
+          "score": 0.326
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4412416760",
+      "title": "Imbalance, inequality, equity, and adjustment in pay-as-you-go pension systems in developing countries: empirical modeling and projections with data from Brazil",
+      "authors": [
+        {
+          "name": "Ajax Reynaldo Bello Moreira",
+          "affiliation": "Institute of Applied Economic Research"
+        },
+        {
+          "name": "Miguel Nathan Foguel",
+          "affiliation": "Institute of Applied Economic Research"
+        },
+        {
+          "name": "Sérgio Guimarães Ferreira",
+          "affiliation": "Instituto de Desenvolvimento Sustentável Mamirauá"
+        }
+      ],
+      "abstract": "Abstract We analyze the effects of different pay-as-you-go public pension systems on financial imbalance, rate of return, and inequality of heterogeneous generations in terms of gender and education. We include aspects that are relevant for developing countries such as labor informality and payment of an old-age and social benefit. We introduce a new mixed system that combines components of the defined benefit (DB) and the defined contribution (DC) systems. Results show the new mixed system represents a compromise between the DB and DC systems and that a scheme (inspired in the German system) exhibits the highest rates of return and horizontal equity.",
+      "publication_date": "2025-07-15",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000071",
+      "url": "https://doi.org/10.1017/s1474747225000071",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Equity (law)",
+          "score": 0.726
+        },
+        {
+          "name": "Pension",
+          "score": 0.703
+        },
+        {
+          "name": "Inequality",
+          "score": 0.674
+        },
+        {
+          "name": "Economics",
+          "score": 0.61
+        },
+        {
+          "name": "Developing country",
+          "score": 0.417
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W7118973693",
+      "title": "State pension eligibility age and retirement behaviour: evidence from the United Kingdom household longitudinal study",
+      "authors": [
+        {
+          "name": "Ricky Kanabar",
+          "affiliation": "University of Bath"
+        },
+        {
+          "name": "Adriaan Kalwij",
+          "affiliation": "Utrecht University"
+        }
+      ],
+      "abstract": "Abstract We examine individuals’ retirement behaviour in response to changes in the State Pension eligibility age (SPe-age) introduced in UK Pension Acts. Our findings show that the annual probability of retirement reduced significantly in response to a one-year increase in SPe-age, by 8.2pp and 6.4pp for men and women, respectively. They also show that younger individuals can adjust their Expected Age of Retirement (EAR) downwards in response to an increase in their SPe-age. Thus, while an increase in the SPe-age induces individuals to postpone actual retirement, it does not necessarily lead to certain groups of individuals to revise their EAR upwards, which could result in suboptimal retirement planning. The latter can be problematic for those with low occupational pension wealth and/or individuals who rely disproportionately on State Pension. Our findings suggest the need for targeted communication campaigns aimed at specific groups of prime aged workers to improve their retirement planning.",
+      "publication_date": "2025-07-08",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000095",
+      "url": "https://doi.org/10.1017/s1474747225000095",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.704
+        },
+        {
+          "name": "Longitudinal study",
+          "score": 0.62
+        },
+        {
+          "name": "Retirement age",
+          "score": 0.568
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.507
+        },
+        {
+          "name": "Economics",
+          "score": 0.481
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4412049411",
+      "title": "Career expectations and outcomes: Evidence (on gender gaps) from the economics job market",
+      "authors": [
+        {
+          "name": "Brooke Helppie‐McFall",
+          "affiliation": "University of Michigan–Ann Arbor"
+        },
+        {
+          "name": "Eric Parolin",
+          "affiliation": "University of Michigan–Ann Arbor"
+        },
+        {
+          "name": "Basit Zafar",
+          "affiliation": "University of Michigan–Ann Arbor"
+        }
+      ],
+      "abstract": "This paper investigates gender gaps in long-term career expectations and outcomes of PhD candidates in economics. For this purpose, we match rich survey data on PhD candidates (from the 2008–2010 job market cohorts) to public data on job history and publication records through 2022. We document four novel empirical facts: (1) there is a robust gender gap in career expectations, with females about 10 percentage points less likely to ex-ante expect to get tenure or publish regularly; (2) the gender gap in expectations is remarkably similar to the gap observed for academic outcomes; (3) expectations are similarly predictive of outcomes for males and females, and (4) gender gaps in expectations can explain about 22 % and 14 % of the ex-post gaps in tenure and publications, respectively. In addition, leveraging variation in relationship status at the time expectations are reported, we show that: conditional on gender, (1) expectations regarding tenure and publications do not differ systematically by relationship status, and (2) the predictive power of expectations does not differ by the relationship status of the individual. • We investigate gender gaps in long-term career expectations and outcomes of PhD candidates in economics, by linking rich survey data to public data on job history and publication records. • We find a robust gender gap in career expectations, with females about 10 percentage points less likely to ex-ante expect to get tenure or publish regularly. • The gender gap in expectations is remarkably similar to the gap observed in academic outcomes. • Expectations are similarly predictive of outcomes for males and females. • Gender gaps in expectations can explain about 22 % and 14 % of the ex-post gaps in tenure and publications, respectively.",
+      "publication_date": "2025-07-05",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105437",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105437",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.757
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.562
+        },
+        {
+          "name": "Job market",
+          "score": 0.442
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4411701583",
+      "title": "Increasing statutory retirement age, labor market outcomes, and effect heterogeneity: the 2017 pension reform in Finland",
+      "authors": [
+        {
+          "name": "Satu Nivalainen",
+          "affiliation": "Finnish Centre for Pensions"
+        },
+        {
+          "name": "Ilari Ilmakunnas",
+          "affiliation": "Finnish Centre for Pensions"
+        }
+      ],
+      "abstract": "Abstract We study the 2017 pension reform in Finland, raising the statutory retirement age of the studied cohorts from 63 to 63 years and 6 months. Using monthly-based register data and a differences-in-differences approach, we estimate the reform’s impact on retirement, employment, unemployment, disability, sickness, and inactivity. Results indicate a significant 19-percentage-point increase in employment between the old and new retirement ages, alongside notable rises in unemployment, inactivity, and disability. Largely – but not entirely – this stems from the persistence of the previous labor market state. Gender differences are not large, but the effects vary considerably across education, income, employment sector, and self-employment status.",
+      "publication_date": "2025-06-26",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225100036",
+      "url": "https://doi.org/10.1017/s1474747225100036",
+      "topics": [
+        "retirement_decisions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Statutory law",
+          "score": 0.817
+        },
+        {
+          "name": "Pension",
+          "score": 0.765
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.574
+        },
+        {
+          "name": "Retirement age",
+          "score": 0.513
+        },
+        {
+          "name": "Economics",
+          "score": 0.47
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4411583707",
+      "title": "In-kind government assistance and crowd-out of charitable services: Evidence from free school meals",
+      "authors": [
+        {
+          "name": "Krista Ruffini",
+          "affiliation": ""
+        },
+        {
+          "name": "Orgül D. Öztürk",
+          "affiliation": ""
+        },
+        {
+          "name": "Pelin Pekgün",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Many community organizations provide services similar to government programs, but there is limited evidence how increased government aid affects the use and availability of charitable services. This study examines how greater access to federal nutrition assistance through schoolwide free meal programs affects food bank use within the U.S.’s largest food bank network. A 10 percent increase in access to free school meals reduces the amount of food that food banks distribute by 0.9–1.4 percent, without significantly reducing donations, fundraising activity, or the amount of food available. The reduction of food bank use is only found in areas where relatively few students previously qualified for government aid. Our findings highlight that even safety net programs that serve a specific population and offer distinct services can reduce pressures on charitable organizations, particularly in areas previously underserved by government assistance. • Greater access to free school meals reduces food bank use. • Effects are largest in low-poverty and urban areas. • Increased free school meals do not significantly change resources available at food banks. • Savings to charitable organizations offset more than 11% of the government costs of this program.",
+      "publication_date": "2025-06-24",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105391",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105391",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Government (linguistics)",
+          "score": 0.66
+        },
+        {
+          "name": "Economics",
+          "score": 0.618
+        },
+        {
+          "name": "Crowding out",
+          "score": 0.526
+        },
+        {
+          "name": "Public economics",
+          "score": 0.494
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4411407378",
+      "title": "Frames, incentives, and education: Effectiveness of interventions to delay public pension claiming",
+      "authors": [
+        {
+          "name": "Franca Glenzer",
+          "affiliation": "HEC Montréal"
+        },
+        {
+          "name": "Pierre‐Carl Michaud",
+          "affiliation": "HEC Montréal"
+        },
+        {
+          "name": "Stefan Staubli",
+          "affiliation": "University of Calgary"
+        }
+      ],
+      "abstract": "In many retirement income systems, people forgo a higher stream of public pension income by claiming early. This paper provides survey- and quasi-experimental evidence on how increasing financial incentives, educating individuals, and changing the framing of the claiming decision affect pension claiming and the present value of expected pension benefits. We find that all three types of interventions induce delays, but they have heterogeneous financial consequences. Educating participants about the claiming decision and life expectancy leads to claiming ages with higher pension wealth. In contrast, changing the framing of the claiming decision and strengthening financial incentives do not improve, and may even worsen, financial outcomes. • Many people forgo higher streams of public pension income by claiming early. • We study how increasing financial incentives, educating individuals, and changing the framing of the claiming decision affect pension claiming and pension wealth. • All three types of interventions induce delays, but they have heterogeneous financial consequences. • Educating individuals about the claiming decision and life expectancy increase pension wealth. • Changing the framing of the claiming decision and increasing financial incentives tend to worsen financial outcomes.",
+      "publication_date": "2025-06-18",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105419",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105419",
+      "topics": [
+        "public_pensions",
+        "retirement_decisions",
+        "longevity_mortality",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.797
+        },
+        {
+          "name": "Economics",
+          "score": 0.71
+        },
+        {
+          "name": "Public economics",
+          "score": 0.599
+        },
+        {
+          "name": "Psychological intervention",
+          "score": 0.598
+        },
+        {
+          "name": "Pension",
+          "score": 0.525
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4411406952",
+      "title": "How does medicaid managed care affect provider behavior? New evidence from spillovers on private health care",
+      "authors": [
+        {
+          "name": "Ajin Lee",
+          "affiliation": "University of California, Riverside"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-06-18",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105434",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105434",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Medicaid",
+          "score": 0.897
+        },
+        {
+          "name": "Affect (linguistics)",
+          "score": 0.811
+        },
+        {
+          "name": "Managed care",
+          "score": 0.674
+        },
+        {
+          "name": "Business",
+          "score": 0.526
+        },
+        {
+          "name": "Health care",
+          "score": 0.511
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4411116433",
+      "title": "The employment effects of a means-tested guaranteed income policy",
+      "authors": [
+        {
+          "name": "Timo Verlaat",
+          "affiliation": "Utrecht University"
+        },
+        {
+          "name": "Federico Todeschini",
+          "affiliation": "Universitat Pompeu Fabra"
+        },
+        {
+          "name": "Xavier Ramos",
+          "affiliation": "Universitat Autònoma de Barcelona"
+        }
+      ],
+      "abstract": "Through a randomized controlled trial, we study the labor market effects of a generous means-tested guaranteed income policy targeting low-income families in Barcelona. Two years into the program, beneficiaries are 22 % less likely to work compared to subjects assigned to a control group. A lower phase-out of transfers attenuates negative employment effects and reduces the government cost per euro of benefit by two-thirds. Participation elasticities for a family of four range from 0.39 to 0.49. Treatment effects persisted at least 6 months after the program ended. We find indications that effects are driven by subjects with care duties, suggesting substitution of labor for care tasks. • We study the labor supply response of low-income individuals to a means-tested guaranteed income program through an RCT. • Assignment to the program reduced labor participation by 22 %. • Negative employment effects are larger when phase-out marginal tax rates are larger. • Participation elasticities for a family of four range from 0.39 to 0.49. • We find tentative evidence of substitution of labor for caregiving.",
+      "publication_date": "2025-06-07",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105420",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105420",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.84
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.449
+        },
+        {
+          "name": "Microeconomics",
+          "score": 0.347
+        },
+        {
+          "name": "Public economics",
+          "score": 0.336
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4410588482",
+      "title": "Racial inequality in unemployment insurance receipt",
+      "authors": [
+        {
+          "name": "Elira Kuka",
+          "affiliation": "George Washington University"
+        },
+        {
+          "name": "Bryan A. Stuart",
+          "affiliation": "Federal Reserve Bank of Philadelphia"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-05-21",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105401",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105401",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Receipt",
+          "score": 0.812
+        },
+        {
+          "name": "Economics",
+          "score": 0.788
+        },
+        {
+          "name": "Unemployment",
+          "score": 0.786
+        },
+        {
+          "name": "Inequality",
+          "score": 0.644
+        },
+        {
+          "name": "Economic inequality",
+          "score": 0.436
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4412074962",
+      "title": "Does Mandatory Saving Reduce Voluntary Saving? Evidence from a Pension Reform",
+      "authors": [
+        {
+          "name": "Svend E. Hougaard Jensen",
+          "affiliation": "Copenhagen Business School"
+        },
+        {
+          "name": "Sigurdur P. Olafsson",
+          "affiliation": "Copenhagen Business School"
+        },
+        {
+          "name": "Arnaldur Stefánsson",
+          "affiliation": "University of Iceland"
+        },
+        {
+          "name": "Thorsteinn Sigurdur Sveinsson",
+          "affiliation": ""
+        },
+        {
+          "name": "Gylfi Zoëga",
+          "affiliation": "University of Iceland"
+        }
+      ],
+      "abstract": "Abstract Recently, mandatory pension contributions in Iceland were increased substantially in the private sector while remaining unchanged in the public sector. Taking this as a large natural experiment, this paper studies the effects of this change on households’ voluntary saving, using comprehensive third-party reported information on income, assets, and debt for all taxpayers. Using difference-in-differences, we find that households do not reduce voluntary saving when faced with a rise in mandatory saving. Our results are supported by an event study of workers switching from the private sector to the public sector. Survey evidence suggests widespread ignorance about the pension system.",
+      "publication_date": "2025-05-19",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.264",
+      "url": "https://doi.org/10.1162/rest.a.264",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Turnover",
+          "score": 0.75
+        },
+        {
+          "name": "Pension",
+          "score": 0.724
+        },
+        {
+          "name": "Business",
+          "score": 0.502
+        },
+        {
+          "name": "Economics",
+          "score": 0.491
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.388
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4412075013",
+      "title": "Life and Death at the Margins of Society: The Mortality of the U.S. Homeless Population",
+      "authors": [
+        {
+          "name": "Bruce Meyer",
+          "affiliation": "University of Chicago"
+        },
+        {
+          "name": "Angela Wyse",
+          "affiliation": "Dartmouth Hospital"
+        },
+        {
+          "name": "Ilina Logani",
+          "affiliation": "University of Oxford"
+        }
+      ],
+      "abstract": "Abstract We provide the first national analysis of mortality in the U.S. homeless population by linking 140,000 homeless individuals from the 2010 Census to twelve years of all-cause mortality data from the Social Security Administration (SSA). Non-elderly homeless individuals face 3.5 times the mortality risk of the housed after accounting for demographic differences and geography, with a time pattern suggesting that persistently poor health, rather than homelessness itself, primarily drives this disparity. Employment, higher income, and more extensive recent family connections are associated with lower mortality, underscoring the persistence of health disparities into the extreme lower tail of socioeconomic disadvantage.",
+      "publication_date": "2025-05-19",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.265",
+      "url": "https://doi.org/10.1162/rest.a.265",
       "topics": [
         "public_pensions"
       ],
       "concepts": [
         {
-          "name": "Context (archaeology)",
-          "score": 0.683
+          "name": "Demography",
+          "score": 0.499
+        },
+        {
+          "name": "Population",
+          "score": 0.489
+        },
+        {
+          "name": "Geography",
+          "score": 0.369
+        },
+        {
+          "name": "Economics",
+          "score": 0.328
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4410382978",
+      "title": "Lives Versus Livelihoods: The Impact of the Great Recession on Mortality and Welfare",
+      "authors": [
+        {
+          "name": "Amy Finkelstein",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Matthew Notowidigdo",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Frank Schilbach",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Jonathan Zhang",
+          "affiliation": "National Bureau of Economic Research"
+        }
+      ],
+      "abstract": "ABSTRACT We leverage spatial variation in the severity of the Great Recession across the United States to examine its impact on mortality and explore the quantitative implications. We estimate that an increase in the unemployment rate of the magnitude of the Great Recession reduces the average annual age-adjusted mortality rate by 2.3%, with effects persisting for at least 10 years. Mortality reductions appear across causes of death and are concentrated in the half of the population with a high school degree or less. We estimate similar percentage reductions in mortality at all ages, with declines in elderly mortality thus responsible for about three-quarters of the total mortality reduction. Recession-induced mortality declines are driven primarily by external effects of reduced aggregate economic activity on mortality, and reduced air pollution appears to be a quantitatively important mechanism. Incorporating our estimates of procyclical mortality into a standard macroeconomic framework substantially reduces the welfare costs of recessions, particularly for people with less education, and at older ages.",
+      "publication_date": "2025-05-13",
+      "source": "The Quarterly Journal of Economics",
+      "source_type": "journal",
+      "doi": "10.1093/qje/qjaf023",
+      "url": "https://doi.org/10.1093/qje/qjaf023",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Livelihood",
+          "score": 0.848
+        },
+        {
+          "name": "Welfare",
+          "score": 0.758
+        },
+        {
+          "name": "Recession",
+          "score": 0.752
+        },
+        {
+          "name": "Economics",
+          "score": 0.501
+        },
+        {
+          "name": "Great recession",
+          "score": 0.483
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409963010",
+      "title": "Changing Tracks: Human Capital Investment after Loss of Ability",
+      "authors": [
+        {
+          "name": "Anders Humlum",
+          "affiliation": "University of Chicago"
+        },
+        {
+          "name": "Jakob Roland Munch",
+          "affiliation": "University of Copenhagen"
+        },
+        {
+          "name": "Pernille Plato",
+          "affiliation": "University of Copenhagen"
+        }
+      ],
+      "abstract": "We provide the first evidence on how workers invest in human capital after losing ability. Using quasi-random work accidents in Danish administrative data, we find that workers enroll in bachelor’s programs after physical injuries, pursuing degrees that build on their past training and experience. Exploiting institutional differences in the stackability of degrees, we find that higher education moves injured workers from disability benefits to full-time employment, earning 25 percent more than before injury. Reskilling subsidies for injured workers pay for themselves four times over, and current rates of reskilling are substantially below the social optimum, especially for middle-aged workers. (JEL I26, J14, J24, J62)",
+      "publication_date": "2025-05-01",
+      "source": "American Economic Review",
+      "source_type": "journal",
+      "doi": "10.1257/aer.20231067",
+      "url": "https://doi.org/10.1257/aer.20231067",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Investment (military)",
+          "score": 0.584
+        },
+        {
+          "name": "Human capital",
+          "score": 0.556
+        },
+        {
+          "name": "Capital (architecture)",
+          "score": 0.446
+        },
+        {
+          "name": "Capital investment",
+          "score": 0.437
         },
         {
           "name": "Business",
-          "score": 0.647
+          "score": 0.42
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409962852",
+      "title": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
+      "authors": [
+        {
+          "name": "Taha Choukhmane",
+          "affiliation": ""
+        },
+        {
+          "name": "Lucas Goodman",
+          "affiliation": "United States Department of the Treasury"
+        },
+        {
+          "name": "Cormac O’Dea",
+          "affiliation": "Yale University"
+        }
+      ],
+      "abstract": "We study how couples allocate retirement-saving contributions across each spouse’s account. In a new dataset covering over a million US individuals, we find retirement contributions are not allocated to the account with the highest employer match rate. This lack of coordination—which goes against the assumptions of most models of household decision-making—is common, costly, persistent over time, and cannot be explained by inertia, auto-enrollment, or simple heuristics. Complementing the administrative evidence with an online survey, we find that inefficient allocations reflect both financial mistakes as well as deliberate choices, especially when trust and commitment inside the households are weak. (JEL D13, G51, J26, J32)",
+      "publication_date": "2025-05-01",
+      "source": "American Economic Review",
+      "source_type": "journal",
+      "doi": "10.1257/aer.20230524",
+      "url": "https://doi.org/10.1257/aer.20230524",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.494
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.447
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.35
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409578397",
+      "title": "The employment effects of a pandemic wage subsidy",
+      "authors": [
+        {
+          "name": "Michael Smart",
+          "affiliation": "University of Toronto"
+        },
+        {
+          "name": "Matthew Kronberg",
+          "affiliation": "Statistics Canada"
+        },
+        {
+          "name": "Josip Lesica",
+          "affiliation": "Statistics Canada"
+        },
+        {
+          "name": "Huju Liu",
+          "affiliation": "Statistics Canada"
+        }
+      ],
+      "abstract": "We estimate causal effects of a pandemic-era wage subsidy in Canada on job losses and business closures. Our estimates use administrative microdata and a regression discontinuity strategy to estimate the effects of marginal changes in the wage subsidy rate. The estimated net wage elasticity of employment was 0.05 to 0.22, implying a small employment effect of the program and an estimated fiscal cost per job saved of more than $185,000 per year. Subsidy payments caused a small but persistent reduction in business closure rates during subsequent waves of the pandemic, and increased earnings of existing employees. In all, our results suggest the subsidies did little to preserve job matches, but played a greater role in the overall social insurance response to the pandemic.",
+      "publication_date": "2025-04-19",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105358",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105358",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Subsidy",
+          "score": 0.837
+        },
+        {
+          "name": "Economics",
+          "score": 0.787
+        },
+        {
+          "name": "Wage",
+          "score": 0.642
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.601
+        },
+        {
+          "name": "Pandemic",
+          "score": 0.593
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409541748",
+      "title": "Micro and Macro Effects of Unemployment Insurance Policies: Evidence from Missouri",
+      "authors": [
+        {
+          "name": "Fatih Karahan",
+          "affiliation": "Stanford University"
+        },
+        {
+          "name": "Kurt Mitman",
+          "affiliation": "Economic Policy Institute"
+        },
+        {
+          "name": "Brendan Moore",
+          "affiliation": "Central Bank of the Republic of Turkey"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-04-17",
+      "source": "Journal of Political Economy",
+      "source_type": "journal",
+      "doi": "10.1086/736215",
+      "url": "https://doi.org/10.1086/736215",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Macro",
+          "score": 0.756
+        },
+        {
+          "name": "Economics",
+          "score": 0.447
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409341336",
+      "title": "Can changes in disability insurance work incentives influence beneficiary employment? Evidence from the promoting opportunity demonstration",
+      "authors": [
+        {
+          "name": "Michael Levere",
+          "affiliation": "Colgate University"
+        },
+        {
+          "name": "David Wittenburg",
+          "affiliation": "Westat (United States)"
+        },
+        {
+          "name": "John T. Jones",
+          "affiliation": "United States Social Security Administration"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-04-10",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105370",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105370",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Beneficiary",
+          "score": 0.887
         },
         {
           "name": "Incentive",
-          "score": 0.621
+          "score": 0.814
         },
         {
-          "name": "Asset (computer security)",
-          "score": 0.592
+          "name": "Disability insurance",
+          "score": 0.7
         },
         {
-          "name": "Subsidy",
-          "score": 0.584
+          "name": "Economics",
+          "score": 0.648
+        },
+        {
+          "name": "Work (physics)",
+          "score": 0.645
         }
       ],
-      "matched_by": "concept",
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409239967",
+      "title": "Cushion option on CPPI strategy for defined-contribution pension plans",
+      "authors": [
+        {
+          "name": "Anil Gulveren",
+          "affiliation": "Social Insurance Institute"
+        },
+        {
+          "name": "Büşra Zeynep Temoçin",
+          "affiliation": "Middle East Technical University"
+        },
+        {
+          "name": "A. Sevtap Selcuk‐Kestel",
+          "affiliation": "Middle East Technical University"
+        }
+      ],
+      "abstract": "Abstract This paper investigates a well-known downside protection strategy called the constant proportion portfolio insurance (CPPI) in defined contribution (DC) pension fund modeling. Under discrete time trading CPPI, an investor faces the risk of portfolio value hitting the floor which denotes the process of guaranteed portfolio values. In this paper, we question how to deal with so-called ‘gap risk’ which may appear due to uncontrollable events resulting in a sudden drop in the market. In the market model considered, the risky asset price and the labor income are assumed to be continuous-time stochastic processes, whereas trading is restricted to discrete-time. In this setting, an exotic option (namely, the ‘cushion option’) is proposed with the aim of reducing the risk that the portfolio value falls below the defined floor. We analyze the effectiveness of the proposed exotic option for a DC plan CPPI strategy through Monte Carlo simulations and sensitivity analyses with respect to the parameters reflecting different setups.",
+      "publication_date": "2025-04-08",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s147474722500006x",
+      "url": "https://doi.org/10.1017/s147474722500006x",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.656
+        },
+        {
+          "name": "Cushion",
+          "score": 0.59
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.458
+        },
+        {
+          "name": "Business",
+          "score": 0.431
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4408994179",
+      "title": "The Chilean pension withdrawals and the 2025 reform: Fiscal and retirement consequences",
+      "authors": [
+        {
+          "name": "Alejandra Inzunza",
+          "affiliation": "Bocconi University"
+        },
+        {
+          "name": "Carlos Madeira",
+          "affiliation": "Bank for International Settlements"
+        }
+      ],
+      "abstract": "Abstract During the COVID-19 pandemic, Chile enacted three exceptional laws allowing withdrawals from affiliates’ pension accounts. We analyze how these withdrawals affected pension savings and the projected retirement income of affiliates and their households, finding that lower-income households withdrew a higher percentage of their savings. Simulations of worker contributions until retirement show an average reduction of 21% in contributory pensions, but increased non-contributory pension benefits reduce the average total income loss to 8%. Under a no-reform scenario, these withdrawals and higher non-contributory pensions may imply fiscal costs around 15.8% of the pre-pandemic gross domestic product (GDP). The current pension reform should reduce it to 12.4% of pre-pandemic GDP.",
+      "publication_date": "2025-03-31",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000058",
+      "url": "https://doi.org/10.1017/s1474747225000058",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.731
+        },
+        {
+          "name": "Economics",
+          "score": 0.598
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.335
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4409032724",
+      "title": "Household savings and shocks to occupational pension funds",
+      "authors": [
+        {
+          "name": "Francesco Caloia",
+          "affiliation": "Network for Studies on Pensions, Aging and Retirement"
+        },
+        {
+          "name": "Mauro Mastrogiacomo",
+          "affiliation": "Network for Studies on Pensions, Aging and Retirement"
+        },
+        {
+          "name": "Irene Simonetti",
+          "affiliation": "International Longevity Centre"
+        }
+      ],
+      "abstract": "Abstract Using household survey data linked to supervisory data of Dutch pension funds, we provide evidence of the increase in household savings caused by shocks to the financial position of pension funds. Our identification strategy exploits cross-sectional and time variations in pension funds’ funding ratios, which result from asset allocations and price corrections outside the control of fund members. The findings reveal that fluctuations in funding ratios significantly impact household savings, with a displacement effect above 40 percent. Lower funding ratios are associated with higher voluntary savings, driven primarily by members of pension funds with lower historical returns. Unlike earlier studies, this paper covers a long time span including three major economic crises, providing novel insights into the interaction between pension fund stability and individual saving behaviour.",
+      "publication_date": "2025-03-31",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000034",
+      "url": "https://doi.org/10.1017/s1474747225000034",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.815
+        },
+        {
+          "name": "Business",
+          "score": 0.685
+        },
+        {
+          "name": "Finance",
+          "score": 0.43
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4408955263",
+      "title": "Female labor supply and rural pension eligibility in Brazil",
+      "authors": [
+        {
+          "name": "Gaurav Khanna",
+          "affiliation": "University of California San Diego"
+        },
+        {
+          "name": "Margaret J. Lay",
+          "affiliation": "Mount Holyoke College"
+        },
+        {
+          "name": "Stephanie Lee",
+          "affiliation": "University of Washington"
+        },
+        {
+          "name": "Benjamin S. Thompson",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-03-29",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2025.105352",
+      "url": "https://doi.org/10.1016/j.jpubeco.2025.105352",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.75
+        },
+        {
+          "name": "Pension",
+          "score": 0.721
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.508
+        },
+        {
+          "name": "Labour supply",
+          "score": 0.433
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4408587457",
+      "title": "Money-back guarantees in individual retirement accounts: Are they good policy?",
+      "authors": [
+        {
+          "name": "Vanya Horneff",
+          "affiliation": "Goethe University Frankfurt"
+        },
+        {
+          "name": "Daniel Liebler",
+          "affiliation": "Goethe University Frankfurt"
+        },
+        {
+          "name": "Raimond Maurer",
+          "affiliation": "Goethe University Frankfurt"
+        },
+        {
+          "name": "Olivia S. Mitchell",
+          "affiliation": "University of Pennsylvania"
+        }
+      ],
+      "abstract": "Abstract Embedding mandatory investment guarantees in individual retirement accounts (IRAs) can protect workers from equity market shortfalls, but policymakers must understand the economic costs of such guarantees as well as their incidence. Using a life cycle model calibrated for Germany, where investors have access to stocks, bonds, and tax-qualified IRAs, we show that abandoning the guarantee could enhance old-age consumption for over 75% of retirees without harming pre-retirement consumption. Investors averse to equity losses accumulate only moderately more in guaranteed accounts, as these offer only limited protection against market crashes.",
+      "publication_date": "2025-03-17",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000022",
+      "url": "https://doi.org/10.1017/s1474747225000022",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.597
+        },
+        {
+          "name": "Monetary economics",
+          "score": 0.408
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.353
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-13"
+    },
+    {
+      "id": "W4408421267",
+      "title": "The effect of the statutory retirement age on spousal paid employment",
+      "authors": [
+        {
+          "name": "Albert Rutten",
+          "affiliation": "GGD Amsterdam"
+        },
+        {
+          "name": "Marike Knoef",
+          "affiliation": "Tilburg University"
+        },
+        {
+          "name": "Daniël van Vuuren",
+          "affiliation": "Tilburg University"
+        }
+      ],
+      "abstract": "Abstract We investigate the direct effect of the oldest spouse’s statutory retirement age on the retirement behavior of couples. We find a positive direct effect of the statutory retirement age on the labor participation and hours worked of both partners. In particular, we find that younger partners decrease their participation by up to almost 2 percentage points once the oldest spouse reaches the statutory retirement age. Male younger partners are twice as responsive than women. The responsiveness is also about twice as strong in high-income households than in low-income households.",
+      "publication_date": "2025-03-13",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747225000046",
+      "url": "https://doi.org/10.1017/s1474747225000046",
+      "topics": [
+        "retirement_decisions"
+      ],
+      "concepts": [
+        {
+          "name": "Statutory law",
+          "score": 0.81
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.526
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.517
+        },
+        {
+          "name": "Retirement age",
+          "score": 0.415
+        },
+        {
+          "name": "Business",
+          "score": 0.412
+        }
+      ],
+      "matched_by": "keyword",
       "added_date": "2026-03-13"
     }
   ],
   "meta": {
-    "last_updated": "2026-03-13T12:32:51Z",
-    "paper_count": 29,
+    "last_updated": "2026-03-13T12:52:33Z",
+    "paper_count": 59,
     "date_range": {
-      "from": "2025-09-17",
+      "from": "2025-03-13",
       "to": "2026-03-13"
     }
   }

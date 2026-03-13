@@ -23,14 +23,17 @@
     <div class="container-fluid">
       <div class="filter-row">
         <div class="search-wrapper">
-          <input type="text" id="searchInput" class="search-input" placeholder="Search papers...">
+          <input type="text" id="searchInput" class="search-input"
+                 placeholder="Search papers..."
+                 aria-label="Search papers by title, author, or abstract">
         </div>
         <div class="topic-pills" id="topicPills"></div>
         <div class="time-filter">
-          <select id="timeFilter" class="time-select">
-            <option value="7" selected>Past week</option>
-            <option value="30">Past month</option>
+          <select id="timeFilter" class="time-select" aria-label="Filter by time period">
+            <option value="7">Past week</option>
+            <option value="30" selected>Past month</option>
             <option value="90">Past 3 months</option>
+            <option value="180">Past 6 months</option>
             <option value="all">All</option>
           </select>
         </div>
@@ -42,6 +45,10 @@
   <div class="status-bar">
     <div class="container-fluid">
       <span id="statusText">Loading...</span>
+      <span id="filterLogicHint" style="display:none; margin-left: 0.5rem; font-style: italic;">
+        (showing papers matching any selected topic)
+      </span>
+      <button id="clearFilters" class="clear-filters-btn" style="display:none;">Clear filters</button>
     </div>
   </div>
 
@@ -52,7 +59,7 @@
       <button id="loadMoreBtn" class="load-more-btn">Load More</button>
     </div>
     <div id="noPapers" class="no-papers" style="display:none;">
-      No papers match your filters.
+      No papers match your filters. Try widening the time range or clearing topic filters.
     </div>
   </main>
 
