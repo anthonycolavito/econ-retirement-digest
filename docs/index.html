@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Retirement Research Digest</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container-fluid">
+      <span class="navbar-brand">Retirement Research Digest</span>
+      <span class="navbar-attr">Updated daily from OpenAlex &amp; NBER</span>
+    </div>
+  </nav>
+
+  <!-- Filter Bar -->
+  <div class="filter-bar">
+    <div class="container-fluid">
+      <div class="filter-row">
+        <div class="search-wrapper">
+          <input type="text" id="searchInput" class="search-input" placeholder="Search papers...">
+        </div>
+        <div class="topic-pills" id="topicPills"></div>
+        <div class="time-filter">
+          <select id="timeFilter" class="time-select">
+            <option value="7" selected>Past week</option>
+            <option value="30">Past month</option>
+            <option value="90">Past 3 months</option>
+            <option value="all">All</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Status Bar -->
+  <div class="status-bar">
+    <div class="container-fluid">
+      <span id="statusText">Loading...</span>
+    </div>
+  </div>
+
+  <!-- Paper List -->
+  <main class="container-fluid">
+    <div id="paperList" class="paper-list"></div>
+    <div id="loadMore" class="load-more" style="display:none;">
+      <button id="loadMoreBtn" class="load-more-btn">Load More</button>
+    </div>
+    <div id="noPapers" class="no-papers" style="display:none;">
+      No papers match your filters.
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container-fluid">
+      <p>
+        Data sourced from <a href="https://openalex.org/" target="_blank" rel="noopener">OpenAlex</a>
+        and <a href="https://www.nber.org/" target="_blank" rel="noopener">NBER</a>.
+        Built by <a href="https://github.com/anthonycolavito" target="_blank" rel="noopener">Anthony Colavito</a>.
+        <a href="https://github.com/anthonycolavito/econ-retirement-digest" target="_blank" rel="noopener">View on GitHub</a>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
