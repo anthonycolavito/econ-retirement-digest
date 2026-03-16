@@ -1,6 +1,42 @@
 {
   "papers": [
     {
+      "id": "nber_w34966",
+      "title": "Life Cycle Portfolio Choice with Human Capital and Social Security",
+      "authors": [
+        {
+          "name": "Jason Scott",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "John B. Shoven",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sita Slavov",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "John G. Watson",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Target date funds – which initially invest a large share of retirement savings in stocks and shift gradually towards bonds over the life cycle – are designed to provide a “one stop shop” for retirement investing. The rationale for this pattern is that human capital, which is highest at the start of a worker’s career, is “bond-like.” Thus, utility is maximized when financial wealth is initially invested primarily in stocks, with the investment mix shifting towards bonds as the present value of future labor income declines. We revisit this logic in a dynamic model in which shocks to labor income are correlated with the stock market, and in which Social Security replaces a higher share of income for lower-income individuals. In line with empirical evidence, lower-income individuals in the model experience a higher degree of correlation between labor earnings growth and stock returns. We find that utility-maximizing retirement portfolios can vary greatly across individuals, deviating substantially from the pattern of a target date fund for lower-income individuals.",
+      "publication_date": "2026-03-16",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w34966#fromrss",
+      "topics": [
+        "public_pensions",
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-03-16"
+    },
+    {
       "id": "nber_w34928",
       "title": "Competition in Health Insurance Markets",
       "authors": [
@@ -132,7 +168,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7131390878",
@@ -180,7 +216,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7130643125",
@@ -231,7 +267,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7127639882",
@@ -284,7 +320,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7127647932",
@@ -339,7 +375,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7127592864",
@@ -390,7 +426,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7127622621",
@@ -433,7 +469,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7126193704",
@@ -488,7 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7126120302",
@@ -539,7 +575,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7125009254",
@@ -594,7 +630,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W3207058961",
@@ -649,7 +685,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7118022352",
@@ -692,7 +728,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7118170164",
@@ -735,7 +771,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7118192714",
@@ -779,7 +815,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7118833805",
@@ -822,7 +858,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7117489691",
@@ -873,7 +909,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7116980467",
@@ -921,7 +957,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4416952202",
@@ -968,7 +1004,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4416431798",
@@ -1079,7 +1115,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4416176458",
@@ -1123,7 +1159,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4415700305",
@@ -1167,7 +1203,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4415659132",
@@ -1222,7 +1258,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4415598714",
@@ -1265,7 +1301,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4415092550",
@@ -1312,7 +1348,7 @@
           "affiliation": ""
         }
       ],
-      "abstract": "",
+      "abstract": "Gates Foundation.",
       "publication_date": "2025-10-01",
       "source": "The Lancet",
       "source_type": "journal",
@@ -1344,7 +1380,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4414401570",
@@ -1395,7 +1431,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4414214471",
@@ -1452,7 +1488,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4413205737",
@@ -1496,7 +1532,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W3170277562",
@@ -1547,7 +1583,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4412416760",
@@ -1599,7 +1635,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W7118973693",
@@ -1646,7 +1682,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4412049411",
@@ -1689,7 +1725,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4411701583",
@@ -1737,7 +1773,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4411407378",
@@ -1791,7 +1827,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4411406952",
@@ -1834,7 +1870,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4412074962",
@@ -1893,7 +1929,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4412075013",
@@ -1940,7 +1976,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4410382978",
@@ -1995,7 +2031,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4409963010",
@@ -2046,7 +2082,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4409962852",
@@ -2089,7 +2125,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4409341336",
@@ -2140,7 +2176,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4409239967",
@@ -2187,7 +2223,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4408994179",
@@ -2226,7 +2262,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4409032724",
@@ -2270,7 +2306,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4408955263",
@@ -2321,7 +2357,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     },
     {
       "id": "W4408587457",
@@ -2369,15 +2405,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-15"
+      "added_date": "2026-03-16"
     }
   ],
   "meta": {
-    "last_updated": "2026-03-15T11:18:09Z",
-    "paper_count": 49,
+    "last_updated": "2026-03-16T11:40:00Z",
+    "paper_count": 50,
     "date_range": {
       "from": "2025-03-17",
-      "to": "2026-03-15"
+      "to": "2026-03-16"
     }
   }
 }
