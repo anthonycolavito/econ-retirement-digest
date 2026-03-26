@@ -168,7 +168,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7131390878",
@@ -216,7 +216,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7130643125",
@@ -267,7 +267,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7127639882",
@@ -320,7 +320,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7127647932",
@@ -375,7 +375,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7127592864",
@@ -426,7 +426,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7127622621",
@@ -469,7 +469,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7126193704",
@@ -524,7 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7126120302",
@@ -575,7 +575,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7125009254",
@@ -630,7 +630,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W3207058961",
@@ -685,7 +685,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7118022352",
@@ -728,7 +728,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7118170164",
@@ -771,7 +771,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7118192714",
@@ -815,7 +815,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7118833805",
@@ -858,7 +858,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7117489691",
@@ -909,7 +909,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7116980467",
@@ -957,7 +957,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4416952202",
@@ -1004,7 +1004,68 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414414795",
+      "title": "Social Security Reforms and Inequality among Older Workers in Spain",
+      "authors": [
+        {
+          "name": "Cristina Bellés‐Obrero",
+          "affiliation": ""
+        },
+        {
+          "name": "Manuel Flores Mallo",
+          "affiliation": ""
+        },
+        {
+          "name": "Pilar García‐Gómez",
+          "affiliation": ""
+        },
+        {
+          "name": "Sergi Jiménez‐Martín",
+          "affiliation": ""
+        },
+        {
+          "name": "Judit Vall Castelló",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "This chapter studies social security reforms and trends in inequalities among older workers over the last decades in Spain.Its main goal is to analyze the redistributive impact of the various pension reforms on older income inequality.Compared to the rules in 1985, recent pension reforms have led to an average increase on Social Security Wealth of approximately 18,000 for men and 15,000 for women.This represents a ten and eight percent increase, respectively.This effect is mostly driven by the mechanical or direct effect (e.g. via benefit adjustments), while changes in retirement probability (secondary or behavioral effect) are close to zero.Furthermore, we find striking differences across income quartiles, for both men and women.In both cases, there is a clear income gradient, where the richest quartile has benefitted the most with an increase close to twenty percent, or over 50,000, for both men and women.Conversely, the change for the poorest income quartile for men and the two poorest income quartiles for women is close to zero or even slightly negative.This is likely due to the effect of minimum benefits (that mark the generosity of the system, see Boldrin et al, 1999) that automatically absorb any other effect for low-income individuals.",
+      "publication_date": "2025-12-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "preprint",
+      "doi": "10.3386/w34577",
+      "url": "https://doi.org/10.3386/w34577",
+      "topics": [
+        "public_pensions",
+        "retirement_decisions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Social security",
+          "score": 0.746
+        },
+        {
+          "name": "Inequality",
+          "score": 0.679
+        },
+        {
+          "name": "Social inequality",
+          "score": 0.507
+        },
+        {
+          "name": "Economics",
+          "score": 0.491
+        },
+        {
+          "name": "Pension",
+          "score": 0.45
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4416431798",
@@ -1059,7 +1120,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4416233231",
@@ -1115,7 +1176,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4416176458",
@@ -1159,7 +1220,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4415700305",
@@ -1203,7 +1264,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4415659132",
@@ -1258,7 +1319,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4415598714",
@@ -1301,7 +1362,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4415092550",
@@ -1380,7 +1441,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4414401570",
@@ -1431,7 +1492,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4414214471",
@@ -1488,7 +1549,325 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414192428",
+      "title": "Is Managed Care Effective in Long-term Care Settings? Evidence from Medicare Institutional Special Needs Plans",
+      "authors": [
+        {
+          "name": "Momotazur Rahman",
+          "affiliation": ""
+        },
+        {
+          "name": "Brian E. McGarry",
+          "affiliation": ""
+        },
+        {
+          "name": "Elizabeth White",
+          "affiliation": ""
+        },
+        {
+          "name": "David T. Grabowski",
+          "affiliation": ""
+        },
+        {
+          "name": "Cyrus M. Kosar",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Nursing homes face unique financial incentives that encourage under-investment in onsite clinical capabilities and overreliance on hospitals to triage and care for residents with dementia, contributing to high levels of health care spending for this population.A proposed solution to align incentives are Institutional Special Needs Plans (I-SNPs), which combine capitated financing with plan-provided onsite clinician presence.Using 12 million resident-quarters of data from 2016-2022, we exploit the timing of nursing homes' I-SNP contracting to instrument for plan enrollment and estimate causal effects on hospitalization and other health outcomes.We found that I-SNP enrollment reduced quarterly hospitalization rates by 3 to 4 percentage points, which equates to one third of hospitalizations relative to the sample mean.We do not find consistent evidence of an impact on other health outcomes and quality of care indicators.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34235",
+      "url": "https://doi.org/10.3386/w34235",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Managed care",
+          "score": 0.784
+        },
+        {
+          "name": "Incentive",
+          "score": 0.734
+        },
+        {
+          "name": "Triage",
+          "score": 0.62
+        },
+        {
+          "name": "Business",
+          "score": 0.591
+        },
+        {
+          "name": "Sample (material)",
+          "score": 0.536
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414156582",
+      "title": "In Money, We Survive: The Effects of Social Security Retirement Income on Longevity",
+      "authors": [
+        {
+          "name": "Hamid Noghanibehambari",
+          "affiliation": ""
+        },
+        {
+          "name": "Jason M. Fletcher",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "An old and debated line of research examines the income-mortality relationship and finds mixed evidence.In this paper, we re-evaluate previous studies using a new dataset and implementing a difference-in-difference model based on a Notch in Social Security retirement benefits to overcome selection and endogeneity issues.We employ Social Security Administration death records and find a positive income-longevity relationship.Moreover, we find more pronounced effects among low-educated individuals and people from low socioeconomic status families.Analyses using census data suggest that part of the reductions in retirement income are offset by wage income due to post-retirement labor force participation.Past age 80, the net adverse effects of the policy on both income and longevity become more pronounced.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34199",
+      "url": "https://doi.org/10.3386/w34199",
+      "topics": [
+        "public_pensions",
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Social security",
+          "score": 0.747
+        },
+        {
+          "name": "Economics",
+          "score": 0.621
+        },
+        {
+          "name": "Socioeconomic status",
+          "score": 0.523
+        },
+        {
+          "name": "Longevity",
+          "score": 0.49
+        },
+        {
+          "name": "Adverse selection",
+          "score": 0.477
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414156620",
+      "title": "Place-Based Variation in Health Care: Evidence from Mandatory Movers in the U.S. Military Health System",
+      "authors": [
+        {
+          "name": "William Patrick Luan",
+          "affiliation": ""
+        },
+        {
+          "name": "R. García Leal",
+          "affiliation": ""
+        },
+        {
+          "name": "John L. Zhou",
+          "affiliation": ""
+        },
+        {
+          "name": "Jonathan Skinner",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "There is increasing evidence on regional variations in U.S. Medicare utilization based on older patients who move.Yet evidence is limited for younger ages in the U.S., and movers may differ systematically from those who don't move.In this paper, we harness the mandatory migration of military personnel and dependents (age 5 to 64) to estimate supply and demand factors in a system of care in which military physicians are salaried and copayments and deductibles are negligible.In our sample of 3 million enrollees, we find that place or supply effects explain as much as 80 percent of the overall regional variation for both the entire sample and for active-duty personnel.These regional place effects are correlated across age groups, with correlations as high as 0.84 between middle-aged and older military enrollees.These regional supply-side variations cannot be explained by differences in health, financial incentives, or quality of care, but appear consistent with location-specific differences in physician beliefs.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34204",
+      "url": "https://doi.org/10.3386/w34204",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Regional variation",
+          "score": 0.76
+        },
+        {
+          "name": "Variation (astronomy)",
+          "score": 0.646
+        },
+        {
+          "name": "Sample (material)",
+          "score": 0.626
+        },
+        {
+          "name": "Quality (philosophy)",
+          "score": 0.515
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.497
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414156777",
+      "title": "Global Working Hours",
+      "authors": [
+        {
+          "name": "Amory Gethin",
+          "affiliation": ""
+        },
+        {
+          "name": "Emmanuel Saez",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "This paper uses labor force surveys from 160 countries to build a new microdatabase on hours worked covering 97% of the world population in cross section.We also construct time series spanning over 20 years in 86 countries.Hours worked per adult are slightly bell-shaped with GDP per capita but weakly correlated with development overall.Hours worked by the young (aged 15-19) and elderly (aged 60+) decline with development, driven by growing school attendance and public pension coverage.Hours worked among prime-age adults (aged 20-59) are mildly bellshaped with development for men while they are increasing for women.The fall in male hours in middle-to-higher income countries is driven by reduced hours per worker and is offset by increases in female labor force participation.These two forces have exactly compensated each other in many countries, leading to a remarkable long-run stability of prime-age hours worked.Labor taxes are strongly negatively correlated with prime-age hours worked both in international comparisons and overtime within countries.Controlling for government transfers only partly reduces the link between labor taxes and prime-age hours, ruling out substitution and income effects on labor supply as the only driver.Controlling for working hours regulations and the size of the formal sector eliminates this link, suggesting that regulations also play a large role in reducing intensive hours in higher-income countries.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34217",
+      "url": "https://doi.org/10.3386/w34217",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Overtime",
+          "score": 0.643
+        },
+        {
+          "name": "Working hours",
+          "score": 0.64
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.519
+        },
+        {
+          "name": "Per capita",
+          "score": 0.511
+        },
+        {
+          "name": "Work hours",
+          "score": 0.498
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414192439",
+      "title": "More to Live for: Health Investment Responses to Expected Retirement Wealth in Chile",
+      "authors": [
+        {
+          "name": "Grant Miller",
+          "affiliation": ""
+        },
+        {
+          "name": "Nieves Valdés",
+          "affiliation": ""
+        },
+        {
+          "name": "Marcos Vera‐Hernández",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "An important but poorly understood way that economic development may influence health is through the private incentives that it creates for individuals to invest in their own health.In this paper, we study how individuals' forward-looking health investments respond to changes in expected future (but not current) wealth.Focusing on institutional features of Chile's public pension overhaul in 1981, we link administrative microdata to a detailed household panel survey, and we then exploit discrete breaks in the resulting cohort pension wealth profile using a fuzzy regression kink design (RKD).Although theoretically ambiguous, empirically we find that greater expected pension wealth increases the use of important preventive medical care (and to a lesser extent, promotes more costly healthy lifestyle behaviors) -leading to measurable increases in chronic disease diagnosis (a requisite for appropriate disease management), reductions in disease prevalence, and measurably lower mortality in old age (particularly due to chronic diseases).In general, these results provide new evidence that economic development can have a meaningful incentive effect on health.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34249",
+      "url": "https://doi.org/10.3386/w34249",
+      "topics": [
+        "public_pensions",
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.754
+        },
+        {
+          "name": "Microdata (statistics)",
+          "score": 0.697
+        },
+        {
+          "name": "Pension",
+          "score": 0.552
+        },
+        {
+          "name": "Economics",
+          "score": 0.518
+        },
+        {
+          "name": "Disease",
+          "score": 0.42
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4414192476",
+      "title": "Insuring Labor Income Shocks: The Role of the Dynasty",
+      "authors": [
+        {
+          "name": "Andreas Fagereng",
+          "affiliation": ""
+        },
+        {
+          "name": "Luigi Guiso",
+          "affiliation": ""
+        },
+        {
+          "name": "Luigi Pistaferri",
+          "affiliation": ""
+        },
+        {
+          "name": "Marius Alexander Kalleberg Ring",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We provide empirical evidence on the importance of a relatively understudied channel of insurance against labor income shocks: transfers from (cash-rich) parents to (cash-short) children when the latter experience negative wage shocks.Matching population data for Norway across two generations, we establish several results.First, parents make a transfer-i.e., run down liquid assets -when adult children experience negative labor income shocks.Consistent with dynastic insurance, we observe no transfers when income shocks are positive.Second, parents' responses depend on the nature of the shock.If losses are temporary, parents dissave; if they are persistent, parents save in order to make future transfers.Parental transfers offset 43% of temporary and 27% of persistent losses.Third, insurance is lower when children have other smoothing options, like spousal labor supply, and is greater for shocks to their own child versus a child's spouse.Support also increases if the spouse's parents can contribute, suggesting \"competition for attention.\"Lastly, insurance flows are one-way: children do not insure their parents against income losses.",
+      "publication_date": "2025-09-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34253",
+      "url": "https://doi.org/10.3386/w34253",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.66
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.616
+        },
+        {
+          "name": "Consumption smoothing",
+          "score": 0.516
+        },
+        {
+          "name": "Wage",
+          "score": 0.506
+        },
+        {
+          "name": "Population",
+          "score": 0.457
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4413205737",
@@ -1532,7 +1911,58 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4413417481",
+      "title": "Creative Financing and Public Moral Hazard: Evidence from Medicaid and the Nursing Home Industry",
+      "authors": [
+        {
+          "name": "Martin B. Hackmann",
+          "affiliation": ""
+        },
+        {
+          "name": "J.C. Rojas",
+          "affiliation": ""
+        },
+        {
+          "name": "Nicolas R. Ziebarth",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2025-08-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34118",
+      "url": "https://doi.org/10.3386/w34118",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Medicaid",
+          "score": 0.859
+        },
+        {
+          "name": "Moral hazard",
+          "score": 0.841
+        },
+        {
+          "name": "Nursing homes",
+          "score": 0.647
+        },
+        {
+          "name": "Business",
+          "score": 0.531
+        },
+        {
+          "name": "Nursing",
+          "score": 0.492
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W3170277562",
@@ -1583,7 +2013,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4412416760",
@@ -1635,7 +2065,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W7118973693",
@@ -1682,7 +2112,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4412049411",
@@ -1725,7 +2155,219 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4412439464",
+      "title": "Credit Scores and Inequality across the Life Cycle",
+      "authors": [
+        {
+          "name": "Satyajit Chatterjee",
+          "affiliation": ""
+        },
+        {
+          "name": "Dean Corbae",
+          "affiliation": ""
+        },
+        {
+          "name": "Kyle Dempsey",
+          "affiliation": ""
+        },
+        {
+          "name": "José-V́ıctor Ŕıos-Rull",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Credit scores are a primary screening device for the allocation of credit, housing, and sometimes even employment.In the data, credit scores grow and fan out with age; at the same time, income and consumption inequality also increase with a cohort's age.We postulate a simple model with hidden information to explore the joint determination of credit scores, income, and consumption over an individual's lifetime which can replicate these empirical facts.We use the model to understand the role of technologies like big data or legal restrictions limiting information on certain adverse events like medical expenses intended to increase credit market access.",
+      "publication_date": "2025-07-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "preprint",
+      "doi": "10.3386/w34027",
+      "url": "https://doi.org/10.3386/w34027",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Inequality",
+          "score": 0.594
+        },
+        {
+          "name": "Economics",
+          "score": 0.394
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.389
+        },
+        {
+          "name": "Psychology",
+          "score": 0.341
+        },
+        {
+          "name": "Econometrics",
+          "score": 0.333
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4412076782",
+      "title": "The Revenue and Distributional Impacts of Unemployment Insurance Reform: Evidence from California",
+      "authors": [
+        {
+          "name": "Mark Duggan",
+          "affiliation": ""
+        },
+        {
+          "name": "Jonathan Gruber",
+          "affiliation": ""
+        },
+        {
+          "name": "Audrey Guo",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "In the United States, unemployment insurance (UI) is funded through employer-side payroll taxes that are experience-rated based on previous UI claims.States differ significantly with respect to the financing of their programs, and a majority of state programs do not currently meet minimum UI trust fund solvency standards.A common culprit in the least solvent states is a very low tax base of earnings on which UI taxes are levied.We focus on California, the least solvent of the 50 state UI programs, with debt currently to the federal government of $21 billion, and which has the lowest base of taxable earnings at $7000 per year.We use matched employer-employee administrative data to estimate the impact of financing reforms to California's UI system.We find that raising the taxable earnings base would replenish the state's UI trust fund and would increase experience rating by reducing the number of systematically subsidized firms.While this improves vertical equity of the UI system, it would also worsen horizontal equity by imposing much larger percentage increases in tax costs on the firms with the fewest layoffs.Alternatively, matching the higher tax base with both higher maximum and lower minimum rates could improve both experience rating and horizontal equity.",
+      "publication_date": "2025-07-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33995",
+      "url": "https://doi.org/10.3386/w33995",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Unemployment",
+          "score": 0.829
+        },
+        {
+          "name": "Revenue",
+          "score": 0.727
+        },
+        {
+          "name": "Economics",
+          "score": 0.571
+        },
+        {
+          "name": "Business",
+          "score": 0.349
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.345
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4412439152",
+      "title": "Wealth Inequality, Labor Market Arrangements and the Secular Decline in the Real Interest Rate",
+      "authors": [
+        {
+          "name": "John Donaldson",
+          "affiliation": ""
+        },
+        {
+          "name": "Hyung Seok Kim",
+          "affiliation": ""
+        },
+        {
+          "name": "Rajnish Mehra",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We develop a dynamic macroeconomic model in which the secular decline in real interest rates arises endogenously from rising wealth inequality.Challenging the standard \"safe asset shortage\" hypothesis, the model shows how falling real rates can coexist with a stable safe asset ratioclosely matching U.S. empirical patterns.The mechanism combines limited financial market participation, which concentrates capital ownership among a shrinking class of stockholders, with egalitarian wage bargaining, which generates time-varying labor income shares under incomplete markets.As inequality increases, stockholders face higher financial and operating leverage, increasing their consumption volatility and precautionary demand for bonds.At the same time, greater wage instability raises workers' demand for safe assets.The resulting surge in precautionary savings from both groups depresses real returns and creates the appearance of a safe asset shortage, despite an unchanged supply.This outcome reflects a pecuniary externality: agents fail to internalize the aggregate constraint on safe assets, especially over the business cycle.Our calibrated model reproduces key macro-financial patterns and offers new insights into the joint dynamics of wealth distribution, labor market arrangements, and asset pricing.",
+      "publication_date": "2025-07-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34016",
+      "url": "https://doi.org/10.3386/w34016",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Inequality",
+          "score": 0.773
+        },
+        {
+          "name": "Economics",
+          "score": 0.689
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.466
+        },
+        {
+          "name": "Interest rate",
+          "score": 0.448
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.328
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4412535926",
+      "title": "How Do Tax Incentives Influence Employer Decisions to Offer Retirement Benefits?",
+      "authors": [
+        {
+          "name": "Adam Bloomfield",
+          "affiliation": ""
+        },
+        {
+          "name": "Lucas Goodman",
+          "affiliation": ""
+        },
+        {
+          "name": "Shanthi Ramnath",
+          "affiliation": ""
+        },
+        {
+          "name": "Sita Slavov",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "In recent years, policy makers have adopted many measures to incentivize the establishment of employer-sponsored retirement plans (ESRPs).One such measure -implemented in the early 2000s and made more generous in recent years -allows smaller firms that establish an ESRP to claim a tax credit to offset part of their costs during the initial years.We examine firm take-up of this credit.We find that only 1 percent (pre-policy expansion) to 5.5 percent (post-policy expansion) of apparently eligible firms claim the credit.We document heterogeneity in credit takeup rates by industry, firm owner education, and use of tax preparation services.We also document evidence of \"tax preparer learning,\" whereby take-up among a tax preparer's clients increases after that preparer files their first credit.Finally, we document that most firms only claim the credit for one year despite being eligible to do so for up to three years.",
+      "publication_date": "2025-07-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34043",
+      "url": "https://doi.org/10.3386/w34043",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.747
+        },
+        {
+          "name": "Business",
+          "score": 0.581
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.394
+        },
+        {
+          "name": "Public economics",
+          "score": 0.342
+        },
+        {
+          "name": "Economics",
+          "score": 0.333
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4411701583",
@@ -1773,7 +2415,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4411407378",
@@ -1827,7 +2469,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4411406952",
@@ -1870,7 +2512,111 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411333898",
+      "title": "Defaulting 401(k) Assets into Payout Annuities for “Pretty Good” Lifetime Incomes",
+      "authors": [
+        {
+          "name": "Vanya Horneff",
+          "affiliation": ""
+        },
+        {
+          "name": "Raimond Maurer",
+          "affiliation": ""
+        },
+        {
+          "name": "Olivia Mitchell",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Some US defined contribution plans offer retirees access to an annuity or lifetime income stream as payout options from their 401(k) accounts.Nevertheless, for behavioral reasons, some retirees may hesitate to elect lifetime income streams as a drawdown vehicle.To counter this, plan sponsors could automatically allocate a portion of retirees' 401(k) assets to annuities, now that regulatory barriers to doing so have eased.Using a lifecycle economic model, we evaluate the pros and cons of defaulting retirees' 401(k) assets into payout annuities.We show that defaulting 20% of a retiree's assets over a threshold into an immediate annuity enhances retirement security for most plan participants.An annuity deferred to the age of 80 is particularly beneficial to college graduates, in terms of enhancing their welfare",
+      "publication_date": "2025-06-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33915",
+      "url": "https://doi.org/10.3386/w33915",
+      "topics": [
+        "private_pensions",
+        "insurance_markets"
+      ],
+      "concepts": [
+        {
+          "name": "Default",
+          "score": 0.839
+        },
+        {
+          "name": "Economics",
+          "score": 0.49
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.401
+        },
+        {
+          "name": "Business",
+          "score": 0.398
+        },
+        {
+          "name": "Monetary economics",
+          "score": 0.323
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411333887",
+      "title": "Does Matching Contribution Incentivize Informal Workers to Participate in Retirement Saving Plans? A Randomized Evaluation Interacted with a Natural Experiment",
+      "authors": [
+        {
+          "name": "Noelia Bernal",
+          "affiliation": ""
+        },
+        {
+          "name": "Sebastián Galiani",
+          "affiliation": ""
+        },
+        {
+          "name": "Oswaldo Molina",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We conducted a large field experiment in Peru on informal workers and studied whether offering them a matching contribution raise participation and contributions in their Individual Retirement Accounts.We had three groups: a control group receiving no match, and two treatments groups receiving 50 and 100 percent match, respectively.Additionally, due to the time span, we can also analyze the difference responses between pre and during Covid-19.The results were as follows.First, the match incentive increases participation.Workers in the 50 and 100 percent match groups show participation rates of 5.2 and 6.5 p.p. higher than workers in the control group, respectively.The participation effect is also present pre Covid-19 and disappears during it.Second, the 100 percent match incentive was the only effective in increasing savings among all individuals (1.4 p.p.), pre (2.3 p.p.) and during Covid-19 (0.97 p.p.).This effect still presents in LATE specification with higher p.p. Third, 100% match was again the only effective to make contribute more than once, in the full sample (1.2 p.p.), and pre Covid-19 (2.7 p.p.), including LATE specification (full sample -5.6 p.p.; pre .Fourth the 50 percent match is not effective in raising contribution in any specification.",
+      "publication_date": "2025-06-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33925",
+      "url": "https://doi.org/10.3386/w33925",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Natural experiment",
+          "score": 0.819
+        },
+        {
+          "name": "Matching (statistics)",
+          "score": 0.705
+        },
+        {
+          "name": "Natural (archaeology)",
+          "score": 0.608
+        },
+        {
+          "name": "Business",
+          "score": 0.38
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.374
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4412075013",
@@ -1917,7 +2663,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4412074962",
@@ -1976,7 +2722,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4410382978",
@@ -2031,7 +2777,204 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411014652",
+      "title": "Income and Wealth Inequality in the United States: An Update Including the 2022 Wave",
+      "authors": [
+        {
+          "name": "Moritz Kuhn",
+          "affiliation": ""
+        },
+        {
+          "name": "José-Víctor Ríos-Rull",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We provide a comprehensive overview of earnings, income and wealth inequality based on the 2022 Survey of Consumer Finances from the United States.We document the current state of inequality and its evolution over the last three decades organizing the data along key demographic dimensions including age, education, and marital status.The 2022 data reveal that wealth remains highly concentrated, with the top 1% holding 35% of total wealth down from a peak of 39% in 2016.This recent decline in wealth concentration-occurring despite rising income inequalityreflects strong housing price appreciation that disproportionately benefited middle-class households.We extend previous analyses with new perspectives on inequality, including: (1) the role of labor market segmentation in generating wealth disparities beyond standard employment categories; (2) differences in wealth accumulation across birth cohorts showing that younger generations accumulate less wealth than their predecessors at comparable ages; (3) disparities associated with family structure, particularly the financial vulnerability of single-parent households; and (4) heterogeneity in self-reported savings motives, with precautionary savings dominating for lower-wealth households while retirement planning and bequests become more prominent at the top of the distribution.These findings enhance our understanding of the multifaceted nature of inequality and offer essential inputs for structural models and policy design.",
+      "publication_date": "2025-05-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33823",
+      "url": "https://doi.org/10.3386/w33823",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Inequality",
+          "score": 0.671
+        },
+        {
+          "name": "Economic inequality",
+          "score": 0.554
+        },
+        {
+          "name": "Economics",
+          "score": 0.529
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.351
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411015738",
+      "title": "How Longevity and Health Information Shapes Retirement Advice",
+      "authors": [
+        {
+          "name": "Abigail Hurwitz",
+          "affiliation": ""
+        },
+        {
+          "name": "Olivia S. Mitchell",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We investigate how advisors' own health and survival assessments, and information about their advisees' health and survival probabilities, shape their recommendations regarding retirement spending and investment.Using experiments involving amateur and professional advisors, we show that advisors' self-assessments have only mild effects on their recommendations, but they do respond differently when provided longevity and health information about their advisees.Moreover, amateur advisors mainly react to simple cues, while professional advisors are more sensitive to client-specific information.While many rely on informal advice from friends or family, amateurs often cannot accurately analyze and utilize key information needed to provide suitable advice.",
+      "publication_date": "2025-05-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33872",
+      "url": "https://doi.org/10.3386/w33872",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Longevity",
+          "score": 0.93
+        },
+        {
+          "name": "Advice (programming)",
+          "score": 0.826
+        },
+        {
+          "name": "Health and Retirement Study",
+          "score": 0.553
+        },
+        {
+          "name": "Psychology",
+          "score": 0.363
+        },
+        {
+          "name": "Gerontology",
+          "score": 0.362
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411015761",
+      "title": "Tax Preferences and Housing Affordability: Explorations using a Life-Cycle Model",
+      "authors": [
+        {
+          "name": "Michael Keane",
+          "affiliation": ""
+        },
+        {
+          "name": "Xiangling Liu",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We present a dynamic life-cycle model of demand for owner-occupied housing, investment property and liquid assets.Households face transaction costs, downpayment requirements, liquidity constraints, and tax preferences for owner-occupied housing.The model replicates key facts about home ownership, liquid assets, debt and consumption.It predicts taxing imputed rent would raise enough revenue to fund a 9.15% income tax rate cut, and increase ex ante welfare of all agents.Eliminating the mortgage interest deduction (MID) also gives a Pareto improvement.Replacing MID with a refundable 24.6%mortgage interest credit would increase the ownership rate by 5.9%.Gains are concentrated among low to middle income households and young households, as housing becomes more affordable for them.",
+      "publication_date": "2025-05-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33809",
+      "url": "https://doi.org/10.3386/w33809",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.457
+        },
+        {
+          "name": "Public economics",
+          "score": 0.342
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4411014679",
+      "title": "Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine",
+      "authors": [
+        {
+          "name": "Aditya Jain",
+          "affiliation": ""
+        },
+        {
+          "name": "Gil Peled",
+          "affiliation": ""
+        },
+        {
+          "name": "Filip Obradović",
+          "affiliation": ""
+        },
+        {
+          "name": "Federico Crippa",
+          "affiliation": ""
+        },
+        {
+          "name": "Yeshaya Nussbaum",
+          "affiliation": ""
+        },
+        {
+          "name": "Michael Gmeiner",
+          "affiliation": ""
+        },
+        {
+          "name": "Daniela P. Ladner",
+          "affiliation": ""
+        },
+        {
+          "name": "Charles F. Manski",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Even though data on hospital admissions are widely used in health research, hospitalization-related quantities measured using these data are not always clearly conceptualized.Consequently, estimators of these quantities can have unclear rationales and undesirable properties.We evaluate three rate estimators for measuring hospitalization-related quantities that are of interest in health economics and clinical medicine subspecialities.Using the Grossman human capital model, we motivate the importance of measuring healthy time.We show that an upper bound on healthy time can be calculated using lengths of hospital stay without assumptions about health status outside the hospital.We find that an admission rate conventionally used in clinical research is a patient followup time weighted average that lacks a clear basis for the weights.We evaluate the Centers for Medicare and Medicaid Services (CMS) use of risk-standardized readmission rates to penalize hospitals under the Hospital Readmissions Reduction Program (HRRP) and find that it may inadvertently conflict with disease-specific care aimed at reducing mortality risk.We show that risk-standardized rates can be sensitive to patient case mix, potentially leading to hospital rankings that do not reflect hospital quality.We also summarize debates regarding the effectiveness of riskstandardized readmission rates in reducing readmissions.",
+      "publication_date": "2025-05-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33768",
+      "url": "https://doi.org/10.3386/w33768",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Health economics",
+          "score": 0.591
+        },
+        {
+          "name": "Medical economics",
+          "score": 0.509
+        },
+        {
+          "name": "Econometrics",
+          "score": 0.391
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.387
+        },
+        {
+          "name": "Economics",
+          "score": 0.367
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4409963010",
@@ -2082,7 +3025,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4409962852",
@@ -2125,7 +3068,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4409341336",
@@ -2176,7 +3119,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4409239967",
@@ -2223,7 +3166,237 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4409318925",
+      "title": "Counting the Poor: The Liquidity-Adjusted Supplemental Expenditure Poverty Measure",
+      "authors": [
+        {
+          "name": "Sung Ah Bahk",
+          "affiliation": ""
+        },
+        {
+          "name": "John Fitzgerald",
+          "affiliation": ""
+        },
+        {
+          "name": "Robert Moffitt",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Most poverty calculations use income-based or consumption-based measures.We introduce a new, third measure of poverty status which is based on household expenditure.Expenditure is the theoretically correct measure of resources actually transferred into a given period in the life cycle.But the presence of illiquid service flows from durable goods, which can only be used to purchase that good in the minimum standard of living bundle and no other good, requires an adjustment both to resources and to the poverty threshold to allow a proper comparison of liquid resources to liquidity-adjusted thresholds.We also show that the expenditure impact of transfers on the poverty rate requires an adjustment for effects of transfers on precautionary saving and for their role as consumption insurance.Using the 2009-2022 Consumer Expenditure Survey, our liquidityadjusted poverty measure yields a 2022 poverty rate of 8.3 percent, declining by 11 percent since 2009.Our measure trends in broadly similar ways to income-and consumption-based measures but only because differences in how thresholds and resources are calculated are offsetting.We also find that accounting for precautionary saving and the insurance role of transfers could make the antipoverty impact of transfers somewhat smaller than that estimated ignoring these effects.",
+      "publication_date": "2025-04-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33656",
+      "url": "https://doi.org/10.3386/w33656",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Market liquidity",
+          "score": 0.719
+        },
+        {
+          "name": "Poverty",
+          "score": 0.688
+        },
+        {
+          "name": "Measure (data warehouse)",
+          "score": 0.68
+        },
+        {
+          "name": "Economics",
+          "score": 0.503
+        },
+        {
+          "name": "Business",
+          "score": 0.358
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4409318934",
+      "title": "Failures of Contingent Reasoning in Annuitization Decisions",
+      "authors": [
+        {
+          "name": "Erzo F.P. Luttmer",
+          "affiliation": ""
+        },
+        {
+          "name": "Priscila de Oliveira",
+          "affiliation": ""
+        },
+        {
+          "name": "Dmitry Taubinsky",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "This paper studies psychological biases in take-up of annuities, using an incentivized experiment with a probability-based sample (N = 3,038).Choosing an annuity was payoff-maximizing in the experiment at all prices, but take-up was incomplete and price elastic.Reformulating decisions as insurance against a \"bad\" outcome rather than insurance against \"longevity risk\" did not increase take-up.Instead, we find substantial failures of contingent reasoning: participants underappreciated how annuitization mitigated the need for less-efficient means of saving for retirement.Increasing the salience of the interaction with savings decisions, or eliminating the need to think through this interaction altogether, substantially increased annuity take-up.",
+      "publication_date": "2025-04-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33654",
+      "url": "https://doi.org/10.3386/w33654",
+      "topics": [
+        "longevity_mortality",
+        "insurance_markets"
+      ],
+      "concepts": [
+        {
+          "name": "Actuarial science",
+          "score": 0.651
+        },
+        {
+          "name": "Economics",
+          "score": 0.497
+        },
+        {
+          "name": "Computer science",
+          "score": 0.321
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4409319080",
+      "title": "Taxes on Lifetime Income: A Good Idea?",
+      "authors": [
+        {
+          "name": "Dirk Krueger",
+          "affiliation": ""
+        },
+        {
+          "name": "Chunzan Wu",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Household consumption and welfare are more strongly associated with lifetime income, but most countries base income taxes on current income and use progressive taxes to reduce inequality and provide social insurance.Is lifetime income a better tax base for a government seeking to provide social insurance and redistribution?To answer this question, we build a quantitative life-cycle model of heterogeneous households with endogenous labor supply and idiosyncratic wage risks, and calibrate it to the U.S. economy.We document that switching to a lifetime income tax leads to a more efficient distribution of hours worked over time and across states of the world.This benefit rises with tax progressivity under a lifetime income tax, whereas the opposite is true under an annual income tax.Consequently, the optimal lifetime income tax is more progressive and achieves larger ex-ante welfare for a cohort of households than the optimal annual income tax.",
+      "publication_date": "2025-04-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33664",
+      "url": "https://doi.org/10.3386/w33664",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.485
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4409421987",
+      "title": "Performance Capital Flows in DC Pensions",
+      "authors": [
+        {
+          "name": "Benjamin Cortez",
+          "affiliation": ""
+        },
+        {
+          "name": "Victoria Ivashina",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Juliana Salomão",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "Are defined contribution (DC) pension funds' capital flows sensitive to performance?We examine pressures from individual account holders who can switch their pension managers.Using novel data on retirement accounts for nearly 10 million individuals, we analyze switching behavior based on the plan's risk profile.Switching across managers within the same pension product is not uncommon, and the tendency to change managers rises over time.Capital flows are sensitive to and increase with fund performance.This sensitivity creates pressure on managers, shaping their incentives and portfolio decisions.A quasi-exogenous increase in outflows leads managers to shift toward higher-yielding bond holdings.",
+      "publication_date": "2025-04-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w33693",
+      "url": "https://doi.org/10.3386/w33693",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Capital (architecture)",
+          "score": 0.578
+        },
+        {
+          "name": "Capital flows",
+          "score": 0.494
+        },
+        {
+          "name": "Economics",
+          "score": 0.45
+        },
+        {
+          "name": "Business",
+          "score": 0.409
+        },
+        {
+          "name": "Financial system",
+          "score": 0.365
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
+    },
+    {
+      "id": "W4409422691",
+      "title": "Pension Reform and Labor Supply: Retention and Productivity under a Pension Cut",
+      "authors": [
+        {
+          "name": "Andrew C. Johnston",
+          "affiliation": ""
+        },
+        {
+          "name": "Jonah Rockoff",
+          "affiliation": ""
+        },
+        {
+          "name": "James R. Harrington",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We examine the effect of a representative pension reform on the retention and productivity of workers.The reform cut pension annuities and early retirement benefits for public school teachers, projected to save eight percent of pension revenues.We leverage administrative records and a discontinuity in the reform to estimate its effect.Contrary to expectations, the cut increased retention by discouraging early retirement.Using idiosyncratic within-school variation in exposure, we find the reform somewhat increased student achievement by 0.01-0.03standard deviations, partly through reduced turnover.The reform thus maintained or improved both teacher retention and productivity.",
+      "publication_date": "2025-04-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "preprint",
+      "doi": "10.3386/w33673",
+      "url": "https://doi.org/10.3386/w33673",
+      "topics": [
+        "retirement_decisions",
+        "private_pensions",
+        "insurance_markets"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.89
+        },
+        {
+          "name": "Productivity",
+          "score": 0.63
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.533
+        },
+        {
+          "name": "Business",
+          "score": 0.459
+        },
+        {
+          "name": "Economics",
+          "score": 0.373
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4408994179",
@@ -2262,7 +3435,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4409032724",
@@ -2306,7 +3479,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     },
     {
       "id": "W4408955263",
@@ -2357,12 +3530,12 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-25"
+      "added_date": "2026-03-26"
     }
   ],
   "meta": {
-    "last_updated": "2026-03-25T11:35:14Z",
-    "paper_count": 49,
+    "last_updated": "2026-03-26T11:42:35Z",
+    "paper_count": 72,
     "date_range": {
       "from": "2025-03-29",
       "to": "2026-03-22"
