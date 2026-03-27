@@ -1,6 +1,49 @@
 {
   "papers": [
     {
+      "id": "W7140275549",
+      "title": "Classification risk in health insurance: The interaction of genetics, prevention, and insurance",
+      "authors": [
+        {
+          "name": "Julia Holzapfel",
+          "affiliation": "LMU Klinikum"
+        }
+      ],
+      "abstract": "This paper examines how interactions between genetic and behavioral risk factors influence the welfare effects of risk classification in health insurance. I show that using behavioral information in insurance pricing Pareto-improves welfare. It directly reduces moral hazard and indirectly mitigates adverse selection by lowering premiums. Under certain conditions, behavioral classification combined with a ban on genetic classification even implements the utilitarian optimum. A ban on genetic classification, however, may also induce inefficient prevention behaviors because insurers cannot tailor incentives to genetic dispositions. As a consequence, the ability of a regulated private market to achieve the utilitarian optimum hinges on how genetic factors influence the productivity of prevention. If interactions between genetic and behavioral factors lead to misaligned prevention incentives, social insurance that incorporates behavioral classification can resolve the remaining market inefficiencies and maximize utilitarian welfare. • Interactions between genetics and health behavior matter for insurance regulation. • Risk classification based on behavioral information improves welfare. • A ban on the use of genetic information may induce inefficient prevention behaviors. • A key criterion is how genetic dispositions affect the productivity of prevention. • The paper considers both a regulated private market and social insurance.",
+      "publication_date": "2026-03-25",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105635",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105635",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Adverse selection",
+          "score": 0.742
+        },
+        {
+          "name": "Private information retrieval",
+          "score": 0.606
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.596
+        },
+        {
+          "name": "Incentive",
+          "score": 0.561
+        },
+        {
+          "name": "Moral hazard",
+          "score": 0.528
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-27"
+    },
+    {
       "id": "nber_w34966",
       "title": "Life Cycle Portfolio Choice with Human Capital and Social Security",
       "authors": [
@@ -168,7 +211,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7131390878",
@@ -216,7 +259,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7130643125",
@@ -267,7 +310,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7127639882",
@@ -320,7 +363,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7127647932",
@@ -375,7 +418,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7127592864",
@@ -426,7 +469,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7127622621",
@@ -469,7 +512,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7126193704",
@@ -524,7 +567,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7126120302",
@@ -575,7 +618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7125009254",
@@ -630,7 +673,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W3207058961",
@@ -685,7 +728,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7118022352",
@@ -728,7 +771,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7118170164",
@@ -771,7 +814,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7118192714",
@@ -815,7 +858,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7118833805",
@@ -858,7 +901,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7117489691",
@@ -909,7 +952,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7116980467",
@@ -957,7 +1000,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4416952202",
@@ -1004,7 +1047,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414414795",
@@ -1065,7 +1108,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4416431798",
@@ -1120,7 +1163,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4416233231",
@@ -1176,7 +1219,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4416176458",
@@ -1220,7 +1263,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4415700305",
@@ -1264,7 +1307,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4415659132",
@@ -1319,7 +1362,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4415598714",
@@ -1362,7 +1405,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4415092550",
@@ -1441,7 +1484,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414401570",
@@ -1492,7 +1535,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414214471",
@@ -1549,7 +1592,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414192428",
@@ -1608,7 +1651,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414156582",
@@ -1656,7 +1699,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414156620",
@@ -1711,7 +1754,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414156777",
@@ -1759,7 +1802,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414192439",
@@ -1812,7 +1855,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4414192476",
@@ -1867,7 +1910,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4413205737",
@@ -1911,7 +1954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4413417481",
@@ -1962,7 +2005,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W3170277562",
@@ -2013,7 +2056,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412416760",
@@ -2065,7 +2108,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W7118973693",
@@ -2112,7 +2155,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412049411",
@@ -2155,7 +2198,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412439464",
@@ -2210,7 +2253,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412076782",
@@ -2261,7 +2304,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412439152",
@@ -2312,7 +2355,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412535926",
@@ -2367,7 +2410,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411701583",
@@ -2415,7 +2458,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411407378",
@@ -2469,7 +2512,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411406952",
@@ -2512,7 +2555,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411333898",
@@ -2564,7 +2607,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411333887",
@@ -2616,7 +2659,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412075013",
@@ -2663,7 +2706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4412074962",
@@ -2722,7 +2765,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4410382978",
@@ -2777,7 +2820,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411014652",
@@ -2821,7 +2864,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411015738",
@@ -2868,7 +2911,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411015761",
@@ -2903,7 +2946,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4411014679",
@@ -2974,7 +3017,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409963010",
@@ -3025,7 +3068,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409962852",
@@ -3068,7 +3111,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409341336",
@@ -3119,7 +3162,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409239967",
@@ -3166,7 +3209,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409318925",
@@ -3217,7 +3260,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409318934",
@@ -3261,7 +3304,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409319080",
@@ -3292,7 +3335,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409421987",
@@ -3343,7 +3386,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409422691",
@@ -3396,7 +3439,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4408994179",
@@ -3435,7 +3478,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4409032724",
@@ -3479,7 +3522,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     },
     {
       "id": "W4408955263",
@@ -3530,15 +3573,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-26"
+      "added_date": "2026-03-27"
     }
   ],
   "meta": {
-    "last_updated": "2026-03-26T11:42:35Z",
-    "paper_count": 72,
+    "last_updated": "2026-03-27T11:35:30Z",
+    "paper_count": 73,
     "date_range": {
       "from": "2025-03-29",
-      "to": "2026-03-22"
+      "to": "2026-03-25"
     }
   }
 }
