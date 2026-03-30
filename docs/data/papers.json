@@ -1,6 +1,49 @@
 {
   "papers": [
     {
+      "id": "W7142083991",
+      "title": "The effects of workers’ compensation experience rating on workers’ absences and employment",
+      "authors": [
+        {
+          "name": "Pascale Lengagne",
+          "affiliation": "Institut de Recherche et de Documentation en Économie de la Santé"
+        }
+      ],
+      "abstract": "This paper examines the effects of experience rating of workers’ compensation (WC) insurance on workers’ absences and employment. I exploit a French reform that increased the degree of experience rating assigned to medium-size firms, thereby strengthening their incentives to reduce WC benefit expenditures of their employees. The findings show that a higher degree of experience rating led to a significant reduction in absences due to work-related injuries or illnesses; the estimates imply an elasticity of a worker’s annual number of work-related absence days with respect to the share of WC benefit expenditures borne by the firm of −1.20, with an extensive-margin elasticity of −0.43. This reduction is not offset by an increase in nonwork-related absences, suggesting that this effect does not reflect a substitution toward filing claims under the nonwork-related insurance scheme. I find no evidence of adverse effects on employment. Instead, the results suggest that increasing the degree of experience rating significantly improved the employment of workers. • Experience rating creates incentives for firms to reduce workers’ compensation benefit payments. • A French reform increased the degree of experience rating, thereby strengthening these incentives. • Stronger incentives led to a substantial reduction in work-related absences taken by workers. • This reduction was not offset by an increase in nonwork-related absences. • Stronger incentives led to improvements in workers’ employment outcomes.",
+      "publication_date": "2026-03-28",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105632",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105632",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.851
+        },
+        {
+          "name": "Economics",
+          "score": 0.59
+        },
+        {
+          "name": "Offset (computer science)",
+          "score": 0.483
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.479
+        },
+        {
+          "name": "Adverse selection",
+          "score": 0.471
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-03-30"
+    },
+    {
       "id": "W7140275549",
       "title": "Classification risk in health insurance: The interaction of genetics, prevention, and insurance",
       "authors": [
@@ -41,7 +84,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "nber_w34966",
@@ -211,7 +254,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7131390878",
@@ -259,7 +302,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7130643125",
@@ -310,7 +353,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7127639882",
@@ -363,7 +406,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7127647932",
@@ -418,7 +461,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7127592864",
@@ -469,7 +512,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7127622621",
@@ -512,7 +555,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7126193704",
@@ -567,7 +610,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7126120302",
@@ -618,7 +661,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7125009254",
@@ -673,7 +716,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W3207058961",
@@ -728,7 +771,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7118022352",
@@ -771,7 +814,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7118170164",
@@ -814,7 +857,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7118192714",
@@ -858,7 +901,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7118833805",
@@ -901,7 +944,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7117489691",
@@ -952,7 +995,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7116980467",
@@ -1000,7 +1043,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4416952202",
@@ -1047,7 +1090,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414414795",
@@ -1108,7 +1151,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4416431798",
@@ -1163,7 +1206,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4416233231",
@@ -1219,7 +1262,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4416176458",
@@ -1263,7 +1306,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4415700305",
@@ -1307,7 +1350,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4415659132",
@@ -1362,7 +1405,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4415598714",
@@ -1405,7 +1448,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4415092550",
@@ -1484,7 +1527,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414401570",
@@ -1535,7 +1578,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414214471",
@@ -1592,7 +1635,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414192428",
@@ -1651,7 +1694,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414156582",
@@ -1699,7 +1742,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414156620",
@@ -1754,7 +1797,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414156777",
@@ -1802,7 +1845,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414192439",
@@ -1855,7 +1898,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4414192476",
@@ -1910,7 +1953,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4413205737",
@@ -1954,7 +1997,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4413417481",
@@ -2005,7 +2048,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W3170277562",
@@ -2056,7 +2099,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412416760",
@@ -2108,7 +2151,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W7118973693",
@@ -2155,7 +2198,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412049411",
@@ -2198,7 +2241,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412439464",
@@ -2253,7 +2296,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412076782",
@@ -2304,7 +2347,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412439152",
@@ -2355,7 +2398,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412535926",
@@ -2410,7 +2453,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411701583",
@@ -2458,7 +2501,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411407378",
@@ -2512,7 +2555,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411406952",
@@ -2555,7 +2598,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411333898",
@@ -2607,7 +2650,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411333887",
@@ -2659,7 +2702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412075013",
@@ -2706,7 +2749,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4412074962",
@@ -2765,7 +2808,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4410382978",
@@ -2820,7 +2863,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411014652",
@@ -2864,7 +2907,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411015738",
@@ -2911,7 +2954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411015761",
@@ -2946,7 +2989,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4411014679",
@@ -3017,7 +3060,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409963010",
@@ -3068,7 +3111,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409962852",
@@ -3111,7 +3154,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409341336",
@@ -3162,7 +3205,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409239967",
@@ -3209,7 +3252,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409318925",
@@ -3260,7 +3303,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409318934",
@@ -3304,7 +3347,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409319080",
@@ -3335,7 +3378,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409421987",
@@ -3386,7 +3429,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409422691",
@@ -3439,7 +3482,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4408994179",
@@ -3478,7 +3521,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     },
     {
       "id": "W4409032724",
@@ -3522,66 +3565,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-03-29"
-    },
-    {
-      "id": "W4408955263",
-      "title": "Female labor supply and rural pension eligibility in Brazil",
-      "authors": [
-        {
-          "name": "Gaurav Khanna",
-          "affiliation": "University of California San Diego"
-        },
-        {
-          "name": "Margaret J. Lay",
-          "affiliation": "Mount Holyoke College"
-        },
-        {
-          "name": "Stephanie Lee",
-          "affiliation": "University of Washington"
-        },
-        {
-          "name": "Benjamin S. Thompson",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "",
-      "publication_date": "2025-03-29",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105352",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105352",
-      "topics": [
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.75
-        },
-        {
-          "name": "Pension",
-          "score": 0.721
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.508
-        },
-        {
-          "name": "Labour supply",
-          "score": 0.433
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-03-29"
+      "added_date": "2026-03-30"
     }
   ],
   "meta": {
-    "last_updated": "2026-03-29T11:20:49Z",
+    "last_updated": "2026-03-30T11:47:29Z",
     "paper_count": 73,
     "date_range": {
-      "from": "2025-03-29",
-      "to": "2026-03-25"
+      "from": "2025-03-31",
+      "to": "2026-03-28"
     }
   }
 }
