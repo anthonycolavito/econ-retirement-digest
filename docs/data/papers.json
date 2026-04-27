@@ -1,6 +1,137 @@
 {
   "papers": [
     {
+      "id": "nber_w35105",
+      "title": "Trends in Health Inequalities among Spanish Retirees",
+      "authors": [
+        {
+          "name": "Cristina Bellés-Obrero",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Manuel Flores Mallo",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Pilar García-Gómez",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sergi Jimenez-Martin",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Judit Vall Castelló",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Spain, with one of the highest life expectancies globally and a rapidly ageing population, faces growing challenges in sustaining its pension, healthcare, and long-term care systems. This study examines trends in health inequalities among retired Spaniards from 2004 to 2022, using eight waves of the Survey of Health, Ageing and Retirement in Europe (SHARE). We analyse five health outcomes—limitations in daily and instrumental activities, number of chronic conditions, a composite health deficiency index, mental health (EURO-D scale), and cognitive performance—and use linear regression to assess income-related gradients, adjusted for age and sex. We also compute a catch-up time measure—the number of years a poorer individual would need to reach the same level of health as a richer individual—and concentration indices of bad health. We then examine how these inequalities change over time, allowing us to explore the potential influence of pension reforms within the context of Spain’s Beveridge-style healthcare system and tax-funded long-term care provision. Our results show no clear evidence that health inequality has increased from 2004 to 2022. These findings contribute to understanding how income disparities interact with social protection systems in ageing societies and inform the design of equitable health, long-term care, and pension policies.",
+      "publication_date": "2026-04-27",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35105#fromrss",
+      "topics": [
+        "private_pensions",
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-04-27"
+    },
+    {
+      "id": "nber_w35111",
+      "title": "The Welfare Effects of Protecting Older Workers",
+      "authors": [
+        {
+          "name": "Todd Morris",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Stefan Staubli",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Benoit Dostie",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We evaluate the welfare effects of five provincial mandatory retirement bans in Canada from 2005 to 2009 using linked employer-employee tax data. The bans sharply reduce retirements at age 65, with sizable announcement effects and heterogeneity across industries. Post-65 employment and earnings rise at least 14%, with gains comparable to a two-year increase in pension-eligibility ages. Older workers save more and spouses postpone retirement, benefiting public finances, with no observable effects on mortality or younger workers. Highly exposed firms reduce payroll costs via hiring adjustments while maintaining worker productivity and profitability. Our results suggest that protecting older workers was welfare-improving.",
+      "publication_date": "2026-04-27",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35111#fromrss",
+      "topics": [
+        "retirement_decisions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-04-27"
+    },
+    {
+      "id": "nber_w35117",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "authors": [
+        {
+          "name": "Noah Arman Kouchekinia",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "David Neumark",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Tim A. Bruckner",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "With large gains in life expectancy, the population share of disability due to cognitive decline and dementia has substantially increased. Many older adults in the United States leave the workforce well before age 65. Correlational evidence suggests that leaving the workforce before retirement age could accelerate the pace of cognitive decline. We offer causal evidence, using HRS data for the United States, exploiting plausibly exogenous shifts in labor demand in local labor markets as a Bartik instrument for employment variation across these markets. We find substantial declines over time in cognitive scores stemming from negative labor demand shocks. These findings are concentrated among men aged 51 to 64, whose employment decisions and outcomes may be more sensitive to local labor market conditions than are these decisions or outcomes for women or for older men. Our evidence extends past work focusing narrowly on the retirement age window and provides further support to the notion that working to older ages may delay age-related cognitive decline.",
+      "publication_date": "2026-04-27",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35117#fromrss",
+      "topics": [
+        "retirement_decisions",
+        "longevity_mortality"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-04-27"
+    },
+    {
+      "id": "nber_w35122",
+      "title": "Risky Insurance: Life-Cycle Insurance Portfolio Choice with Incomplete Markets",
+      "authors": [
+        {
+          "name": "Joseph S. Briggs",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Ciaran Rogers",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Christopher Tonetti",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We study consumer demand for savings, life insurance, annuities, and long-term care insurance using novel survey data and a structural life-cycle model. We document that individuals perceive substantial insurance nonpayment risk, and these beliefs predict ownership. Embedding elicited beliefs into an incomplete-markets model alongside additional real-world insurance features, we match empirical patterns of low participation. Relative to a no-insurance benchmark, access to existing imperfect insurance reduces median wealth by 16% and generates a modest 0.6% welfare gain. Eliminating nonpayment risk would substantially increase insurance ownership, yield a further 11% decline in median savings, and generate an additional 1.7% welfare gain.",
+      "publication_date": "2026-04-27",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35122#fromrss",
+      "topics": [
+        "consumption_savings",
+        "insurance_markets"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-04-27"
+    },
+    {
       "id": "nber_w35082",
       "title": "The Effect of Annuities on Longevity",
       "authors": [
@@ -230,7 +361,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7140275549",
@@ -273,7 +404,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "nber_w34966",
@@ -443,7 +574,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7131390878",
@@ -491,7 +622,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7130643125",
@@ -542,7 +673,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7127639882",
@@ -595,7 +726,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7127647932",
@@ -650,7 +781,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7127592864",
@@ -701,7 +832,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7127622621",
@@ -744,7 +875,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7126193704",
@@ -799,7 +930,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7126120302",
@@ -850,7 +981,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7125009254",
@@ -905,7 +1036,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W3207058961",
@@ -960,7 +1091,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7118022352",
@@ -1003,7 +1134,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7118170164",
@@ -1046,7 +1177,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7118192714",
@@ -1090,7 +1221,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7118833805",
@@ -1184,7 +1315,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7116980467",
@@ -1232,7 +1363,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4416952202",
@@ -1279,7 +1410,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414414795",
@@ -1340,7 +1471,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4416431798",
@@ -1395,7 +1526,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4416233231",
@@ -1451,7 +1582,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4416176458",
@@ -1495,7 +1626,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4415700305",
@@ -1539,7 +1670,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4415659132",
@@ -1594,7 +1725,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4415598714",
@@ -1637,7 +1768,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4415157192",
@@ -1680,7 +1811,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4415092550",
@@ -1759,7 +1890,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414401570",
@@ -1810,7 +1941,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414214471",
@@ -1867,7 +1998,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414192428",
@@ -1926,7 +2057,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414156582",
@@ -1974,7 +2105,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414156620",
@@ -2029,7 +2160,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414156777",
@@ -2077,7 +2208,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414192439",
@@ -2130,7 +2261,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4414192476",
@@ -2185,7 +2316,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4413205737",
@@ -2229,7 +2360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4413417481",
@@ -2280,7 +2411,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W3170277562",
@@ -2331,7 +2462,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412416760",
@@ -2383,7 +2514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W7118973693",
@@ -2430,7 +2561,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412049411",
@@ -2473,7 +2604,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412439464",
@@ -2528,7 +2659,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412076782",
@@ -2579,7 +2710,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412439152",
@@ -2630,7 +2761,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412535926",
@@ -2685,7 +2816,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411701583",
@@ -2733,7 +2864,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411407378",
@@ -2787,7 +2918,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411406952",
@@ -2830,7 +2961,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411333898",
@@ -2882,7 +3013,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411333887",
@@ -2934,7 +3065,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412075013",
@@ -2981,7 +3112,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4412074962",
@@ -3040,7 +3171,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4410382978",
@@ -3095,7 +3226,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411015761",
@@ -3130,7 +3261,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411014652",
@@ -3174,7 +3305,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411015738",
@@ -3221,7 +3352,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4411014679",
@@ -3292,7 +3423,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4409963010",
@@ -3343,7 +3474,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     },
     {
       "id": "W4409962852",
@@ -3386,15 +3517,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-04-26"
+      "added_date": "2026-04-27"
     }
   ],
   "meta": {
-    "last_updated": "2026-04-26T11:32:45Z",
-    "paper_count": 71,
+    "last_updated": "2026-04-27T12:16:25Z",
+    "paper_count": 75,
     "date_range": {
       "from": "2025-05-01",
-      "to": "2026-04-26"
+      "to": "2026-04-27"
     }
   }
 }
