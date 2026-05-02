@@ -26,7 +26,7 @@
         }
       ],
       "abstract": "Spain, with one of the highest life expectancies globally and a rapidly ageing population, faces growing challenges in sustaining its pension, healthcare, and long-term care systems. This study examines trends in health inequalities among retired Spaniards from 2004 to 2022, using eight waves of the Survey of Health, Ageing and Retirement in Europe (SHARE). We analyse five health outcomes—limitations in daily and instrumental activities, number of chronic conditions, a composite health deficiency index, mental health (EURO-D scale), and cognitive performance—and use linear regression to assess income-related gradients, adjusted for age and sex. We also compute a catch-up time measure—the number of years a poorer individual would need to reach the same level of health as a richer individual—and concentration indices of bad health. We then examine how these inequalities change over time, allowing us to explore the potential influence of pension reforms within the context of Spain’s Beveridge-style healthcare system and tax-funded long-term care provision. Our results show no clear evidence that health inequality has increased from 2004 to 2022. These findings contribute to understanding how income disparities interact with social protection systems in ageing societies and inform the design of equitable health, long-term care, and pension policies.",
-      "publication_date": "2026-05-01",
+      "publication_date": "2026-05-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -37,7 +37,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "nber_w35111",
@@ -57,7 +57,7 @@
         }
       ],
       "abstract": "We evaluate the welfare effects of five provincial mandatory retirement bans in Canada from 2005 to 2009 using linked employer-employee tax data. The bans sharply reduce retirements at age 65, with sizable announcement effects and heterogeneity across industries. Post-65 employment and earnings rise at least 14%, with gains comparable to a two-year increase in pension-eligibility ages. Older workers save more and spouses postpone retirement, benefiting public finances, with no observable effects on mortality or younger workers. Highly exposed firms reduce payroll costs via hiring adjustments while maintaining worker productivity and profitability. Our results suggest that protecting older workers was welfare-improving.",
-      "publication_date": "2026-05-01",
+      "publication_date": "2026-05-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -67,7 +67,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "nber_w35117",
@@ -87,7 +87,7 @@
         }
       ],
       "abstract": "With large gains in life expectancy, the population share of disability due to cognitive decline and dementia has substantially increased. Many older adults in the United States leave the workforce well before age 65. Correlational evidence suggests that leaving the workforce before retirement age could accelerate the pace of cognitive decline. We offer causal evidence, using HRS data for the United States, exploiting plausibly exogenous shifts in labor demand in local labor markets as a Bartik instrument for employment variation across these markets. We find substantial declines over time in cognitive scores stemming from negative labor demand shocks. These findings are concentrated among men aged 51 to 64, whose employment decisions and outcomes may be more sensitive to local labor market conditions than are these decisions or outcomes for women or for older men. Our evidence extends past work focusing narrowly on the retirement age window and provides further support to the notion that working to older ages may delay age-related cognitive decline.",
-      "publication_date": "2026-05-01",
+      "publication_date": "2026-05-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -98,7 +98,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "nber_w35122",
@@ -118,7 +118,7 @@
         }
       ],
       "abstract": "We study consumer demand for savings, life insurance, annuities, and long-term care insurance using novel survey data and a structural life-cycle model. We document that individuals perceive substantial insurance nonpayment risk, and these beliefs predict ownership. Embedding elicited beliefs into an incomplete-markets model alongside additional real-world insurance features, we match empirical patterns of low participation. Relative to a no-insurance benchmark, access to existing imperfect insurance reduces median wealth by 16% and generates a modest 0.6% welfare gain. Eliminating nonpayment risk would substantially increase insurance ownership, yield a further 11% decline in median savings, and generate an additional 1.7% welfare gain.",
-      "publication_date": "2026-05-01",
+      "publication_date": "2026-05-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -129,7 +129,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "nber_w35082",
@@ -361,7 +361,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7140275549",
@@ -404,7 +404,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "nber_w34966",
@@ -574,7 +574,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7131390878",
@@ -622,7 +622,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7130643125",
@@ -673,7 +673,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7127639882",
@@ -726,7 +726,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7127647932",
@@ -781,7 +781,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7127592864",
@@ -832,7 +832,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7127622621",
@@ -875,7 +875,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7126193704",
@@ -930,7 +930,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7126120302",
@@ -981,7 +981,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7125009254",
@@ -1036,7 +1036,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W3207058961",
@@ -1091,7 +1091,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7118022352",
@@ -1134,7 +1134,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7118170164",
@@ -1177,7 +1177,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7118192714",
@@ -1221,7 +1221,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7118833805",
@@ -1315,7 +1315,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7116980467",
@@ -1363,7 +1363,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4416952202",
@@ -1410,7 +1410,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414414795",
@@ -1471,7 +1471,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4416431798",
@@ -1526,7 +1526,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4416233231",
@@ -1582,7 +1582,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4416176458",
@@ -1626,7 +1626,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4415700305",
@@ -1670,7 +1670,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4415659132",
@@ -1725,7 +1725,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4415598714",
@@ -1768,7 +1768,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4415157192",
@@ -1811,7 +1811,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4415092550",
@@ -1890,7 +1890,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414401570",
@@ -1941,7 +1941,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414214471",
@@ -1998,7 +1998,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414192428",
@@ -2057,7 +2057,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414156582",
@@ -2105,7 +2105,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414156620",
@@ -2160,7 +2160,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414156777",
@@ -2208,7 +2208,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414192439",
@@ -2261,7 +2261,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4414192476",
@@ -2316,7 +2316,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4413205737",
@@ -2360,7 +2360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4413417481",
@@ -2411,7 +2411,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W3170277562",
@@ -2462,7 +2462,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412416760",
@@ -2514,7 +2514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W7118973693",
@@ -2561,7 +2561,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412049411",
@@ -2604,7 +2604,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412439464",
@@ -2659,7 +2659,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412076782",
@@ -2710,7 +2710,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412439152",
@@ -2761,7 +2761,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412535926",
@@ -2816,7 +2816,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4411701583",
@@ -2864,7 +2864,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4411407378",
@@ -2918,7 +2918,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4411406952",
@@ -2961,7 +2961,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4411333898",
@@ -3013,7 +3013,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4411333887",
@@ -3065,7 +3065,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412075013",
@@ -3112,7 +3112,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4412074962",
@@ -3171,7 +3171,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     },
     {
       "id": "W4410382978",
@@ -3226,306 +3226,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4411015761",
-      "title": "Tax Preferences and Housing Affordability: Explorations using a Life-Cycle Model",
-      "authors": [
-        {
-          "name": "Michael Keane",
-          "affiliation": ""
-        },
-        {
-          "name": "Xiangling Liu",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We present a dynamic life-cycle model of demand for owner-occupied housing, investment property and liquid assets.Households face transaction costs, downpayment requirements, liquidity constraints, and tax preferences for owner-occupied housing.The model replicates key facts about home ownership, liquid assets, debt and consumption.It predicts taxing imputed rent would raise enough revenue to fund a 9.15% income tax rate cut, and increase ex ante welfare of all agents.Eliminating the mortgage interest deduction (MID) also gives a Pareto improvement.Replacing MID with a refundable 24.6%mortgage interest credit would increase the ownership rate by 5.9%.Gains are concentrated among low to middle income households and young households, as housing becomes more affordable for them.",
-      "publication_date": "2025-05-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33809",
-      "url": "https://doi.org/10.3386/w33809",
-      "topics": [
-        "consumption_savings"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.457
-        },
-        {
-          "name": "Public economics",
-          "score": 0.342
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4411014652",
-      "title": "Income and Wealth Inequality in the United States: An Update Including the 2022 Wave",
-      "authors": [
-        {
-          "name": "Moritz Kuhn",
-          "affiliation": ""
-        },
-        {
-          "name": "José-Víctor Ríos-Rull",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We provide a comprehensive overview of earnings, income and wealth inequality based on the 2022 Survey of Consumer Finances from the United States.We document the current state of inequality and its evolution over the last three decades organizing the data along key demographic dimensions including age, education, and marital status.The 2022 data reveal that wealth remains highly concentrated, with the top 1% holding 35% of total wealth down from a peak of 39% in 2016.This recent decline in wealth concentration-occurring despite rising income inequalityreflects strong housing price appreciation that disproportionately benefited middle-class households.We extend previous analyses with new perspectives on inequality, including: (1) the role of labor market segmentation in generating wealth disparities beyond standard employment categories; (2) differences in wealth accumulation across birth cohorts showing that younger generations accumulate less wealth than their predecessors at comparable ages; (3) disparities associated with family structure, particularly the financial vulnerability of single-parent households; and (4) heterogeneity in self-reported savings motives, with precautionary savings dominating for lower-wealth households while retirement planning and bequests become more prominent at the top of the distribution.These findings enhance our understanding of the multifaceted nature of inequality and offer essential inputs for structural models and policy design.",
-      "publication_date": "2025-05-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33823",
-      "url": "https://doi.org/10.3386/w33823",
-      "topics": [
-        "consumption_savings",
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Inequality",
-          "score": 0.671
-        },
-        {
-          "name": "Economic inequality",
-          "score": 0.554
-        },
-        {
-          "name": "Economics",
-          "score": 0.529
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.351
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4411015738",
-      "title": "How Longevity and Health Information Shapes Retirement Advice",
-      "authors": [
-        {
-          "name": "Abigail Hurwitz",
-          "affiliation": ""
-        },
-        {
-          "name": "Olivia S. Mitchell",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We investigate how advisors' own health and survival assessments, and information about their advisees' health and survival probabilities, shape their recommendations regarding retirement spending and investment.Using experiments involving amateur and professional advisors, we show that advisors' self-assessments have only mild effects on their recommendations, but they do respond differently when provided longevity and health information about their advisees.Moreover, amateur advisors mainly react to simple cues, while professional advisors are more sensitive to client-specific information.While many rely on informal advice from friends or family, amateurs often cannot accurately analyze and utilize key information needed to provide suitable advice.",
-      "publication_date": "2025-05-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33872",
-      "url": "https://doi.org/10.3386/w33872",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Longevity",
-          "score": 0.93
-        },
-        {
-          "name": "Advice (programming)",
-          "score": 0.826
-        },
-        {
-          "name": "Health and Retirement Study",
-          "score": 0.553
-        },
-        {
-          "name": "Psychology",
-          "score": 0.363
-        },
-        {
-          "name": "Gerontology",
-          "score": 0.362
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4411014679",
-      "title": "Assessing the Estimands and Estimates of Hospitalization Rates in Health Economics and Clinical Medicine",
-      "authors": [
-        {
-          "name": "Aditya Jain",
-          "affiliation": ""
-        },
-        {
-          "name": "Gil Peled",
-          "affiliation": ""
-        },
-        {
-          "name": "Filip Obradović",
-          "affiliation": ""
-        },
-        {
-          "name": "Federico Crippa",
-          "affiliation": ""
-        },
-        {
-          "name": "Yeshaya Nussbaum",
-          "affiliation": ""
-        },
-        {
-          "name": "Michael Gmeiner",
-          "affiliation": ""
-        },
-        {
-          "name": "Daniela P. Ladner",
-          "affiliation": ""
-        },
-        {
-          "name": "Charles F. Manski",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "Even though data on hospital admissions are widely used in health research, hospitalization-related quantities measured using these data are not always clearly conceptualized.Consequently, estimators of these quantities can have unclear rationales and undesirable properties.We evaluate three rate estimators for measuring hospitalization-related quantities that are of interest in health economics and clinical medicine subspecialities.Using the Grossman human capital model, we motivate the importance of measuring healthy time.We show that an upper bound on healthy time can be calculated using lengths of hospital stay without assumptions about health status outside the hospital.We find that an admission rate conventionally used in clinical research is a patient followup time weighted average that lacks a clear basis for the weights.We evaluate the Centers for Medicare and Medicaid Services (CMS) use of risk-standardized readmission rates to penalize hospitals under the Hospital Readmissions Reduction Program (HRRP) and find that it may inadvertently conflict with disease-specific care aimed at reducing mortality risk.We show that risk-standardized rates can be sensitive to patient case mix, potentially leading to hospital rankings that do not reflect hospital quality.We also summarize debates regarding the effectiveness of riskstandardized readmission rates in reducing readmissions.",
-      "publication_date": "2025-05-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33768",
-      "url": "https://doi.org/10.3386/w33768",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [
-        {
-          "name": "Health economics",
-          "score": 0.591
-        },
-        {
-          "name": "Medical economics",
-          "score": 0.509
-        },
-        {
-          "name": "Econometrics",
-          "score": 0.391
-        },
-        {
-          "name": "Actuarial science",
-          "score": 0.387
-        },
-        {
-          "name": "Economics",
-          "score": 0.367
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4409963010",
-      "title": "Changing Tracks: Human Capital Investment after Loss of Ability",
-      "authors": [
-        {
-          "name": "Anders Humlum",
-          "affiliation": "University of Chicago"
-        },
-        {
-          "name": "Jakob Roland Munch",
-          "affiliation": "University of Copenhagen"
-        },
-        {
-          "name": "Pernille Plato",
-          "affiliation": "University of Copenhagen"
-        }
-      ],
-      "abstract": "We provide the first evidence on how workers invest in human capital after losing ability. Using quasi-random work accidents in Danish administrative data, we find that workers enroll in bachelor’s programs after physical injuries, pursuing degrees that build on their past training and experience. Exploiting institutional differences in the stackability of degrees, we find that higher education moves injured workers from disability benefits to full-time employment, earning 25 percent more than before injury. Reskilling subsidies for injured workers pay for themselves four times over, and current rates of reskilling are substantially below the social optimum, especially for middle-aged workers. (JEL I26, J14, J24, J62)",
-      "publication_date": "2025-05-01",
-      "source": "American Economic Review",
-      "source_type": "journal",
-      "doi": "10.1257/aer.20231067",
-      "url": "https://doi.org/10.1257/aer.20231067",
-      "topics": [
-        "social_insurance"
-      ],
-      "concepts": [
-        {
-          "name": "Investment (military)",
-          "score": 0.584
-        },
-        {
-          "name": "Human capital",
-          "score": 0.556
-        },
-        {
-          "name": "Capital (architecture)",
-          "score": 0.446
-        },
-        {
-          "name": "Capital investment",
-          "score": 0.437
-        },
-        {
-          "name": "Business",
-          "score": 0.42
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
-    },
-    {
-      "id": "W4409962852",
-      "title": "Efficiency in Household Decision-Making: Evidence from the Retirement Savings of US Couples",
-      "authors": [
-        {
-          "name": "Taha Choukhmane",
-          "affiliation": ""
-        },
-        {
-          "name": "Lucas Goodman",
-          "affiliation": "United States Department of the Treasury"
-        },
-        {
-          "name": "Cormac O’Dea",
-          "affiliation": "Yale University"
-        }
-      ],
-      "abstract": "We study how couples allocate retirement-saving contributions across each spouse’s account. In a new dataset covering over a million US individuals, we find retirement contributions are not allocated to the account with the highest employer match rate. This lack of coordination—which goes against the assumptions of most models of household decision-making—is common, costly, persistent over time, and cannot be explained by inertia, auto-enrollment, or simple heuristics. Complementing the administrative evidence with an online survey, we find that inefficient allocations reflect both financial mistakes as well as deliberate choices, especially when trust and commitment inside the households are weak. (JEL D13, G51, J26, J32)",
-      "publication_date": "2025-05-01",
-      "source": "American Economic Review",
-      "source_type": "journal",
-      "doi": "10.1257/aer.20230524",
-      "url": "https://doi.org/10.1257/aer.20230524",
-      "topics": [
-        "consumption_savings"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.494
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.447
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.35
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-05-01"
+      "added_date": "2026-05-02"
     }
   ],
   "meta": {
-    "last_updated": "2026-05-01T11:50:31Z",
-    "paper_count": 75,
+    "last_updated": "2026-05-02T11:36:47Z",
+    "paper_count": 69,
     "date_range": {
-      "from": "2025-05-01",
-      "to": "2026-05-01"
+      "from": "2025-05-13",
+      "to": "2026-05-02"
     }
   }
 }
