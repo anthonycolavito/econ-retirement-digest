@@ -1,6 +1,32 @@
 {
   "papers": [
     {
+      "id": "nber_w35146",
+      "title": "Understanding Medicaid Managed Care: The Procured Competition Model",
+      "authors": [
+        {
+          "name": "Mark Shepard",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Jacob Wallace",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Medicaid is one of the largest public programs in the United States — providing health insurance to over 75 million low-income Americans — and over three quarters of its enrollees receive care via private “managed care” insurers. In this summary article, we make three central points about the economics of contracting out Medicaid to private insurers. First, the empirical evidence on Medicaid privatization is mixed: contracting out has not meaningfully reduced public costs or improved quality of care. Second, we propose a framework, which we call “procured competition,” to describe the unique structure of Medicaid managed care as a hybrid of public procurement and regulated competition. Third, we discuss the key policy levers across procurement, competition, and consumer choice in this model. Throughout, we highlight open research questions, arguing that the enormous variation in how states design these programs — combined with limited evidence on what works — represents a promising area for high-impact scholarship.",
+      "publication_date": "2026-05-06",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35146#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-05-06"
+    },
+    {
       "id": "nber_w35145",
       "title": "The Annuity Puzzle Revisited: Barriers, Behavior, and Policy Paths to Lifetime Income",
       "authors": [
@@ -34,7 +60,7 @@
         }
       ],
       "abstract": "Wealth decumulation decisions, or how to optimize consumption over an uncertain remaining lifespan, are among the most difficult people face. They involve intertemporal tradeoffs, uncertainty, complexity, and emotion, yet many consumers receive little formal guidance. A central challenge is securing lifetime income and avoiding outliving resources, particularly through life annuities that guarantee income for life. Standard economic models predict high demand for annuities, but in practice few individuals purchase them, a gap known as the annuity puzzle. This paper introduces annuities, examines limited adoption among consumers and plan sponsors, reviews leading explanations, and outlines approaches to increase uptake and improve decision quality.",
-      "publication_date": "2026-05-05",
+      "publication_date": "2026-05-06",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -45,33 +71,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-05-05"
-    },
-    {
-      "id": "nber_w35146",
-      "title": "Understanding Medicaid Managed Care: The Procured Competition Model",
-      "authors": [
-        {
-          "name": "Mark Shepard",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Jacob Wallace",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Medicaid is one of the largest public programs in the United States — providing health insurance to over 75 million low-income Americans — and over three quarters of its enrollees receive care via private “managed care” insurers. In this summary article, we make three central points about the economics of contracting out Medicaid to private insurers. First, the empirical evidence on Medicaid privatization is mixed: contracting out has not meaningfully reduced public costs or improved quality of care. Second, we propose a framework, which we call “procured competition,” to describe the unique structure of Medicaid managed care as a hybrid of public procurement and regulated competition. Third, we discuss the key policy levers across procurement, competition, and consumer choice in this model. Throughout, we highlight open research questions, arguing that the enormous variation in how states design these programs — combined with limited evidence on what works — represents a promising area for high-impact scholarship.",
-      "publication_date": "2026-05-05",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w35146#fromrss",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "nber_w35105",
@@ -203,6 +203,255 @@
       "concepts": [],
       "matched_by": "nber_rss",
       "added_date": "2026-05-03"
+    },
+    {
+      "id": "W7160064659",
+      "title": "Substitutes for Success? Public Versus Private Competition in Medicare Advantage",
+      "authors": [
+        {
+          "name": "Tim Layton",
+          "affiliation": "University of Virginia"
+        },
+        {
+          "name": "Luca Maini",
+          "affiliation": "Harvard University"
+        },
+        {
+          "name": "J. Michael McWilliams",
+          "affiliation": "Health Care Foundation"
+        }
+      ],
+      "abstract": "We assess the evolving role of competition in Medicare Advantage and its implications for beneficiary welfare. We describe how competition from the public option, traditional Medicare, and other private insurers within Medicare Advantage act as substitutes in incentivizing plans to deliver value. We show that while historically the choice between traditional Medicare and Medicare Advantage provided a vital competitive dynamic, traditional Medicare's strength as a competitor has declined significantly, driven by generous payments favoring private plans. Consequently, the burden of ensuring value for enrollees has shifted to competition within the Medicare Advantage market. While county-level competition among private insurers has increased, this growth is primarily driven by the expansion of large national carriers rather than new entrants. Insurers still wield substantial market power due to significant barriers to entry, raising concerns about the ability of the program to incentivize private insurers to use public dollars to maximize value for beneficiaries.",
+      "publication_date": "2026-05-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251469",
+      "url": "https://doi.org/10.1257/jep.20251469",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Medicare Advantage",
+          "score": 0.725
+        },
+        {
+          "name": "Competition (biology)",
+          "score": 0.719
+        },
+        {
+          "name": "Beneficiary",
+          "score": 0.711
+        },
+        {
+          "name": "Business",
+          "score": 0.61
+        },
+        {
+          "name": "Market power",
+          "score": 0.484
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-05-06"
+    },
+    {
+      "id": "W7160076895",
+      "title": "Competition in Health Insurance Markets",
+      "authors": [
+        {
+          "name": "Martin Gaynor",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Amanda Starc",
+          "affiliation": "National Bureau of Economic Research"
+        }
+      ],
+      "abstract": "The United States relies primarily on private health insurance markets, yet these markets are highly concentrated and becoming more so over time. We document concentration across commercial, Medicare Advantage, and Medicaid markets. We then examine how asymmetric information—particularly adverse selection—interacts with market power to shape premiums, plan design, and consumer welfare. Empirical evidence confirms that insurer consolidation raises premiums. We discuss how antitrust enforcement, risk adjustment, regulation, and informational interventions shape competition and consumer welfare in these markets.",
+      "publication_date": "2026-05-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251459",
+      "url": "https://doi.org/10.1257/jep.20251459",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Business",
+          "score": 0.598
+        },
+        {
+          "name": "Competition (biology)",
+          "score": 0.559
+        },
+        {
+          "name": "Health plan",
+          "score": 0.545
+        },
+        {
+          "name": "Consolidation (business)",
+          "score": 0.532
+        },
+        {
+          "name": "Welfare",
+          "score": 0.515
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-05-06"
+    },
+    {
+      "id": "W7160173250",
+      "title": "The Emerging Role of Competition in Health Care",
+      "authors": [
+        {
+          "name": "Paul Β. Ginsburg",
+          "affiliation": "Brookings Institution"
+        }
+      ],
+      "abstract": "This essay, commissioned to serve as an introduction to the JEP symposium on current competition in health care, provides a historical perspective on the role of both competition and regulation in the financing and delivery of health services since the implementation of Medicare and Medicaid in the mid-1960s. At the beginning of this period, few could perceive a role for competition in healthcare given the key role played by physicians in providing and ordering care and concerns that lower prices might signal lower quality. Initial attempts to slow rapidly rising costs involved various regulatory tools, but over time, regulation increasingly incorporated incentives for providers, to control costs. Competitive approaches began to develop in the late 1970s, in part reflecting broad changes in the nation’s political culture. Competitive approaches are now are quite widespread, but regulation plays an important role in the structuring of competition and in addressing areas where competition is seen as having less potential.",
+      "publication_date": "2026-05-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251470",
+      "url": "https://doi.org/10.1257/jep.20251470",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Competition (biology)",
+          "score": 0.808
+        },
+        {
+          "name": "Health care",
+          "score": 0.634
+        },
+        {
+          "name": "Incentive",
+          "score": 0.616
+        },
+        {
+          "name": "Business",
+          "score": 0.526
+        },
+        {
+          "name": "Perspective (graphical)",
+          "score": 0.488
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-05-06"
+    },
+    {
+      "id": "W7160037262",
+      "title": "Retirement choice architecture: insights from India’s National Pension System",
+      "authors": [
+        {
+          "name": "Aparna Α S",
+          "affiliation": "Jain University"
+        },
+        {
+          "name": "Biju Ajithakumari Vijayappan Nair",
+          "affiliation": "University of Kerala"
+        }
+      ],
+      "abstract": "Abstract This paper examines how choice architecture shapes retirement planning decisions in India’s National Pension System (NPS) — “All Citizens Model”. The study investigates whether enrolment decisions are driven by rational economic calculations or by the system’s behavioural design. Using a qualitative approach, in-depth interviews with 15 NPS subscribers were analysed through reflexive thematic analysis via MAXQDA software. Tax incentives emerged as the dominant enrolment factor, followed by government backing, peer influence, expert management, simplified registration, and protected returns. NPS structural features operating through financial utility and trust-building mechanisms exert the strongest influence on participation. The findings confirm the effectiveness of socially oriented, expertise-based, and risk-calibrated approaches grounded in prospect theory and bounded rationality. Policymakers should integrate behavioural insights alongside traditional economic incentives in pension scheme design. This study contributes to behavioural pension economics by empirically evaluating retirement choice architecture within a major emerging market context.",
+      "publication_date": "2026-04-30",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100122",
+      "url": "https://doi.org/10.1017/s1474747226100122",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.692
+        },
+        {
+          "name": "Choice architecture",
+          "score": 0.662
+        },
+        {
+          "name": "Pension",
+          "score": 0.57
+        },
+        {
+          "name": "Nudge theory",
+          "score": 0.543
+        },
+        {
+          "name": "Thematic analysis",
+          "score": 0.541
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-05-06"
+    },
+    {
+      "id": "W7160040194",
+      "title": "Vertical Integration and Cream Skimming of Profitable Referrals: The Case of Hospital-Owned Skilled Nursing Facilities",
+      "authors": [
+        {
+          "name": "David Cutler",
+          "affiliation": "Dana-Farber/Harvard Cancer Center"
+        },
+        {
+          "name": "Leemore Dafny",
+          "affiliation": "Dana-Farber/Harvard Cancer Center"
+        },
+        {
+          "name": "David C. Grabowski",
+          "affiliation": "Harvard University"
+        },
+        {
+          "name": "Steven Lee",
+          "affiliation": "John Brown University"
+        },
+        {
+          "name": "Christopher Ody",
+          "affiliation": "Kellogg's (Canada)"
+        }
+      ],
+      "abstract": "We examine whether vertical integration of hospitals and skilled nursing facilities (SNFs) could lessen competition by foreclosing rival SNFs’ access to lucrative referrals. We find that it could: Among integrated providers, a 1 percent increase in SNF reimbursement for a given patient discharged from the upstream hospital increases the self-referral rate to the hospital’s downstream SNF(s) by 1.8 percent. We find no evidence of offsetting benefits for patients and payers: These increased self-referrals have an imprecisely estimated zero effect on patient outcomes and Medicare spending. (JEL G34, I11, I13, J14, L14, L22)",
+      "publication_date": "2026-04-29",
+      "source": "American Economic Journal Economic Policy",
+      "source_type": "journal",
+      "doi": "10.1257/pol.20200892",
+      "url": "https://doi.org/10.1257/pol.20200892",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Vertical integration",
+          "score": 0.821
+        },
+        {
+          "name": "Reimbursement",
+          "score": 0.714
+        },
+        {
+          "name": "Upstream (networking)",
+          "score": 0.693
+        },
+        {
+          "name": "Competition (biology)",
+          "score": 0.691
+        },
+        {
+          "name": "Business",
+          "score": 0.626
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-05-06"
     },
     {
       "id": "nber_w35082",
@@ -434,7 +683,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7140275549",
@@ -477,7 +726,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "nber_w34966",
@@ -514,33 +763,6 @@
       "concepts": [],
       "matched_by": "nber_rss",
       "added_date": "2026-03-22"
-    },
-    {
-      "id": "nber_w34928",
-      "title": "Competition in Health Insurance Markets",
-      "authors": [
-        {
-          "name": "Martin Gaynor",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Amanda Starc",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "The United States relies primarily on private health insurance markets, yet these markets are highly concentrated and becoming more so over time. We document concentration across commercial, Medicare Advantage, and Medicaid markets. We then examine how asymmetric information—particularly adverse selection—interacts with market power to shape premiums, plan design, and consumer welfare. Empirical evidence confirms that insurer consolidation raises premiums. We discuss how antitrust enforcement, risk adjustment, regulation, and informational interventions shape competition and consumer welfare in these markets.",
-      "publication_date": "2026-03-15",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w34928#fromrss",
-      "topics": [
-        "insurance_markets",
-        "health_retirement"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-03-15"
     },
     {
       "id": "nber_w34938",
@@ -647,7 +869,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7131390878",
@@ -695,7 +917,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7130643125",
@@ -746,7 +968,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7127639882",
@@ -799,7 +1021,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7127647932",
@@ -854,7 +1076,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7127592864",
@@ -905,7 +1127,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7127622621",
@@ -948,7 +1170,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7126193704",
@@ -1003,7 +1225,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7126120302",
@@ -1054,7 +1276,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7125009254",
@@ -1109,7 +1331,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W3207058961",
@@ -1164,7 +1386,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7118022352",
@@ -1207,7 +1429,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7118170164",
@@ -1250,7 +1472,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7118192714",
@@ -1294,7 +1516,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7118833805",
@@ -1388,7 +1610,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7116980467",
@@ -1436,7 +1658,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4416952202",
@@ -1483,7 +1705,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414414795",
@@ -1544,7 +1766,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4416431798",
@@ -1599,7 +1821,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4416233231",
@@ -1655,7 +1877,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4416176458",
@@ -1699,7 +1921,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4415700305",
@@ -1743,7 +1965,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4415659132",
@@ -1798,7 +2020,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4415598714",
@@ -1841,7 +2063,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4415157192",
@@ -1884,7 +2106,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4415092550",
@@ -1963,7 +2185,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414401570",
@@ -2014,7 +2236,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414214471",
@@ -2071,7 +2293,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414192428",
@@ -2130,7 +2352,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414156582",
@@ -2178,7 +2400,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414156620",
@@ -2233,7 +2455,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414156777",
@@ -2281,7 +2503,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414192439",
@@ -2334,7 +2556,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4414192476",
@@ -2389,7 +2611,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4413205737",
@@ -2433,7 +2655,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4413417481",
@@ -2484,7 +2706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W3170277562",
@@ -2535,7 +2757,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412416760",
@@ -2587,7 +2809,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W7118973693",
@@ -2634,7 +2856,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412049411",
@@ -2677,7 +2899,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412439464",
@@ -2732,7 +2954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412076782",
@@ -2783,7 +3005,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412439152",
@@ -2834,7 +3056,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412535926",
@@ -2889,7 +3111,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4411701583",
@@ -2937,7 +3159,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4411407378",
@@ -2991,7 +3213,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4411406952",
@@ -3034,7 +3256,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4411333898",
@@ -3086,7 +3308,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4411333887",
@@ -3138,7 +3360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412075013",
@@ -3185,7 +3407,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4412074962",
@@ -3244,7 +3466,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     },
     {
       "id": "W4410382978",
@@ -3299,15 +3521,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-05-05"
+      "added_date": "2026-05-06"
     }
   ],
   "meta": {
-    "last_updated": "2026-05-05T11:54:26Z",
-    "paper_count": 71,
+    "last_updated": "2026-05-06T12:23:40Z",
+    "paper_count": 75,
     "date_range": {
       "from": "2025-05-13",
-      "to": "2026-05-05"
+      "to": "2026-05-06"
     }
   }
 }
