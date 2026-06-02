@@ -26,7 +26,7 @@
         }
       ],
       "abstract": "How much fraud is there in Medicare and who commits it?  We provide an answer for Medicare home health, a setting widely considered especially rife with fraud. We define a home health agency (HHA) as fraudulent if it was prosecuted by a federal strike force. Combining Medicare claims data on all HHAs with hand-collected prosecution records from the nine federal judicial districts where strike forces operated between 2009 and 2013, we train a machine learning model to predict, out of sample, the probability that each HHA in the remaining 85 districts would have been prosecuted had a strike force been present. We estimate that in 2008, 3.4% of Medicare home health spending — about $520 million — was billed by fraudulent HHAs. The strike forces were well-targeted: their nine districts contained only 40% of home health spending but 65% of fraudulent spending. Fraudulent HHAs display intuitive characteristics: they are more likely to rely on extremely high-volume referring physicians, to exhibit unusually uniform patterns of care, and to serve healthier-than-average patients.",
-      "publication_date": "2026-06-01",
+      "publication_date": "2026-06-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -36,7 +36,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w35284",
@@ -56,7 +56,7 @@
         }
       ],
       "abstract": "We develop a model of optimal long-term care provision and insurance with heterogeneous risk and preferences. Using a novel survey experiment, we estimate preferences (demand) for care settings and service bundles. We then calibrate health transitions and the supply of services using Canadian administrative data for the province of Quebec. The optimal insurance scheme has lower co-insurance in nursing homes and higher co-insurance in home care while leading to a constrained expansion of home care services. Relative to the prevailing system, optimal provision increases home care utilization, raises public expenditure threefold, and delivers a large increase in consumer surplus.",
-      "publication_date": "2026-06-01",
+      "publication_date": "2026-06-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -66,7 +66,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w35220",
@@ -155,7 +155,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7162023839",
@@ -206,7 +206,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w35173",
@@ -322,7 +322,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w35146",
@@ -578,7 +578,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7160076895",
@@ -626,7 +626,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7160173250",
@@ -669,7 +669,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7160037262",
@@ -716,7 +716,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7160040194",
@@ -775,7 +775,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w35082",
@@ -1007,7 +1007,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7140275549",
@@ -1050,7 +1050,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "nber_w34966",
@@ -1193,7 +1193,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7131390878",
@@ -1241,7 +1241,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7130643125",
@@ -1292,7 +1292,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7127639882",
@@ -1345,7 +1345,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7127647932",
@@ -1400,7 +1400,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7127592864",
@@ -1451,7 +1451,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7127622621",
@@ -1494,7 +1494,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7126193704",
@@ -1549,7 +1549,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7126120302",
@@ -1600,7 +1600,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7125009254",
@@ -1655,7 +1655,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7139110589",
@@ -1702,7 +1702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W3207058961",
@@ -1757,7 +1757,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7118022352",
@@ -1800,7 +1800,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7118170164",
@@ -1843,7 +1843,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7118192714",
@@ -1981,7 +1981,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7116980467",
@@ -2029,7 +2029,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4416952202",
@@ -2076,7 +2076,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414414795",
@@ -2137,7 +2137,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4416431798",
@@ -2192,7 +2192,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4416233231",
@@ -2248,7 +2248,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4416176458",
@@ -2292,7 +2292,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4415700305",
@@ -2336,7 +2336,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4415659132",
@@ -2391,7 +2391,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4415598714",
@@ -2434,7 +2434,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4415157192",
@@ -2477,7 +2477,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4415092550",
@@ -2556,7 +2556,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414401570",
@@ -2607,7 +2607,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414214471",
@@ -2664,7 +2664,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414192428",
@@ -2723,7 +2723,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414156582",
@@ -2771,7 +2771,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414156620",
@@ -2826,7 +2826,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414156777",
@@ -2874,7 +2874,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414192439",
@@ -2927,7 +2927,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4414192476",
@@ -2982,7 +2982,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4413205737",
@@ -3026,7 +3026,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412829367",
@@ -3089,7 +3089,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4413417481",
@@ -3140,7 +3140,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W3170277562",
@@ -3191,7 +3191,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412416760",
@@ -3243,7 +3243,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W7118973693",
@@ -3290,7 +3290,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412049411",
@@ -3333,7 +3333,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412439464",
@@ -3388,7 +3388,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412076782",
@@ -3439,7 +3439,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412439152",
@@ -3490,7 +3490,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4412535926",
@@ -3545,7 +3545,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4411701583",
@@ -3593,7 +3593,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4411407378",
@@ -3647,7 +3647,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     },
     {
       "id": "W4411406952",
@@ -3690,119 +3690,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-01"
-    },
-    {
-      "id": "W4411333898",
-      "title": "Defaulting 401(k) Assets into Payout Annuities for “Pretty Good” Lifetime Incomes",
-      "authors": [
-        {
-          "name": "Vanya Horneff",
-          "affiliation": ""
-        },
-        {
-          "name": "Raimond Maurer",
-          "affiliation": ""
-        },
-        {
-          "name": "Olivia Mitchell",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "Some US defined contribution plans offer retirees access to an annuity or lifetime income stream as payout options from their 401(k) accounts.Nevertheless, for behavioral reasons, some retirees may hesitate to elect lifetime income streams as a drawdown vehicle.To counter this, plan sponsors could automatically allocate a portion of retirees' 401(k) assets to annuities, now that regulatory barriers to doing so have eased.Using a lifecycle economic model, we evaluate the pros and cons of defaulting retirees' 401(k) assets into payout annuities.We show that defaulting 20% of a retiree's assets over a threshold into an immediate annuity enhances retirement security for most plan participants.An annuity deferred to the age of 80 is particularly beneficial to college graduates, in terms of enhancing their welfare",
-      "publication_date": "2025-06-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33915",
-      "url": "https://doi.org/10.3386/w33915",
-      "topics": [
-        "private_pensions",
-        "insurance_markets"
-      ],
-      "concepts": [
-        {
-          "name": "Default",
-          "score": 0.839
-        },
-        {
-          "name": "Economics",
-          "score": 0.49
-        },
-        {
-          "name": "Actuarial science",
-          "score": 0.401
-        },
-        {
-          "name": "Business",
-          "score": 0.398
-        },
-        {
-          "name": "Monetary economics",
-          "score": 0.323
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-06-01"
-    },
-    {
-      "id": "W4411333887",
-      "title": "Does Matching Contribution Incentivize Informal Workers to Participate in Retirement Saving Plans? A Randomized Evaluation Interacted with a Natural Experiment",
-      "authors": [
-        {
-          "name": "Noelia Bernal",
-          "affiliation": ""
-        },
-        {
-          "name": "Sebastián Galiani",
-          "affiliation": ""
-        },
-        {
-          "name": "Oswaldo Molina",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We conducted a large field experiment in Peru on informal workers and studied whether offering them a matching contribution raise participation and contributions in their Individual Retirement Accounts.We had three groups: a control group receiving no match, and two treatments groups receiving 50 and 100 percent match, respectively.Additionally, due to the time span, we can also analyze the difference responses between pre and during Covid-19.The results were as follows.First, the match incentive increases participation.Workers in the 50 and 100 percent match groups show participation rates of 5.2 and 6.5 p.p. higher than workers in the control group, respectively.The participation effect is also present pre Covid-19 and disappears during it.Second, the 100 percent match incentive was the only effective in increasing savings among all individuals (1.4 p.p.), pre (2.3 p.p.) and during Covid-19 (0.97 p.p.).This effect still presents in LATE specification with higher p.p. Third, 100% match was again the only effective to make contribute more than once, in the full sample (1.2 p.p.), and pre Covid-19 (2.7 p.p.), including LATE specification (full sample -5.6 p.p.; pre .Fourth the 50 percent match is not effective in raising contribution in any specification.",
-      "publication_date": "2025-06-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w33925",
-      "url": "https://doi.org/10.3386/w33925",
-      "topics": [
-        "consumption_savings",
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Natural experiment",
-          "score": 0.819
-        },
-        {
-          "name": "Matching (statistics)",
-          "score": 0.705
-        },
-        {
-          "name": "Natural (archaeology)",
-          "score": 0.608
-        },
-        {
-          "name": "Business",
-          "score": 0.38
-        },
-        {
-          "name": "Labour economics",
-          "score": 0.374
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-06-01"
+      "added_date": "2026-06-02"
     }
   ],
   "meta": {
-    "last_updated": "2026-06-01T16:31:07Z",
-    "paper_count": 82,
+    "last_updated": "2026-06-02T14:42:00Z",
+    "paper_count": 80,
     "date_range": {
-      "from": "2025-06-01",
-      "to": "2026-06-01"
+      "from": "2025-06-18",
+      "to": "2026-06-02"
     }
   }
 }
