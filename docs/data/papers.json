@@ -26,7 +26,7 @@
         }
       ],
       "abstract": "How much fraud is there in Medicare and who commits it?  We provide an answer for Medicare home health, a setting widely considered especially rife with fraud. We define a home health agency (HHA) as fraudulent if it was prosecuted by a federal strike force. Combining Medicare claims data on all HHAs with hand-collected prosecution records from the nine federal judicial districts where strike forces operated between 2009 and 2013, we train a machine learning model to predict, out of sample, the probability that each HHA in the remaining 85 districts would have been prosecuted had a strike force been present. We estimate that in 2008, 3.4% of Medicare home health spending — about $520 million — was billed by fraudulent HHAs. The strike forces were well-targeted: their nine districts contained only 40% of home health spending but 65% of fraudulent spending. Fraudulent HHAs display intuitive characteristics: they are more likely to rely on extremely high-volume referring physicians, to exhibit unusually uniform patterns of care, and to serve healthier-than-average patients.",
-      "publication_date": "2026-06-04",
+      "publication_date": "2026-06-05",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -36,7 +36,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w35284",
@@ -56,7 +56,7 @@
         }
       ],
       "abstract": "We develop a model of optimal long-term care provision and insurance with heterogeneous risk and preferences. Using a novel survey experiment, we estimate preferences (demand) for care settings and service bundles. We then calibrate health transitions and the supply of services using Canadian administrative data for the province of Quebec. The optimal insurance scheme has lower co-insurance in nursing homes and higher co-insurance in home care while leading to a constrained expansion of home care services. Relative to the prevailing system, optimal provision increases home care utilization, raises public expenditure threefold, and delivers a large increase in consumer surplus.",
-      "publication_date": "2026-06-04",
+      "publication_date": "2026-06-05",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -66,7 +66,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7163324992",
@@ -113,7 +113,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w35220",
@@ -202,7 +202,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7162023839",
@@ -253,7 +253,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w35173",
@@ -369,7 +369,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w35146",
@@ -625,7 +625,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7160076895",
@@ -673,7 +673,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7160173250",
@@ -716,7 +716,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7160037262",
@@ -763,7 +763,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7160040194",
@@ -822,7 +822,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w35082",
@@ -1054,7 +1054,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7140275549",
@@ -1097,7 +1097,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "nber_w34966",
@@ -1240,7 +1240,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7131390878",
@@ -1288,7 +1288,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7130643125",
@@ -1339,7 +1339,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7127639882",
@@ -1392,7 +1392,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7127647932",
@@ -1447,7 +1447,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7127592864",
@@ -1498,7 +1498,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7127622621",
@@ -1541,7 +1541,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7126193704",
@@ -1596,7 +1596,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7126120302",
@@ -1647,7 +1647,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7125009254",
@@ -1702,7 +1702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7139110589",
@@ -1749,7 +1749,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W3207058961",
@@ -1804,7 +1804,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7118022352",
@@ -1847,7 +1847,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7118170164",
@@ -2028,7 +2028,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7116980467",
@@ -2076,7 +2076,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4416952202",
@@ -2123,7 +2123,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414414795",
@@ -2184,7 +2184,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4416431798",
@@ -2239,7 +2239,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4416233231",
@@ -2295,7 +2295,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4416176458",
@@ -2339,7 +2339,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4415700305",
@@ -2383,7 +2383,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4415659132",
@@ -2438,7 +2438,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4415598714",
@@ -2481,7 +2481,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4415157192",
@@ -2524,7 +2524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4415092550",
@@ -2603,7 +2603,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414401570",
@@ -2654,7 +2654,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414214471",
@@ -2711,7 +2711,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414192428",
@@ -2770,7 +2770,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414156582",
@@ -2818,7 +2818,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414156620",
@@ -2873,7 +2873,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414156777",
@@ -2921,7 +2921,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414192439",
@@ -2974,7 +2974,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4414192476",
@@ -3029,7 +3029,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4413205737",
@@ -3073,7 +3073,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412829367",
@@ -3136,7 +3136,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4413417481",
@@ -3187,7 +3187,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W3170277562",
@@ -3238,7 +3238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412416760",
@@ -3290,7 +3290,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W7118973693",
@@ -3337,7 +3337,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412049411",
@@ -3380,7 +3380,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412439464",
@@ -3435,7 +3435,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412076782",
@@ -3486,7 +3486,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412439152",
@@ -3537,7 +3537,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4412535926",
@@ -3592,7 +3592,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4411701583",
@@ -3640,7 +3640,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4411407378",
@@ -3694,7 +3694,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     },
     {
       "id": "W4411406952",
@@ -3737,15 +3737,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-04"
+      "added_date": "2026-06-05"
     }
   ],
   "meta": {
-    "last_updated": "2026-06-04T13:52:07Z",
+    "last_updated": "2026-06-05T13:46:46Z",
     "paper_count": 81,
     "date_range": {
       "from": "2025-06-18",
-      "to": "2026-06-04"
+      "to": "2026-06-05"
     }
   }
 }
