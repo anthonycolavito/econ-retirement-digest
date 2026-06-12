@@ -22,7 +22,7 @@
         }
       ],
       "abstract": "Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three findings emerge. First, U.S. drinking water pollution has declined rapidly; the share of readings exceeding current health standards fell by half from 2003–2019. Unregulated pollutants declined more slowly. Low-income areas have higher pollution; Black and Hispanic communities have more complex patterns. Second, loans provided by the Safe Drinking Water Act to water systems reduce pollution. At the estimated average loan cost-effectiveness, these loans could eliminate pollution above health standards for $46 annually per person. Third, these loans reduce mortality rates of older Americans. Although fiscal federalism cautions against federal funding of local public goods with few inter-jurisdictional externalities like drinking water, we estimate large benefits from Safe Drinking Water Act loans.",
-      "publication_date": "2026-06-11",
+      "publication_date": "2026-06-12",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -32,7 +32,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35296",
@@ -56,7 +56,7 @@
         }
       ],
       "abstract": "GLP-1 therapies for obesity promise substantial health improvements, but little is known about how their benefits vary across socioeconomic and demographic groups. Using a nationally representative microsimulation model of US adults and Shapely-value decomposition, we estimate the lifetime health and economic benefits of GLP-1 treatment and examine how those gains vary across individuals. The largest differences emerge across education. Individuals with less than a high school education experience experience roughly 14% higher gains in lifetime net social value, 16-17% larger improvements in discounted generalized risk- and severity-adjusted life-years (GRASA-QALYs), and 20% greater increases in life expectancy relative to the cohort mean, whereas individuals with college degrees experience gains 15-27% below the mean across these outcomes. Black and Hispanic individuals also tend to experience larger improvements in health outcomes and social value than White individuals, including larger gains in GRASA-QALYs and life expectancy and larger reductions in diabetes risk and duration. Females likewise experience larger predicted treatment gains than men. These patterns are consistent with the idea that the largest gains arise among populations facing greater socioeconomic constraints in sustaining behavioral weight control. GLP-1 innovation may therefore mitigate inequality in obesity-related disease and survival, advancing equity in population health.",
-      "publication_date": "2026-06-11",
+      "publication_date": "2026-06-12",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -66,7 +66,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35300",
@@ -90,7 +90,7 @@
         }
       ],
       "abstract": "After substantial growth in the 1990s and 2000s, enrollment in the U.S. Social Security Disability Insurance (SSDI) program has been declining since 2013. We use detailed administrative data to quantify the contributions of various factors to trends in SSDI enrollment, focusing especially on the decline in the 2010s. A statistical decomposition suggests that the vast majority of the decline in SSDI enrollment since 2013 is attributable to declines in application rates—and, to a lesser extent, award rates—within demographic groups. There is very little contribution from changes over time in demographic characteristics, eligibility, or exit from SSDI. The decline in SSDI enrollment rates is disproportionately driven by low-to-middle-skilled men who, over time, have become less likely to apply for SSDI and more likely to work. Consistent with this descriptive evidence, we present results from a causal analysis suggesting that improved labor market opportunity for less-skilled men is a key explanation for the decline in SSDI enrollment. We also investigate several other popular hypotheses for the decline in SSDI applications, including lower award rates at the appeals level, and find evidence at odds with them.",
-      "publication_date": "2026-06-11",
+      "publication_date": "2026-06-12",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -101,7 +101,54 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
+    },
+    {
+      "id": "W7164403073",
+      "title": "Do pensions enhance effort and selective retention?: Evidence from public schools",
+      "authors": [
+        {
+          "name": "Michael Bates",
+          "affiliation": "University of California, Riverside"
+        },
+        {
+          "name": "Andrew C. Johnston",
+          "affiliation": "The University of Texas at Austin"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-06-11",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105684",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105684",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Salary",
+          "score": 0.867
+        },
+        {
+          "name": "Incentive",
+          "score": 0.751
+        },
+        {
+          "name": "Pension",
+          "score": 0.726
+        },
+        {
+          "name": "Accrual",
+          "score": 0.627
+        },
+        {
+          "name": "Compensation (psychology)",
+          "score": 0.603
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35280",
@@ -216,7 +263,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35220",
@@ -305,7 +352,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7162023839",
@@ -356,7 +403,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35173",
@@ -472,7 +519,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35146",
@@ -728,7 +775,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7160076895",
@@ -776,7 +823,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7160173250",
@@ -819,7 +866,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7160037262",
@@ -866,7 +913,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7160040194",
@@ -925,7 +972,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w35082",
@@ -1157,7 +1204,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7140275549",
@@ -1200,7 +1247,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "nber_w34966",
@@ -1343,7 +1390,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7131390878",
@@ -1391,7 +1438,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7130643125",
@@ -1442,7 +1489,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7127639882",
@@ -1495,7 +1542,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7127647932",
@@ -1550,7 +1597,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7127592864",
@@ -1601,7 +1648,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7127622621",
@@ -1644,7 +1691,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7126193704",
@@ -1699,7 +1746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7126120302",
@@ -1750,7 +1797,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7125009254",
@@ -1805,7 +1852,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7139110589",
@@ -1852,7 +1899,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W3207058961",
@@ -1907,7 +1954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7118022352",
@@ -1950,7 +1997,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7118170164",
@@ -2131,7 +2178,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7116980467",
@@ -2179,7 +2226,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4416952202",
@@ -2226,7 +2273,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414414795",
@@ -2287,7 +2334,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4416431798",
@@ -2342,7 +2389,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4416233231",
@@ -2398,7 +2445,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4416176458",
@@ -2442,7 +2489,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4415700305",
@@ -2486,7 +2533,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4415659132",
@@ -2541,7 +2588,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4415598714",
@@ -2584,7 +2631,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4415157192",
@@ -2627,7 +2674,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4415092550",
@@ -2706,7 +2753,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414401570",
@@ -2757,7 +2804,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414214471",
@@ -2814,7 +2861,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414192428",
@@ -2873,7 +2920,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414156777",
@@ -2921,7 +2968,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414156582",
@@ -2969,7 +3016,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414156620",
@@ -3024,7 +3071,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414192439",
@@ -3077,7 +3124,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4414192476",
@@ -3132,7 +3179,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4413205737",
@@ -3176,7 +3223,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412829367",
@@ -3239,7 +3286,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4413417481",
@@ -3290,7 +3337,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W3170277562",
@@ -3341,7 +3388,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412416760",
@@ -3393,7 +3440,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W7118973693",
@@ -3440,7 +3487,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412049411",
@@ -3483,7 +3530,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412439464",
@@ -3538,7 +3585,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412076782",
@@ -3589,7 +3636,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412439152",
@@ -3640,7 +3687,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4412535926",
@@ -3695,7 +3742,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4411701583",
@@ -3743,7 +3790,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4411407378",
@@ -3797,7 +3844,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     },
     {
       "id": "W4411406952",
@@ -3840,15 +3887,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-06-11"
+      "added_date": "2026-06-12"
     }
   ],
   "meta": {
-    "last_updated": "2026-06-11T14:28:55Z",
-    "paper_count": 84,
+    "last_updated": "2026-06-12T13:57:15Z",
+    "paper_count": 85,
     "date_range": {
       "from": "2025-06-18",
-      "to": "2026-06-11"
+      "to": "2026-06-12"
     }
   }
 }
