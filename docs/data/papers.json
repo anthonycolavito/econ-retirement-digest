@@ -1,6 +1,268 @@
 {
   "papers": [
     {
+      "id": "nber_w35373",
+      "title": "How Do State “Auto-IRA” Policies Affect Household Balance Sheets?",
+      "authors": [
+        {
+          "name": "Adam Bloomfield",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Ngoc Dao",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Kyung Min Lee",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sita Slavov",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We examine how state policies requiring firms to facilitate workplace retirement saving affect household balance sheets. Using data from the Survey of Income and Program Participation (SIPP), we compare private-sector workers likely exposed to Oregon’s Automatic-Enrollment Individual Retirement Account (Auto-IRA) policy with similar workers in not-yet-adopting states. We find that the Auto-IRA policy is associated with increases in IRA and employer-sponsored retirement plan ownership and assets. We also find increases in checking or savings account ownership and balances, as well as higher credit card debt. The results suggest that Auto-IRA policies spill over to household liquidity management and borrowing.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35373#fromrss",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35430",
+      "title": "Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty",
+      "authors": [
+        {
+          "name": "Ned Augenblick",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Kelsey Jack",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Supreet Kaur",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Felix Masiye",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Nicholas G. Swanson",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Individuals may fail to recall and use information they already know when making decisions. We empirically investigate whether such “retrieval failures” distort consumption smoothing behavior among Zambian farmers, who derive their income from one annual harvest and then spend it down over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for under-saving. In order to improve recall, we randomize an intervention that prompts individuals to think through their future expenses associatively in categories—without providing any external information or guidance. Treated individuals increase “remembered” expenses by 36-60%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, six weeks after the intervention, treated households hold 15% higher savings. They subsequently enter the hungry season—the final months of the year when consumption typically declines sharply—with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year’s crop revenue. We replicate the intervention’s impact on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35430#fromrss",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35438",
+      "title": "Measuring the Value of Disability Insurance from Take-Up Decisions",
+      "authors": [
+        {
+          "name": "Andreas Haller",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Stefan Staubli",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The central trade-off for designing Disability Insurance (DI) is between providing insurance to those in need while maintaining incentives to work. This paper develops a novel revealed-preference approach to identify the insurance value of DI benefits. We show that comparing the DI take-up response to a change in benefits versus a change in wages identifies the insurance value. Implementing our framework in Canada, we estimate that increasing DI benefits by $1 creates an additional disincentive cost of $0.60 but creates an insurance value of $2.20. Thus, our approach suggests that DI benefits are not overly generous in the Canadian context.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35438#fromrss",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35440",
+      "title": "Choice Between Public and Private Healthcare Systems: Evidence from Veterans",
+      "authors": [
+        {
+          "name": "Marika Cabral",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "David C. Chan Jr",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Seth Neller",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "This paper examines the choice between public and private healthcare systems among elderly veterans, who are dually eligible to obtain care through the publicly operated Veterans Health Administration (VA) and through private providers financed by Medicare. We analyze health system choice among veterans who move across areas with differing rates of VA utilization to quantify the relative importance of individual-specific factors (e.g., preferences, income, health) and place-specific factors (e.g., local access, quality, and convenience). Our estimates indicate that 50–60% of geographic variation in VA use is attributable to demand-side individual factors, with the remainder explained by place-based factors. We also document important heterogeneity across types of care, with place-based factors playing a larger role for inpatient and emergency care than for outpatient and primary care. Additional analysis suggests that the supply-side features emphasized in recent legislation—distance to VA facilities and wait times—explain only a small share of estimated place effects. These findings highlight the importance of individual factors in health system choice and have implications for policies aimed at reducing geographic disparities in VA utilization.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35440#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35442",
+      "title": "Cognitive versus Physical Impairment and the Use and Cost of Long-Term Care in Japan",
+      "authors": [
+        {
+          "name": "Rong Fu",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sizhe Liu",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Toshiaki Iizuka",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Haruko Noguchi",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Japan has the world’s oldest population and a universal Long-Term Care Insurance (LTCI) system, yet how care use and costs differ between cognitive and physical impairment remains underexamined. Using the nationally representative Comprehensive Survey of Living Conditions (2016 and 2019 waves; 324,466 adults aged 65 and older), we compare the utilization, intensity, and cost of long-term care across three groups: those with a dementia diagnosis (defined as regularly receiving medical treatment for dementia), those with physical (ADL) limitations but no dementia, and those with neither. A dementia diagnosis is associated with dramatically higher care use—75.3% receive some care, versus 5.3% of the unimpaired reference group. In models adjusting for demographic and socioeconomic characteristics, dementia raises the probability of receiving formal care by 55 percentage points and informal care by 52 percentage points—roughly double the effects of ADL limitations—and, conditional on use, is associated with about 113 additional hours of formal care per month (some 60% more than physical limitations alone). We estimate formal-care costs at 1.07–4.03% of GDP (depending on the valuation method) and co-residing informal-care costs at 0.79% of GDP. Per-capita formal-care costs are substantially higher for those with dementia (about 3.5 versus 2.0 million JPY annually under the self-reported approach), whereas informal-care costs are nearly uniform across impairment types—underscoring the intensive, and largely invisible, contribution of family caregivers. With the dementia and mild-cognitive-impairment population projected to reach roughly 12 million by 2040, these findings point to mounting fiscal and family-care pressures from cognitive impairment in Japan.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35442#fromrss",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35456",
+      "title": "Long-Run Intergenerational Effects of Social Security",
+      "authors": [
+        {
+          "name": "Daniel K. Fetter",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Lee M. Lockwood",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Paul Mohnen",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Both historically and today, support of aging parents has largely taken the form of in-kind transfers that require physical proximity, such as housing and caregiving. If Social Security substitutes for such support, it can relax constraints on where recipients' children live and work. We investigate the long-run intergenerational effects of the early Social Security program, exploiting within-occupation, cross-industry differences in coverage and a new dataset linking parents to their children's later-life outcomes. We find that sons whose parents had greater predicted coverage moved farther from their childhood homes, earned more, and lived in better neighborhoods late in life. We find no such effects for daughters, who tended to provide forms of support less easily replaced by Social Security. The gains considerably exceeded the associated Social Security benefits for the average family, with migration to better-matched labor markets a likely key driver. We propose that the early program enabled families to realize gains from migration that were back-loaded, uncertain, and difficult to contract on.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35456#fromrss",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35464",
+      "title": "Long Term Care and Cognitive Impairment in Spain",
+      "authors": [
+        {
+          "name": "Joan Costa-i-Font",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sergi Jimenez-Martin",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Juan Oliva",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Cristina Vilaplana-Prieto",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Analía Viola",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The growing prevalence of cognitive impairment (CI) is one of the main drivers of age-related demand for health and long-term care (LTC). In Spain, CI is estimated to affect 18.5% of Spaniards over 65, and 45.3% in those aged 85 and above. This paper draws on a pooled pre-COVID data from a longitudinal sample of individuals aged 65+ to examine the effect of CI and physical limitations on health and long-term care utilisation, estimates its costs, and financial burden. We report four sets of findings. First, we find that socioeconomic status at older age to be the strongest predictor of CI. Second, while both CI and physical limitations increase health and care adult care use, physical impairment is a stronger predictor of overall care utilisation (73% versus 55% for CI alone) and nursing home residence (2.0% versus 0.9%). Third, informal caregiving constitutes the overwhelming majority of dementia costs, accounting for 69–81% of the total. Finally, we estimate that the replacement cost of informal care would exhaust the full budget of Spain’s LTC system (SAAD).",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35464#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
+      "id": "nber_w35465",
+      "title": "Social Insurance with Imperfect Eligibility Screening: Theory and Evidence from Pandemic UI",
+      "authors": [
+        {
+          "name": "Adam Isen",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Elira Kuka",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Bryan A. Stuart",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "This paper studies social insurance with imperfect eligibility screening, focusing on Unemployment Insurance (UI) during its expansion in 2020 and 2021. We study the extent of imperfect screening by identifying anomalous payments using administrative tax data and UI policies, finding $214 billion in potentially-improper payments—concentrated in the Pandemic Unemployment Assistance (PUA) program—with approximately half detectable ex-ante through improved federal-state data sharing. There is substantial geographic variation, and a border design shows this is partly due to policy decisions made by states. To assess the implications for optimal policy, we first conduct simulations that replace PUA with means-tested, lump-sum transfers, finding that these transfers would have better insured against income losses at lower administrative cost. Second, we develop a model of opt-in versus automatic transfers that shows the targeting advantage of opt-in programs can reverse when ineligible recipients pass the benefit screen. Calibrated to 2020 UI, the model implies that shifting toward automatic transfers would have increased social welfare.",
+      "publication_date": "2026-07-13",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35465#fromrss",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-13"
+    },
+    {
       "id": "nber_w35396",
       "title": "New Evidence on the Health-Status Gradient from Imperial China",
       "authors": [
@@ -223,7 +485,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7165660871",
@@ -270,7 +532,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35323",
@@ -445,7 +707,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35280",
@@ -560,7 +822,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35220",
@@ -649,7 +911,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7162023839",
@@ -700,7 +962,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35173",
@@ -816,7 +1078,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35146",
@@ -1072,7 +1334,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7160076895",
@@ -1120,7 +1382,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7160173250",
@@ -1163,7 +1425,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7160037262",
@@ -1210,7 +1472,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7160040194",
@@ -1269,7 +1531,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w35082",
@@ -1501,7 +1763,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7140275549",
@@ -1544,7 +1806,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "nber_w34966",
@@ -1687,7 +1949,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7131390878",
@@ -1735,7 +1997,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7130643125",
@@ -1786,7 +2048,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7165682263",
@@ -1825,7 +2087,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7127639882",
@@ -1878,7 +2140,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7127647932",
@@ -1933,7 +2195,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7127622621",
@@ -1976,7 +2238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7127592864",
@@ -2027,7 +2289,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7126193704",
@@ -2082,7 +2344,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7126120302",
@@ -2133,7 +2395,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7125009254",
@@ -2188,7 +2450,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7118192714",
@@ -2232,7 +2494,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7139110589",
@@ -2279,7 +2541,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W3207058961",
@@ -2334,7 +2596,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7118022352",
@@ -2514,7 +2776,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W7116980467",
@@ -2562,7 +2824,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4416952202",
@@ -2609,7 +2871,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414414795",
@@ -2670,7 +2932,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4416431798",
@@ -2725,7 +2987,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4416233231",
@@ -2781,7 +3043,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4416176458",
@@ -2825,7 +3087,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4415700305",
@@ -2869,7 +3131,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4415659132",
@@ -2924,7 +3186,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4415598714",
@@ -2967,7 +3229,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4415157192",
@@ -3010,7 +3272,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4415092550",
@@ -3089,7 +3351,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414401570",
@@ -3140,7 +3402,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414214471",
@@ -3197,7 +3459,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414192428",
@@ -3256,7 +3518,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414156582",
@@ -3304,7 +3566,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414156620",
@@ -3359,7 +3621,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414192439",
@@ -3412,7 +3674,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414192476",
@@ -3467,7 +3729,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4414156777",
@@ -3515,7 +3777,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4413205737",
@@ -3559,7 +3821,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4412829367",
@@ -3622,7 +3884,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4413813164",
@@ -3697,7 +3959,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4413417481",
@@ -3748,7 +4010,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W3170277562",
@@ -3799,7 +4061,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     },
     {
       "id": "W4412416760",
@@ -3851,15 +4113,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-12"
+      "added_date": "2026-07-13"
     }
   ],
   "meta": {
-    "last_updated": "2026-07-12T11:50:07Z",
-    "paper_count": 87,
+    "last_updated": "2026-07-13T13:11:17Z",
+    "paper_count": 95,
     "date_range": {
       "from": "2025-07-15",
-      "to": "2026-07-12"
+      "to": "2026-07-13"
     }
   }
 }
