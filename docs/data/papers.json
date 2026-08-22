@@ -22,7 +22,7 @@
         }
       ],
       "abstract": "The US Health and Retirement Study collects data on participants’ recall fluency (RF), their ability to recall words from a list, a standard measure of memory used by psychologists. Controlling for multiple demographic characteristics as well as IQ, people with a higher RF are more optimistic about stock returns, the price of their homes, and their life expectancy. We derive the predictions of a standard memory model and find that, consistent with them, the beliefs of higher RF people about each target domain are more sensitive to cues, to experiences in that domain, but also to irrelevant experiences in other domains, especially those similar to the target. These effects, in turn, carry to investment and retirement choices. RF emerges as an economically relevant personal trait.",
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-08-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -32,7 +32,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35606",
@@ -52,7 +52,7 @@
         }
       ],
       "abstract": "In this paper, we compare supplemental Medicare insurance coverage among people with probable dementia (PWPD) and matched controls, before and after onset. This retrospective secondary data analysis of insurance coverage changes using propensity score weights and the 2000-2016 Health and Retirement Study (HRS). The sample consists of 3,001 Medicare-enrolled adults age 65 and older with PWPD, and 14,055 controls. Probable dementia is assessed with the Langa-Weir approach and interviewer assessments for proxy interviews. Four years before onset, PWPD become more likely to have Medicare without supplemental coverage (2.97 percentage points; p=0.0016) than matched controls. This reflects the net effect of PWPD being less likely to have Medicare Advantage or traditional Medicare with supplemental coverage, and more likely to have Medicaid. Two years before onset, PWPD were more likely to be Medicaid-eligible (4.95 percentage points, p<0.001), but take-up rates were comparable. Enrollment assistance may improve supplemental coverage for PWPD around dementia onset, potentially increasing financial access to care.",
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-08-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -63,7 +63,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35618",
@@ -83,7 +83,7 @@
         }
       ],
       "abstract": "This study deploys a multi-region, dynamic life-cycle, general equilibrium model to assess demography’s impact, through the course of this century, on global development. Our model’s 17 regions encompass more than 150 countries comprising 99% of the world’s population. Output is produced with three labor skill groups and internationally-mobile capital, with each country deciding annually whether to adopt its frontier automation technology. Our model features region-specific fiscal policy, TFP growth, and idiosyncratic mortality. Agents live for 100 years, first as children, then as workers, and then as retirees. Work and saving decisions are governed by CES preferences. Lifespan is uncertain, but there are no annuities apart from state pensions. Hence, bequests, while significant, are unintended. Our fertility, mortality, and net immigration rates are region- and age-specific and align fully with the UN’s projections. To illustrate demographics’ power to impact the global transition, we simulate our model under the UN’s markedly different demographic projections for 2017 and 2024. The 2024 forecast is particularly pessimistic about China’s fertility prospects. Both projections produce very substantial global aging, a major global capital glut producing very low long-run real capital returns. The latest forecast entails 10% lower global GDP in 2100 and far higher payroll tax rates to fund old-age benefits. Most important, it entails a major change in the course of economic hegemony with China’s 2100 global GDP share falling from 25.6% to 14.9% and the US share rising from 11.2% to 14.4%. Our results are sensitive. Should the US eliminate all future immigration, its 14.4% global 2100 GDP share would drop to 9.2%. And were global fertility to follow the UN’s low variant, 2100 world output would be one third, not one tenth lower. The level and division of global output is also highly sensitive to the speed at which AI expands frontier technologies. Accelerated AU/AI – 4x faster-than-recent growth in capital’s share through 2050 – or Transformative AU/AI – 10x faster capital-share growth – reinforce demographic forces, ensuring long-run US economic hegemony. Indeed, Transformative AI combined with 2024 demographics implies US and Chinese 2100 global GDP shares of 25.3% and 16.9%, respectively. And not withstanding its considerable technological catch up, the US retains, based on our calibration, a technological edge over China throughout the century.",
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-08-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -94,7 +94,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35631",
@@ -110,7 +110,7 @@
         }
       ],
       "abstract": "This paper examines how selection into medicine in the United States influences physician practice styles. We exploit macroeconomic conditions at the time of medical school application as an exogenous shock to the applicant pool and find that labor market downturns in other prestigious fields increase applications to medical school and shift the composition of matriculating cohorts toward students from non–pre-medical backgrounds. Strikingly, these low–outside-option cohorts practice medicine differently decades later. Conditional on experience, specialty, and outcome year, recession-cohort physicians bill Medicare more per beneficiary despite seeing healthier patients—particularly on discretionary, revenue-generating services—and sort into practice settings with higher-powered financial incentives. The additional spending does not produce detectable improvements in patient health. Taken together, our findings point to stronger financial motivation among those drawn into medicine when outside options are weak and suggest that medical school admissions screen imperfectly on the attributes that ultimately shape how physicians practice.",
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-08-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -120,7 +120,54 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
+    },
+    {
+      "id": "W7203821976",
+      "title": "Escaping temporary traps? Evidence from age-based incentives to permanent employment",
+      "authors": [
+        {
+          "name": "Ferran Elias",
+          "affiliation": "Universitat de Girona"
+        },
+        {
+          "name": "Henry Redondo",
+          "affiliation": "University of Alicante"
+        }
+      ],
+      "abstract": "This paper studies how reducing the cost differential between permanent and temporary contracts affects firms’ use of each contract type. We analyze a 1997 Spanish reform that lowered non-wage labor costs for new open-ended (OE) contracts for workers under 30 and over 45, while leaving short-term (ST) contracts unaffected. Exploiting sectoral exposure and age-based discontinuities, we show that firms substitute strongly from ST to OE contracts for young workers but respond little for older workers. We find partial wage incidence of the subsidy on directly affected permanent jobs. The implied elasticity of substitution between ST and OE contracts is 6.5 for workers below age 30 and close to zero for workers above age 45. We also document that young workers’ wages rise in unsubsidized ST jobs consistent with the expansion of OE employment strengthening their outside options. Overall, the results reveal sharp age asymmetries in contract substitution. They suggest that monetary incentives can facilitate transitions from temporary to permanent employment for young workers, but are less effective for workers above age 45.",
+      "publication_date": "2026-08-20",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105758",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105758",
+      "topics": [
+        "retirement_decisions"
+      ],
+      "concepts": [
+        {
+          "name": "Incentive",
+          "score": 0.761
+        },
+        {
+          "name": "Labour economics",
+          "score": 0.724
+        },
+        {
+          "name": "Economics",
+          "score": 0.716
+        },
+        {
+          "name": "Subsidy",
+          "score": 0.686
+        },
+        {
+          "name": "Wage",
+          "score": 0.566
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35574",
@@ -313,7 +360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7171724687",
@@ -365,7 +412,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35441",
@@ -622,7 +669,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35373",
@@ -936,7 +983,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7168249942",
@@ -979,7 +1026,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7168162437",
@@ -1035,7 +1082,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35396",
@@ -1092,36 +1139,6 @@
       "concepts": [],
       "matched_by": "nber_rss",
       "added_date": "2026-07-12"
-    },
-    {
-      "id": "nber_w35380",
-      "title": "Health Care Reform and Firm Dynamics: Evidence from Medicare Part D and the Retail Pharmacy Industry",
-      "authors": [
-        {
-          "name": "Brandyn F. Churchill",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Georgina Cisneros",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Kelli R. Marquardt",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Health care reforms are often enacted before implementation, creating uncertainty that can shape firms’ decisions. We examine how Medicare Part D affected the retail pharmacy industry using 2000-2009 establishment-level data, leveraging the fact that Part D disproportionately affected counties with larger elderly populations. Consistent with predictions from a conceptual model in which pre-implementation uncertainty discourages entry and lower post-implementation margins prevent full recovery, we find that Part D was associated with a 5-percent reduction in pharmacies, driven by fewer openings rather than more closures. We also find suggestive evidence that reduced pharmacy access dampened Part D’s mortality benefits.",
-      "publication_date": "2026-07-05",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w35380#fromrss",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-07-05"
     },
     {
       "id": "nber_w35384",
@@ -1260,7 +1277,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7165660871",
@@ -1307,7 +1324,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35323",
@@ -1482,7 +1499,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35280",
@@ -1597,7 +1614,58 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
+    },
+    {
+      "id": "W4407850825",
+      "title": "Health Care Reform and Firm Dynamics: Evidence from Medicare Part D and the Retail Pharmacy Industry",
+      "authors": [
+        {
+          "name": "Brendan Churchill",
+          "affiliation": "American University"
+        },
+        {
+          "name": "Georgina Cisneros",
+          "affiliation": "American University"
+        },
+        {
+          "name": "Kelli Marquardt",
+          "affiliation": "Federal Reserve Bank of Chicago"
+        }
+      ],
+      "abstract": "Health care reforms are often enacted before implementation, creating uncertainty that can shape firms’ decisions. We examine how Medicare Part D affected the retail pharmacy industry using 2000-2009 establishment-level data, leveraging the fact that Part D disproportionately affected counties with larger elderly populations. Consistent with predictions from a conceptual model in which pre-implementation uncertainty discourages entry and lower post-implementation margins prevent full recovery, we find that Part D was associated with a 5-percent reduction in pharmacies, driven by fewer openings rather than more closures. We also find suggestive evidence that reduced pharmacy access dampened Part D’s mortality benefits. Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at www.nber.org.",
+      "publication_date": "2026-06-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w35380",
+      "url": "https://doi.org/10.3386/w35380",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Pharmacy",
+          "score": 0.827
+        },
+        {
+          "name": "Business",
+          "score": 0.644
+        },
+        {
+          "name": "Medicare Part D",
+          "score": 0.51
+        },
+        {
+          "name": "Marketing",
+          "score": 0.504
+        },
+        {
+          "name": "Health care",
+          "score": 0.492
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35220",
@@ -1686,7 +1754,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7162023839",
@@ -1737,7 +1805,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35173",
@@ -1853,7 +1921,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35146",
@@ -2109,7 +2177,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7160076895",
@@ -2157,7 +2225,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7160173250",
@@ -2200,7 +2268,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7160037262",
@@ -2247,7 +2315,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7160040194",
@@ -2306,7 +2374,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w35082",
@@ -2538,7 +2606,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7140275549",
@@ -2581,7 +2649,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "nber_w34966",
@@ -2692,7 +2760,7 @@
           "affiliation": "Flinders University"
         }
       ],
-      "abstract": "<h3>Abstract</h3> This paper examines the causal impact of retirement on social capital using nationally representative Australian panel data. Exploiting the eligibility age for the Age Pension, we find that retirement significantly enhances social capital by increasing social connectedness and community involvement. These gains improve physical and mental health, with effects comparable to those of physical activity. However, older individuals’ perceptions of social relationships remain unchanged. Our findings highlight a key policy tradeoff: while raising the retirement age may boost labor force participation, it may reduce opportunities for meaningful social engagement and, in turn, undermine the health of older adults.",
+      "abstract": "Abstract This paper examines the causal impact of retirement on social capital using nationally representative Australian panel data. Exploiting the eligibility age for the Age Pension, we find that retirement significantly enhances social capital by increasing social connectedness and community involvement. These gains improve physical and mental health, with effects comparable to those of physical activity. However, older individuals’ perceptions of social relationships remain unchanged. Our findings highlight a key policy tradeoff: while raising the retirement age may boost labor force participation, it may reduce opportunities for meaningful social engagement and, in turn, undermine the health of older adults.",
       "publication_date": "2026-03-11",
       "source": "The Journal of Human Resources",
       "source_type": "journal",
@@ -2724,7 +2792,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7131390878",
@@ -2772,7 +2840,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7130643125",
@@ -2823,7 +2891,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7165682263",
@@ -2862,60 +2930,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
-    },
-    {
-      "id": "W7127639882",
-      "title": "Why Does Disability Insurance Enrollment Increase During Recessions? Evidence from Medicare",
-      "authors": [
-        {
-          "name": "Colleen Carey",
-          "affiliation": "Cornell University"
-        },
-        {
-          "name": "Nolan Miller",
-          "affiliation": "University of Illinois System"
-        },
-        {
-          "name": "David Molitor",
-          "affiliation": "University of Illinois System"
-        }
-      ],
-      "abstract": "Abstract Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
-      "publication_date": "2026-02-04",
-      "source": "The Review of Economics and Statistics",
-      "source_type": "journal",
-      "doi": "10.1162/rest.a.1698",
-      "url": "https://doi.org/10.1162/rest.a.1698",
-      "topics": [
-        "public_pensions",
-        "social_insurance",
-        "health_retirement"
-      ],
-      "concepts": [
-        {
-          "name": "Unemployment",
-          "score": 0.731
-        },
-        {
-          "name": "Disability insurance",
-          "score": 0.557
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.536
-        },
-        {
-          "name": "Recession",
-          "score": 0.53
-        },
-        {
-          "name": "Great recession",
-          "score": 0.487
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7127647932",
@@ -2970,7 +2985,60 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
+    },
+    {
+      "id": "W7127639882",
+      "title": "Why Does Disability Insurance Enrollment Increase During Recessions? Evidence from Medicare",
+      "authors": [
+        {
+          "name": "Colleen Carey",
+          "affiliation": "Cornell University"
+        },
+        {
+          "name": "Nolan Miller",
+          "affiliation": "University of Illinois System"
+        },
+        {
+          "name": "David Molitor",
+          "affiliation": "University of Illinois System"
+        }
+      ],
+      "abstract": "Abstract Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
+      "publication_date": "2026-02-04",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.1698",
+      "url": "https://doi.org/10.1162/rest.a.1698",
+      "topics": [
+        "public_pensions",
+        "social_insurance",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Unemployment",
+          "score": 0.731
+        },
+        {
+          "name": "Disability insurance",
+          "score": 0.557
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.536
+        },
+        {
+          "name": "Recession",
+          "score": 0.53
+        },
+        {
+          "name": "Great recession",
+          "score": 0.487
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7127622621",
@@ -3013,7 +3081,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7127592864",
@@ -3064,7 +3132,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7126193704",
@@ -3119,7 +3187,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7126120302",
@@ -3170,7 +3238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7125009254",
@@ -3225,7 +3293,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W1504388888",
@@ -3272,7 +3340,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7118192714",
@@ -3316,7 +3384,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7139110589",
@@ -3363,7 +3431,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W3207058961",
@@ -3418,7 +3486,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7118022352",
@@ -3598,7 +3666,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W7116980467",
@@ -3646,7 +3714,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4416952202",
@@ -3693,7 +3761,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414414795",
@@ -3701,19 +3769,19 @@
       "authors": [
         {
           "name": "Cristina Bellés‐Obrero",
-          "affiliation": ""
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Manuel Flores Mallo",
-          "affiliation": ""
+          "affiliation": "Institut d'Anàlisi Econòmica"
         },
         {
           "name": "Pilar García‐Gómez",
-          "affiliation": ""
+          "affiliation": "Erasmus University Rotterdam"
         },
         {
           "name": "Sergi Jiménez‐Martín",
-          "affiliation": ""
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Judit Vall Castelló",
@@ -3754,7 +3822,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4416431798",
@@ -3809,7 +3877,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4416233231",
@@ -3865,7 +3933,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4416176458",
@@ -3909,7 +3977,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4415700305",
@@ -3953,7 +4021,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4415659132",
@@ -4008,7 +4076,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4415598714",
@@ -4051,7 +4119,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4415157192",
@@ -4094,14 +4162,14 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-07-28"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4415092550",
       "title": "Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023",
       "authors": [
         {
-          "name": "Masayuki Teramoto",
+          "name": "Dr.Kabilan Annadurai",
           "affiliation": ""
         },
         {
@@ -4173,7 +4241,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414401570",
@@ -4224,7 +4292,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414214471",
@@ -4281,7 +4349,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414192428",
@@ -4340,7 +4408,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414156582",
@@ -4388,7 +4456,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414156620",
@@ -4443,7 +4511,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414192439",
@@ -4496,7 +4564,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414192476",
@@ -4551,7 +4619,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     },
     {
       "id": "W4414156777",
@@ -4599,15 +4667,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-21"
+      "added_date": "2026-08-22"
     }
   ],
   "meta": {
-    "last_updated": "2026-08-21T11:16:30Z",
-    "paper_count": 111,
+    "last_updated": "2026-08-22T11:11:09Z",
+    "paper_count": 112,
     "date_range": {
       "from": "2025-09-01",
-      "to": "2026-08-21"
+      "to": "2026-08-22"
     }
   }
 }
