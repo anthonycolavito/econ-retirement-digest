@@ -22,7 +22,7 @@
         }
       ],
       "abstract": "The diffusion of technological innovation depends on incentives, regulations, and firms’ strategic behaviors. We study these intersections within cardiac procedure markets following Medicare’s expansion of non-hospital facility options for treatment, enabled by clinical advancements. State-level regulations restrain federal pro-competition policy. Where market entry occurs, business stealing is concentrated among the lowest cost treatment settings, rather than high-cost hospitals––increasing Medicare spending by approximately $2.5 million. Medicare policy also generates externalities for untargeted procedures and other payers, except when hospitals and physicians are vertically integrated. Federal rulemaking interacts with and is mitigated by complex market dynamics––including in potentially unanticipated ways.",
-      "publication_date": "2026-08-28",
+      "publication_date": "2026-08-29",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -32,7 +32,46 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
+    },
+    {
+      "id": "W4409542908",
+      "title": "Mortality regressivity and pension design",
+      "authors": [
+        {
+          "name": "Youngsoo Jang",
+          "affiliation": ""
+        },
+        {
+          "name": "Svetlana Pashchenko",
+          "affiliation": "University of Georgia"
+        },
+        {
+          "name": "Ponpoje Porapakkarm",
+          "affiliation": "National Graduate Institute for Policy Studies"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-08-28",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105766",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105766",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Pension",
+          "score": 0.632
+        },
+        {
+          "name": "Economics",
+          "score": 0.429
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35600",
@@ -201,7 +240,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35574",
@@ -394,7 +433,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7171724687",
@@ -446,7 +485,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35441",
@@ -703,7 +742,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35373",
@@ -1017,7 +1056,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7168249942",
@@ -1060,7 +1099,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7168162437",
@@ -1116,7 +1155,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35396",
@@ -1311,7 +1350,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7165660871",
@@ -1358,7 +1397,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35323",
@@ -1533,7 +1572,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35280",
@@ -1648,7 +1687,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4407850825",
@@ -1699,7 +1738,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35220",
@@ -1788,7 +1827,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7162023839",
@@ -1839,7 +1878,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35173",
@@ -1955,7 +1994,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35146",
@@ -2211,7 +2250,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7160076895",
@@ -2259,7 +2298,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7160173250",
@@ -2302,7 +2341,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7160037262",
@@ -2349,7 +2388,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7160040194",
@@ -2408,7 +2447,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w35082",
@@ -2640,7 +2679,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7140275549",
@@ -2683,7 +2722,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "nber_w34966",
@@ -2826,7 +2865,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7131390878",
@@ -2874,7 +2913,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7130643125",
@@ -2925,7 +2964,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7165682263",
@@ -2964,7 +3003,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7127647932",
@@ -3019,7 +3058,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7127639882",
@@ -3072,7 +3111,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7127622621",
@@ -3115,7 +3154,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7127592864",
@@ -3166,7 +3205,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7126193704",
@@ -3221,7 +3260,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7126120302",
@@ -3272,7 +3311,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7125009254",
@@ -3327,7 +3366,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W1504388888",
@@ -3374,7 +3413,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7118192714",
@@ -3418,7 +3457,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7139110589",
@@ -3465,7 +3504,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W3207058961",
@@ -3520,7 +3559,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7118022352",
@@ -3700,7 +3739,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W7116980467",
@@ -3748,7 +3787,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4416952202",
@@ -3795,7 +3834,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414414795",
@@ -3856,7 +3895,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4416431798",
@@ -3911,7 +3950,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4416233231",
@@ -3967,7 +4006,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4416176458",
@@ -4011,7 +4050,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4415700305",
@@ -4055,7 +4094,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4415659132",
@@ -4110,7 +4149,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4415598714",
@@ -4153,7 +4192,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4415157192",
@@ -4196,7 +4235,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4415092550",
@@ -4275,7 +4314,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414401570",
@@ -4326,7 +4365,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414214471",
@@ -4383,7 +4422,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414192428",
@@ -4442,7 +4481,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414156582",
@@ -4490,7 +4529,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414192439",
@@ -4543,7 +4582,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414192476",
@@ -4598,7 +4637,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414156777",
@@ -4646,7 +4685,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-08-28"
+      "added_date": "2026-08-29"
     },
     {
       "id": "W4414156620",
@@ -4705,11 +4744,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-08-28T21:17:18Z",
-    "paper_count": 113,
+    "last_updated": "2026-08-29T15:22:46Z",
+    "paper_count": 114,
     "date_range": {
       "from": "2025-09-01",
-      "to": "2026-08-28"
+      "to": "2026-08-29"
     }
   }
 }
