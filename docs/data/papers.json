@@ -18,7 +18,7 @@
         }
       ],
       "abstract": "We estimate the effect of receiving Supplemental Security Income (SSI) in childhood on adult outcomes using multiple sources of variation. Using variation across and within two quasi-experiments, we find that the program has heterogeneous effects that vary with the parental earnings response to SSI benefits: the program has positive effects on children when parents do not adjust their labor supply in response to SSI income (meaning household income increases), but zero or negative effects on children when parents offset the transfer by reducing earnings (meaning household income remains constant or falls). These results suggest that, relative to parent non-work time, income is crucial in the human capital production of low-income children with disabilities. We estimate a model of maternal labor supply and child human capital formation to quantify the relative importance of these channels. Our findings indicate that 1) the income effects of SSI on children's human capital are substantial, with a limited role for perverse incentive effects from conditioning benefits on disability status, and 2) parental work on net improves children's outcomes by increasing household resources, despite the potential decrease in parental time.",
-      "publication_date": "2026-09-16",
+      "publication_date": "2026-09-17",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -28,7 +28,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-17"
     },
     {
       "id": "nber_w35748",
@@ -48,7 +48,7 @@
         }
       ],
       "abstract": "We examine how information affects the choice between Social Security Disability Insurance (DI) and Old-Age Insurance (OAI) benefits for people between 62 and full retirement age. We find that receiving an initial Social Security statement, which provides recipients with personalized estimated benefit amounts available from DI and OAI, increases the probability of applying for both programs among those with a work-limiting health condition or a low work ability index, and this response is concentrated among people who are further from full retirement age. The increase in DI applications is split between applications for DI only and applications for both programs.",
-      "publication_date": "2026-09-16",
+      "publication_date": "2026-09-17",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -60,7 +60,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-17"
     },
     {
       "id": "nber_w35693",
@@ -4525,11 +4525,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-09-16T15:13:02Z",
+    "last_updated": "2026-09-17T15:21:13Z",
     "paper_count": 112,
     "date_range": {
       "from": "2025-09-22",
-      "to": "2026-09-16"
+      "to": "2026-09-17"
     }
   }
 }
