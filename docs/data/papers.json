@@ -18,7 +18,7 @@
         }
       ],
       "abstract": "We estimate the effect of receiving Supplemental Security Income (SSI) in childhood on adult outcomes using multiple sources of variation. Using variation across and within two quasi-experiments, we find that the program has heterogeneous effects that vary with the parental earnings response to SSI benefits: the program has positive effects on children when parents do not adjust their labor supply in response to SSI income (meaning household income increases), but zero or negative effects on children when parents offset the transfer by reducing earnings (meaning household income remains constant or falls). These results suggest that, relative to parent non-work time, income is crucial in the human capital production of low-income children with disabilities. We estimate a model of maternal labor supply and child human capital formation to quantify the relative importance of these channels. Our findings indicate that 1) the income effects of SSI on children's human capital are substantial, with a limited role for perverse incentive effects from conditioning benefits on disability status, and 2) parental work on net improves children's outcomes by increasing household resources, despite the potential decrease in parental time.",
-      "publication_date": "2026-09-17",
+      "publication_date": "2026-09-18",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -28,7 +28,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-09-17"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35748",
@@ -48,7 +48,7 @@
         }
       ],
       "abstract": "We examine how information affects the choice between Social Security Disability Insurance (DI) and Old-Age Insurance (OAI) benefits for people between 62 and full retirement age. We find that receiving an initial Social Security statement, which provides recipients with personalized estimated benefit amounts available from DI and OAI, increases the probability of applying for both programs among those with a work-limiting health condition or a low work ability index, and this response is concentrated among people who are further from full retirement age. The increase in DI applications is split between applications for DI only and applications for both programs.",
-      "publication_date": "2026-09-17",
+      "publication_date": "2026-09-18",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -60,7 +60,107 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-09-17"
+      "added_date": "2026-09-18"
+    },
+    {
+      "id": "W7213451339",
+      "title": "Welfare impact of flexible payouts and adverse selection in tontines",
+      "authors": [
+        {
+          "name": "Adam Butt",
+          "affiliation": "Australian National University"
+        },
+        {
+          "name": "Gaurav Khemka",
+          "affiliation": "Australian National University"
+        },
+        {
+          "name": "Eugene Tan",
+          "affiliation": "Milliman (United States)"
+        }
+      ],
+      "abstract": "Abstract The welfare impact of allowing flexible payouts in a tontine is investigated. This is achieved by simulating an open tontine with consistent membership numbers. Certainty equivalent payouts are used to measure welfare loss compared to an equivalent actuarially fair annuity. In the base scenario with no flexible payouts or adverse selection, welfare loss is 0.56 per cent compared to the equivalent annuity, of which more than 80 per cent is due to systematic mortality uncertainty and less than 20 per cent is due to idiosyncratic mortality uncertainty. Where biased (adverse selection) flexible payments are present, additional welfare loss is also present. However, with appropriate constraints on flexible payout structures, the average welfare loss is smaller than the loading applied to an equivalent annuity. This investigation is presented in an administratively feasible structure, and hence the key findings of this paper can be broadly applied by product providers keen to innovate.",
+      "publication_date": "2026-09-17",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100201",
+      "url": "https://doi.org/10.1017/s1474747226100201",
+      "topics": [
+        "longevity_mortality",
+        "insurance_markets"
+      ],
+      "concepts": [
+        {
+          "name": "Welfare",
+          "score": 0.728
+        },
+        {
+          "name": "Deadweight loss",
+          "score": 0.64
+        },
+        {
+          "name": "Economics",
+          "score": 0.635
+        },
+        {
+          "name": "Payment",
+          "score": 0.508
+        },
+        {
+          "name": "Adverse selection",
+          "score": 0.5
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-09-18"
+    },
+    {
+      "id": "W7213456135",
+      "title": "Revisiting the effects of health on retirement expectations",
+      "authors": [
+        {
+          "name": "Aspen Gorry",
+          "affiliation": "Clemson University"
+        },
+        {
+          "name": "Jonathan M. Leganza",
+          "affiliation": "Clemson University"
+        }
+      ],
+      "abstract": "Abstract How does health affect retirement expectations? We revisit this question using updated data from the Health and Retirement Study and an event study framework to estimate the causal effects of various health shocks on the self-assessed probabilities of working past older ages. Importantly, recent waves of survey data contain information on expectations for current workers and non-workers, which avoids sample selection issues encountered by previous studies. We find that declines in subjective health status and new diagnoses of objective health conditions decrease the probabilities of working past 62 and 65. Our findings highlight how poor health can cause people to expect to retire before becoming eligible for Social Security and Medicare benefits.",
+      "publication_date": "2026-09-17",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100195",
+      "url": "https://doi.org/10.1017/s1474747226100195",
+      "topics": [
+        "public_pensions",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Health and Retirement Study",
+          "score": 0.679
+        },
+        {
+          "name": "Social security",
+          "score": 0.614
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.544
+        },
+        {
+          "name": "Affect (linguistics)",
+          "score": 0.537
+        },
+        {
+          "name": "Sample (material)",
+          "score": 0.472
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35693",
@@ -112,6 +212,49 @@
       "concepts": [],
       "matched_by": "nber_rss",
       "added_date": "2026-09-13"
+    },
+    {
+      "id": "W7213493128",
+      "title": "Insurance Choice with Non-Monetary Plan Attributes: Limited Consideration in Medicare Part D",
+      "authors": [
+        {
+          "name": "Maura Coughlin",
+          "affiliation": "Rice University"
+        }
+      ],
+      "abstract": "Abstract I propose a model of insurance demand where non-monetary attributes determine which plans an individual considers, and monetary attributes determine an individual's expected utility. This approach reconciles the classic view of insurance as purely financial with the empirical finding that choice is driven by additional attributes. I estimate the model using Medicare Part D data, allowing for unobserved heterogeneity in consideration and preferences. I find the former plays a crucial role: more than 90% of individuals consider 5 or fewer plans, approximately lO°lo of the menu. Additionally, estimates of risk preferences are comparable to existing studies of similar stakes.",
+      "publication_date": "2026-09-08",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest.a.1864",
+      "url": "https://doi.org/10.1162/rest.a.1864",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Actuarial science",
+          "score": 0.714
+        },
+        {
+          "name": "Plan (archaeology)",
+          "score": 0.549
+        },
+        {
+          "name": "Economics",
+          "score": 0.47
+        },
+        {
+          "name": "Econometrics",
+          "score": 0.368
+        },
+        {
+          "name": "Insurance policy",
+          "score": 0.354
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35664",
@@ -227,7 +370,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35600",
@@ -396,7 +539,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35574",
@@ -589,7 +732,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7171724687",
@@ -641,7 +784,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35441",
@@ -898,7 +1041,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35373",
@@ -1212,7 +1355,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7168249942",
@@ -1255,7 +1398,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7168162437",
@@ -1311,7 +1454,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35396",
@@ -1506,7 +1649,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7165660871",
@@ -1553,7 +1696,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35323",
@@ -1728,7 +1871,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35280",
@@ -1843,7 +1986,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4407850825",
@@ -1894,7 +2037,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35220",
@@ -1983,7 +2126,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7162023839",
@@ -2034,7 +2177,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35173",
@@ -2150,7 +2293,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35146",
@@ -2406,7 +2549,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7160076895",
@@ -2454,7 +2597,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7160173250",
@@ -2497,7 +2640,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7160037262",
@@ -2544,7 +2687,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7160040194",
@@ -2603,7 +2746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w35082",
@@ -2835,7 +2978,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7140275549",
@@ -2878,7 +3021,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "nber_w34966",
@@ -3021,7 +3164,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7131390878",
@@ -3069,7 +3212,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7130643125",
@@ -3120,7 +3263,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7165682263",
@@ -3159,7 +3302,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7127647932",
@@ -3214,7 +3357,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7127639882",
@@ -3267,7 +3410,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7127622621",
@@ -3310,7 +3453,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7127592864",
@@ -3361,7 +3504,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7126193704",
@@ -3416,7 +3559,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7126120302",
@@ -3467,7 +3610,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7125009254",
@@ -3522,7 +3665,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W1504388888",
@@ -3569,7 +3712,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7118192714",
@@ -3613,7 +3756,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7139110589",
@@ -3660,7 +3803,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W3207058961",
@@ -3715,7 +3858,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7118022352",
@@ -3895,7 +4038,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W7116980467",
@@ -3943,7 +4086,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4416952202",
@@ -3990,7 +4133,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4414414795",
@@ -4051,7 +4194,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4416431798",
@@ -4106,7 +4249,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4416233231",
@@ -4162,7 +4305,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4416176458",
@@ -4206,7 +4349,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4415700305",
@@ -4250,7 +4393,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4415659132",
@@ -4305,7 +4448,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4415598714",
@@ -4348,7 +4491,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4415157192",
@@ -4391,7 +4534,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4415092550",
@@ -4470,7 +4613,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     },
     {
       "id": "W4414401570",
@@ -4521,15 +4664,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-16"
+      "added_date": "2026-09-18"
     }
   ],
   "meta": {
-    "last_updated": "2026-09-17T15:21:13Z",
-    "paper_count": 112,
+    "last_updated": "2026-09-18T14:41:45Z",
+    "paper_count": 115,
     "date_range": {
       "from": "2025-09-22",
-      "to": "2026-09-17"
+      "to": "2026-09-18"
     }
   }
 }
