@@ -1,6 +1,92 @@
 {
   "papers": [
     {
+      "id": "nber_w35771",
+      "title": "Integration Without Decentralization: The Financial Geography of U.S. Life Insurance, 1880–1940",
+      "authors": [
+        {
+          "name": "Pawel Janas",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "This paper studies the transformation of American life insurance, the largest contractual savings institution in the United States before Social Security. As the market for insurance became national, did control over the savings it collected disperse with it? Using a newly digitized annual firm-by-state panel of premiums and losses covering nearly every U.S. life insurer from 1888 to 1940, I distinguish the geography of collection from the geography of control: where premiums were paid, and where the firms receiving them were domiciled. The industry was remade over these six decades. Real premium income rose more than twentyfold, the number of active insurers grew sixfold, incorporation shifted decisively from the Northeast toward the Midwest and South, and within-state concentration fell by nearly half. Control was rearranged, not dispersed. Chartering domestic insurers raised local retention almost entirely at the extensive margin. Across regions, this closed a large gap, as the Northeast retained nearly eleven times as much of its premium as the South in the 1890s and only twice as much by the 1930s, with nine-tenths of the convergence coming from Southern states acquiring domestic sectors where they had none. The national total held: firms domiciled where premium was raised collected just under a quarter of it in the 1890s and just over a fifth in the 1930s, even as household participation converged steadily across states. Legal permission to operate nationally sufficed to integrate the market in which insurance was sold, but not to disperse control over the investable cash it collected.",
+      "publication_date": "2026-09-21",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35771#fromrss",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-09-21"
+    },
+    {
+      "id": "nber_w35772",
+      "title": "Cooler Laws, Safer Workers: Evaluating California’s Heat Standard and Injury Reduction",
+      "authors": [
+        {
+          "name": "Olesya Fomenko",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Melissa McInerney",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sebastian Negrusa",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "A growing body of research shows that excessive heat increases the frequency of heat-related injuries at work. While interest in mitigating occupational risks from excessive heat is high, there is little evidence on whether legislation targeting heat exposure can reduce such injuries. Using a triple-differences approach and administrative data from workers’ compensation systems, we evaluate California’s heat standard – adopted in 2005 - and find that the standard substantially reduces the frequency of work injuries in the construction, agriculture, and transportation industries. The effects increase with outside temperatures and are larger among younger workers. Our findings have clear implications for workplace safety and contribute to ongoing policy debates.",
+      "publication_date": "2026-09-21",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35772#fromrss",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-09-21"
+    },
+    {
+      "id": "nber_w35784",
+      "title": "The Protective Effects of a Healthy Spouse: Medicare as the Family Member of Last Resort",
+      "authors": [
+        {
+          "name": "Itzik Fadlon",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Tal Gross",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Alex Hoagland",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Timothy Layton",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We study the value of informal care from a spouse and how access to such care shapes optimal insurance coverage for long-term care. Using Medicare claims and a novel spousal crosswalk, we examine how the sudden incapacitation of a spouse affects their partner's use of formal care. A spouse's health shock increases their partner's probability of a nursing-home stay by 30%. We document significant negative health effects for the partner, but provide evidence that their increase in nursing-home stays is largely driven by substitution from informal care to formal care. When their partners are incapacitated, Medicare recipients become less sensitive to the price of formal care, consistent with a higher valuation of that care and reduced moral hazard. We develop a framework to interpret these findings. The framework translates differences in the level and price elasticity of demand for formal care into a lower-bound estimate of the value of informal care provided by a spouse. It also suggests that optimal insurance for long-term care should be designed at the household level with more generous coverage for those who do not have access to informal care.",
+      "publication_date": "2026-09-21",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35784#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-09-21"
+    },
+    {
       "id": "nber_w35725",
       "title": "How Disability Benefits in Early Life Affect Adult Outcomes",
       "authors": [
@@ -112,7 +198,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7213456135",
@@ -160,7 +246,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35693",
@@ -254,7 +340,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35664",
@@ -370,7 +456,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35600",
@@ -539,7 +625,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35574",
@@ -732,7 +818,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7171724687",
@@ -784,7 +870,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35441",
@@ -1041,7 +1127,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35373",
@@ -1355,7 +1441,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7168249942",
@@ -1398,7 +1484,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7168162437",
@@ -1454,7 +1540,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35396",
@@ -1649,7 +1735,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7165660871",
@@ -1696,7 +1782,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35323",
@@ -1871,7 +1957,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35280",
@@ -1986,7 +2072,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4407850825",
@@ -2037,7 +2123,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35220",
@@ -2126,7 +2212,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7162023839",
@@ -2177,7 +2263,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35173",
@@ -2293,7 +2379,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35146",
@@ -2549,7 +2635,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7160076895",
@@ -2597,7 +2683,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7160173250",
@@ -2640,7 +2726,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7160037262",
@@ -2687,7 +2773,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7160040194",
@@ -2746,7 +2832,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w35082",
@@ -2978,7 +3064,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7140275549",
@@ -3021,7 +3107,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "nber_w34966",
@@ -3164,7 +3250,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7131390878",
@@ -3212,7 +3298,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7130643125",
@@ -3263,7 +3349,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7165682263",
@@ -3302,7 +3388,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7127647932",
@@ -3357,7 +3443,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7127639882",
@@ -3410,7 +3496,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7127622621",
@@ -3453,7 +3539,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7127592864",
@@ -3504,7 +3590,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7126193704",
@@ -3559,7 +3645,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7126120302",
@@ -3610,7 +3696,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7125009254",
@@ -3665,7 +3751,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W1504388888",
@@ -3712,7 +3798,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7118192714",
@@ -3756,7 +3842,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7139110589",
@@ -3803,7 +3889,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W3207058961",
@@ -3858,7 +3944,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7118022352",
@@ -4038,7 +4124,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W7116980467",
@@ -4086,7 +4172,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4416952202",
@@ -4133,7 +4219,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4414414795",
@@ -4194,7 +4280,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4416431798",
@@ -4249,7 +4335,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4416233231",
@@ -4305,7 +4391,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4416176458",
@@ -4349,7 +4435,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4415700305",
@@ -4393,7 +4479,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4415659132",
@@ -4448,7 +4534,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4415598714",
@@ -4491,7 +4577,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4415157192",
@@ -4534,7 +4620,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4415092550",
@@ -4613,7 +4699,7 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     },
     {
       "id": "W4414401570",
@@ -4664,15 +4750,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-20"
+      "added_date": "2026-09-21"
     }
   ],
   "meta": {
-    "last_updated": "2026-09-20T14:22:56Z",
-    "paper_count": 115,
+    "last_updated": "2026-09-21T16:41:43Z",
+    "paper_count": 118,
     "date_range": {
       "from": "2025-09-22",
-      "to": "2026-09-20"
+      "to": "2026-09-21"
     }
   }
 }
