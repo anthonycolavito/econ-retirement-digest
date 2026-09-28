@@ -1,6 +1,58 @@
 {
   "papers": [
     {
+      "id": "nber_w35791",
+      "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK",
+      "authors": [
+        {
+          "name": "Ian Burn",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Melissa D. Gentry",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Joanna Lahey",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.",
+      "publication_date": "2026-09-28",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35791#fromrss",
+      "topics": [
+        "retirement_decisions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-09-28"
+    },
+    {
+      "id": "nber_w35823",
+      "title": "Optimal Population Growth in the Diamond OLG Model",
+      "authors": [
+        {
+          "name": "Laurence M. Ball",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "This paper studies the effects of population growth on welfare in an OLG model, in which lower population growth raises output per worker but also reduces the ratio of workers to retirees. Under fairly mild restrictions on the model’s parameters, there exists an optimal population-growth rate—one that maximizes steady-state welfare. This growth rate may well be negative: it may be optimal for the population to shrink over time. The introduction of a pay-as-you-go social security system reduces the optimal population-growth rate.",
+      "publication_date": "2026-09-28",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35823#fromrss",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-09-28"
+    },
+    {
       "id": "nber_w35771",
       "title": "Integration Without Decentralization: The Financial Geography of U.S. Life Insurance, 1880–1940",
       "authors": [
@@ -198,7 +250,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7213456135",
@@ -246,7 +298,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35693",
@@ -340,7 +392,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35664",
@@ -456,7 +508,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35600",
@@ -625,7 +677,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35574",
@@ -818,7 +870,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7171724687",
@@ -870,7 +922,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35441",
@@ -1079,7 +1131,7 @@
           "affiliation": "International Food Policy Research Institute"
         },
         {
-          "name": "Daniel O. Gilligan",
+          "name": "Daniel Gilligan",
           "affiliation": "International Food Policy Research Institute"
         },
         {
@@ -1092,7 +1144,7 @@
         },
         {
           "name": "Victor Villa",
-          "affiliation": "International Center for Tropical Agriculture"
+          "affiliation": "Alliance Bioversity International - CIAT"
         }
       ],
       "abstract": "We assess whether layering an ultra-poor graduation program on Ethiopia’s Productive Safety Net Programme (PSNP) protects women and their households from localized weather shocks. Using panel data from a large cluster-randomized trial matched with detailed weather records, we identify community-level exposure to dryness shocks. Women who are exposed to dryness shocks experience deteriorating nutritional status (in conjunction with declining household food security and assets) and a significant increase in the risk of intimate partner violence. However, access to the graduation program fully buffers women from any increase in intimate partner violence, and partially buffers women and their households against other adverse effects. Further analysis suggests that improved household savings likely drives the program’s protective impact.",
@@ -1127,7 +1179,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35373",
@@ -1441,7 +1493,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7168249942",
@@ -1484,7 +1536,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7168162437",
@@ -1540,7 +1592,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35396",
@@ -1735,7 +1787,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7165660871",
@@ -1782,7 +1834,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35323",
@@ -1957,7 +2009,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35280",
@@ -2033,7 +2085,7 @@
       "authors": [
         {
           "name": "Alison de Farias",
-          "affiliation": "LAC+USC Medical Center"
+          "affiliation": "University of Southern California"
         },
         {
           "name": "Roberto Hsu Rocha",
@@ -2072,7 +2124,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4407850825",
@@ -2123,7 +2175,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35220",
@@ -2177,7 +2229,7 @@
         },
         {
           "name": "Ágota Scharle",
-          "affiliation": "Institute for Political Sciences"
+          "affiliation": "Budapest Institute"
         }
       ],
       "abstract": "",
@@ -2212,7 +2264,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7162023839",
@@ -2263,7 +2315,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35173",
@@ -2340,11 +2392,11 @@
         },
         {
           "name": "Johannes Geyer",
-          "affiliation": "German Institute for Economic Research"
+          "affiliation": ""
         },
         {
-          "name": "Nicolas Ziebarth",
-          "affiliation": "University of Mannheim"
+          "name": "Nicolas R. Ziebarth",
+          "affiliation": "Centre for European Economic Research"
         }
       ],
       "abstract": "Abstract In 2001, Germany abolished public occupational disability insurance (ODI)—the second tier of its public DI system—for cohorts born after 1960. Using administrative data, we first document that, in the long run, overall DI inflows declined by roughly one-third. Second, using representative survey data, we document at best modest ODI insurance take-up responses in the private individual, risk-rated market, which lacks guaranteed issue. Third, an equilibrium model incorporating interactions between the public safety net, the first-tier public DI, and the private market reveals that coverage denials and weak insurance demand, driven by complementary social insurance, can explain the modest private ODI take-up response. Coverage gradients by income and health are thus substantial. Finally, counterfactual simulations highlight the limited scope of incremental reforms.",
@@ -2379,7 +2431,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35146",
@@ -2599,7 +2651,7 @@
         },
         {
           "name": "J. Michael McWilliams",
-          "affiliation": "Warren Alpert Foundation"
+          "affiliation": "Harvard University"
         }
       ],
       "abstract": "We assess the evolving role of competition in Medicare Advantage and its implications for beneficiary welfare. We describe how competition from the public option, traditional Medicare, and other private insurers within Medicare Advantage act as substitutes in incentivizing plans to deliver value. We show that while historically the choice between traditional Medicare and Medicare Advantage provided a vital competitive dynamic, traditional Medicare's strength as a competitor has declined significantly, driven by generous payments favoring private plans. Consequently, the burden of ensuring value for enrollees has shifted to competition within the Medicare Advantage market. While county-level competition among private insurers has increased, this growth is primarily driven by the expansion of large national carriers rather than new entrants. Insurers still wield substantial market power due to significant barriers to entry, raising concerns about the ability of the program to incentivize private insurers to use public dollars to maximize value for beneficiaries.",
@@ -2635,7 +2687,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7160076895",
@@ -2647,7 +2699,7 @@
         },
         {
           "name": "Amanda Starc",
-          "affiliation": "National Bureau of Economic Research"
+          "affiliation": "Northwestern University"
         }
       ],
       "abstract": "The United States relies primarily on private health insurance markets, yet these markets are highly concentrated and becoming more so over time. We document concentration across commercial, Medicare Advantage, and Medicaid markets. We then examine how asymmetric information—particularly adverse selection—interacts with market power to shape premiums, plan design, and consumer welfare. Empirical evidence confirms that insurer consolidation raises premiums. We discuss how antitrust enforcement, risk adjustment, regulation, and informational interventions shape competition and consumer welfare in these markets.",
@@ -2683,7 +2735,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7160173250",
@@ -2726,7 +2778,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7160037262",
@@ -2737,7 +2789,7 @@
           "affiliation": "Jain University"
         },
         {
-          "name": "Biju Ajithakumari Vijayappan Nair",
+          "name": "Ajithakumari Vijayappan Nair Biju",
           "affiliation": "University of Kerala"
         }
       ],
@@ -2773,7 +2825,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7160040194",
@@ -2781,11 +2833,11 @@
       "authors": [
         {
           "name": "David Cutler",
-          "affiliation": "Dana-Farber/Harvard Cancer Center"
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Leemore S. Dafny",
-          "affiliation": "Dana-Farber/Harvard Cancer Center"
+          "affiliation": "Harvard University"
         },
         {
           "name": "David C. Grabowski",
@@ -2797,7 +2849,7 @@
         },
         {
           "name": "Christopher Ody",
-          "affiliation": "Kellogg's (Canada)"
+          "affiliation": ""
         }
       ],
       "abstract": "We examine whether vertical integration of hospitals and skilled nursing facilities (SNFs) could lessen competition by foreclosing rival SNFs’ access to lucrative referrals. We find that it could: Among integrated providers, a 1 percent increase in SNF reimbursement for a given patient discharged from the upstream hospital increases the self-referral rate to the hospital’s downstream SNF(s) by 1.8 percent. We find no evidence of offsetting benefits for patients and payers: These increased self-referrals have an imprecisely estimated zero effect on patient outcomes and Medicare spending. (JEL G34, I11, I13, J14, L14, L22)",
@@ -2832,7 +2884,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w35082",
@@ -3064,7 +3116,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7140275549",
@@ -3072,7 +3124,7 @@
       "authors": [
         {
           "name": "Julia Holzapfel",
-          "affiliation": "LMU Klinikum"
+          "affiliation": "Ludwig-Maximilians-Universität München"
         }
       ],
       "abstract": "This paper examines how interactions between genetic and behavioral risk factors influence the welfare effects of risk classification in health insurance. I show that using behavioral information in insurance pricing Pareto-improves welfare. It directly reduces moral hazard and indirectly mitigates adverse selection by lowering premiums. Under certain conditions, behavioral classification combined with a ban on genetic classification even implements the utilitarian optimum. A ban on genetic classification, however, may also induce inefficient prevention behaviors because insurers cannot tailor incentives to genetic dispositions. As a consequence, the ability of a regulated private market to achieve the utilitarian optimum hinges on how genetic factors influence the productivity of prevention. If interactions between genetic and behavioral factors lead to misaligned prevention incentives, social insurance that incorporates behavioral classification can resolve the remaining market inefficiencies and maximize utilitarian welfare. • Interactions between genetics and health behavior matter for insurance regulation. • Risk classification based on behavioral information improves welfare. • A ban on the use of genetic information may induce inefficient prevention behaviors. • A key criterion is how genetic dispositions affect the productivity of prevention. • The paper considers both a regulated private market and social insurance.",
@@ -3107,7 +3159,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "nber_w34966",
@@ -3250,7 +3302,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7131390878",
@@ -3262,7 +3314,7 @@
         },
         {
           "name": "Amy N. Finkelstein",
-          "affiliation": "IIT@MIT"
+          "affiliation": "National Bureau of Economic Research"
         }
       ],
       "abstract": "",
@@ -3298,7 +3350,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7130643125",
@@ -3314,7 +3366,7 @@
         },
         {
           "name": "Amanda Starc",
-          "affiliation": "Kellogg's (Canada)"
+          "affiliation": "Northwestern University"
         }
       ],
       "abstract": "We examine lagged-price cost-plus reimbursement contracts, focusing on Medicare Part B’s payment for physician-administered drugs. While previous research has shown that Part B increased launch prices, we estimate its effect on later prices and find that lagged-price reimbursement lowers prices in later periods. Drugs more exposed to Medicare reimbursement have lower price growth (net of rebates): a drug with above median Part B exposure has a 10% lower price after 3 years than a below median exposure drug that launched at the same price. The effect is larger for newly approved molecules, which face less competition.",
@@ -3349,7 +3401,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7165682263",
@@ -3357,11 +3409,11 @@
       "authors": [
         {
           "name": "David Cutler",
-          "affiliation": "Harvard University"
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Adriana Lleras‐Muney",
-          "affiliation": ""
+          "affiliation": "National Bureau of Economic Research"
         }
       ],
       "abstract": "In most of the world, life expectancy rose dramatically between 1750 and 2000, from roughly 30 to more than 70 years. Rising caloric intake and incomes contributed to the earliest gains, while later improvements stemmed from public health developments, including updated modern sanitation systems,",
@@ -3388,7 +3440,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7127647932",
@@ -3396,11 +3448,11 @@
       "authors": [
         {
           "name": "Benjamin Olken",
-          "affiliation": "Moscow Institute of Thermal Technology"
+          "affiliation": "Massachusetts Institute of Technology"
         },
         {
           "name": "Rema Hanna",
-          "affiliation": ""
+          "affiliation": "Harvard University"
         },
         {
           "name": "Phitawat Poonpolkul",
@@ -3443,7 +3495,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7127639882",
@@ -3451,15 +3503,15 @@
       "authors": [
         {
           "name": "Colleen Marie Carey",
-          "affiliation": "Cornell University"
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Nolan Miller",
-          "affiliation": "University of Illinois System"
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "David Molitor",
-          "affiliation": "University of Illinois System"
+          "affiliation": "National Bureau of Economic Research"
         }
       ],
       "abstract": "Abstract Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
@@ -3496,7 +3548,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7127622621",
@@ -3539,7 +3591,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7127592864",
@@ -3590,7 +3642,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7126193704",
@@ -3606,7 +3658,7 @@
         },
         {
           "name": "Christopher Whaley",
-          "affiliation": "Department of Health Services"
+          "affiliation": "Brown University"
         },
         {
           "name": "Xiaoxi Zhao",
@@ -3645,7 +3697,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7126120302",
@@ -3657,11 +3709,11 @@
         },
         {
           "name": "Olivier Marie",
-          "affiliation": "Ifo Institute for Economic Research"
+          "affiliation": "IZA - Institute of Labor Economics"
         },
         {
           "name": "Agnieszka Markiewicz",
-          "affiliation": "Ifo Institute for Economic Research"
+          "affiliation": "Tinbergen Institute"
         }
       ],
       "abstract": "Segmented labor markets, where stable jobs coexist with insecure, high-turnover positions, make job security key to workers’ long-term outcomes. Using Dutch administrative data, we study the impact of displacement on job security and the role of cash-on-hand. One year after displacement, permanent employment falls by about one-fifth and remains lower five years later, amplifying wage losses: displaced workers who lose job security experience losses 21 % larger than those retaining a permanent contract. Exploiting a policy granting lump-sum transfers only to some displaced workers, we find that eligibility attenuates job security losses and, as a result, wage losses. Effects are larger among liquidity-constrained workers, consistent with binding liquidity constraints. Our findings highlight job security as a key channel through which cash-on-hand reduces the long-run costs of job loss, with implications for the design of unemployment insurance.",
@@ -3696,7 +3748,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7125009254",
@@ -3704,11 +3756,11 @@
       "authors": [
         {
           "name": "Ana Costa-Ramón",
-          "affiliation": "Economic Policy Institute"
+          "affiliation": "University of Zurich"
         },
         {
           "name": "Michaela Slotwinski",
-          "affiliation": ""
+          "affiliation": "University of Basel"
         },
         {
           "name": "Ursina Schaede",
@@ -3751,7 +3803,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W1504388888",
@@ -3763,7 +3815,7 @@
         },
         {
           "name": "Giovanni Gallipoli",
-          "affiliation": "University of British Columbia Hospital"
+          "affiliation": "University of British Columbia"
         }
       ],
       "abstract": "",
@@ -3798,7 +3850,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7118192714",
@@ -3842,7 +3894,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7139110589",
@@ -3889,7 +3941,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7171685980",
@@ -3937,7 +3989,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W3207058961",
@@ -3992,7 +4044,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7118022352",
@@ -4133,7 +4185,7 @@
         },
         {
           "name": "Abby Alpert",
-          "affiliation": "University of Pennsylvania"
+          "affiliation": "National Bureau of Economic Research"
         },
         {
           "name": "Neeraj Sood",
@@ -4172,7 +4224,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W7116980467",
@@ -4220,7 +4272,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4416952202",
@@ -4228,11 +4280,11 @@
       "authors": [
         {
           "name": "Jean Hindriks",
-          "affiliation": ""
+          "affiliation": "UCLouvain"
         },
         {
           "name": "Sefane Çetin",
-          "affiliation": ""
+          "affiliation": "UCLouvain"
         }
       ],
       "abstract": "Abstract Many countries have implemented a variety of pension reforms in response to the challenges posed by an aging population. These reforms typically involve a trade-off between ‘refinancing’ (i.e., increasing contributions) and ‘retrenchment’ (i.e., reducing benefits). The primary question addressed in this study is whether policymakers in the European Union (EU) possess the necessary capacity to sustain legislated pension reforms, particularly given the growing political influence of the elderly. To examine this issue, we develop a bargaining model designed to optimally allocate the economic burden of aging between successive cohorts of workers and retirees, incorporating retirement incentives. In a scenario where bargaining power remains constant, the optimal allocation rule dictates a fixed-contribution system, effectively shifting the full burden of aging onto the elderly. However, when bargaining power is allowed to fluctuate in response to changes in the relative size of the retiree population (i.e., the dependency rate), the optimal allocation rule involves a compromise between increasing contributions and reducing benefits. In the empirical analysis, we compare these theoretical optimal allocation rules with projections of pension benefit rates and dependency ratios from the 2021 Economic Policy Committee. By calculating the implicit bargaining power required to align projected pension benefits with the optimal sharing rule for each year, we demonstrate a growing divergence between projected pension benefits and the optimal levels in many EU countries, as demographic shifts progress. Furthermore, our findings indicate that for most countries, projected pension benefits are increasingly falling below optimal levels when bargaining power adjusts in accordance with population aging.",
@@ -4267,7 +4319,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4414414795",
@@ -4279,7 +4331,7 @@
         },
         {
           "name": "Manuel Flores Mallo",
-          "affiliation": "Institut d'Anàlisi Econòmica"
+          "affiliation": "Consejo Superior de Investigaciones Científicas"
         },
         {
           "name": "Pilar García‐Gómez",
@@ -4328,7 +4380,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4416431798",
@@ -4340,7 +4392,7 @@
         },
         {
           "name": "David Powell",
-          "affiliation": "California University of Pennsylvania"
+          "affiliation": "University of Pennsylvania"
         },
         {
           "name": "Rahi Abouk",
@@ -4383,7 +4435,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4416233231",
@@ -4391,7 +4443,7 @@
       "authors": [
         {
           "name": "Lukas Kleinheinz",
-          "affiliation": "Eurac Research"
+          "affiliation": "Universität Innsbruck"
         },
         {
           "name": "Gottfried Tappeiner",
@@ -4399,7 +4451,7 @@
         },
         {
           "name": "Urban Perkmann",
-          "affiliation": "Eurac Research"
+          "affiliation": ""
         },
         {
           "name": "Janette F. Walde",
@@ -4439,7 +4491,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4416176458",
@@ -4483,7 +4535,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4415700305",
@@ -4491,7 +4543,7 @@
       "authors": [
         {
           "name": "Taha Choukhmane",
-          "affiliation": ""
+          "affiliation": "Massachusetts Institute of Technology"
         }
       ],
       "abstract": "Using data from over 100 US retirement plans and a representative UK panel, I document the impact of auto-enrollment (AE) on retirement savings at different horizons. I replicate the impact of AE on participation and contributions in the short run (at 12 months), but I show that these gains are attenuated over the medium run (at 36 months). At this longer horizon, the average savings increases are modest, though AE significantly lowers inequality in savings. To assess AE’s lifetime impact, I estimate a life cycle consumption-savings model that can fit the observed patterns with a switching cost of approximately $250, smaller than previous estimates. (JEL D15, G51, J26, J32)",
@@ -4527,7 +4579,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4415659132",
@@ -4535,7 +4587,7 @@
       "authors": [
         {
           "name": "Laura Castell",
-          "affiliation": "National Institute of Statistics and Economic Studies"
+          "affiliation": "Institut National de la Statistique et des Etudes Economiques"
         },
         {
           "name": "Marc Gurgand",
@@ -4547,7 +4599,7 @@
         },
         {
           "name": "Todor Tochev",
-          "affiliation": "Institut des Sciences Biologiques"
+          "affiliation": ""
         }
       ],
       "abstract": "We report on two nationwide experiments with job seekers in France. We first show that a meeting with social services to assess eligibility and help with applications to social benefits increased new benefit take-up by 29 percent. By contrast, an online simulator that gave personalized information on benefit eligibility did not increase take-up. Marginal treatment effects show that individuals who benefit the most from the meetings are the least likely to attend. Overall, without ruling out information frictions, our results suggest that transaction costs represent the main obstacle to applying for benefits or accessing government’s assistance in applying. (JEL D83, I38, J22, J65, R38)",
@@ -4582,7 +4634,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4415598714",
@@ -4625,7 +4677,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4415157192",
@@ -4668,7 +4720,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     },
     {
       "id": "W4415092550",
@@ -4747,15 +4799,15 @@
         }
       ],
       "matched_by": "concept",
-      "added_date": "2026-09-27"
+      "added_date": "2026-09-28"
     }
   ],
   "meta": {
-    "last_updated": "2026-09-27T15:27:14Z",
-    "paper_count": 118,
+    "last_updated": "2026-09-28T18:18:07Z",
+    "paper_count": 120,
     "date_range": {
       "from": "2025-10-01",
-      "to": "2026-09-27"
+      "to": "2026-09-28"
     }
   }
 }
