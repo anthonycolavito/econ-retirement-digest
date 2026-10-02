@@ -18,7 +18,7 @@
         }
       ],
       "abstract": "Remote work is often touted as a way for disabled and older workers to remain in the labour market. Post-Covid, the incidence of remote work has increased in the UK. Following Bloom et al. (2026), we test the effects of remote work on employment for these two groups using the pandemic’s increase in work from home rates as a quasi-experiment. We compare occupations with high growth in work from home (WFH) to those with lower growth in work from home, with growth rates measured among the non-disabled or younger. We then instrument using pre-pandemic remote work scores from Dingle and Neiman (2020). We find significant evidence that rising WFH increases employment of disabled and older workers in the UK. We additionally find decreases in commute time and wages for both groups, but no effect on hours worked.",
-      "publication_date": "2026-10-01",
+      "publication_date": "2026-10-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -28,7 +28,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35823",
@@ -40,7 +40,7 @@
         }
       ],
       "abstract": "This paper studies the effects of population growth on welfare in an OLG model, in which lower population growth raises output per worker but also reduces the ratio of workers to retirees. Under fairly mild restrictions on the model’s parameters, there exists an optimal population-growth rate—one that maximizes steady-state welfare. This growth rate may well be negative: it may be optimal for the population to shrink over time. The introduction of a pay-as-you-go social security system reduces the optimal population-growth rate.",
-      "publication_date": "2026-10-01",
+      "publication_date": "2026-10-02",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -50,7 +50,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7214673424",
@@ -98,7 +98,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7112995595",
@@ -147,7 +147,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7214584790",
@@ -198,7 +198,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35771",
@@ -398,7 +398,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7213456135",
@@ -446,7 +446,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35693",
@@ -540,7 +540,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35664",
@@ -656,7 +656,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35600",
@@ -825,7 +825,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35574",
@@ -1018,7 +1018,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7171724687",
@@ -1070,7 +1070,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35441",
@@ -1327,42 +1327,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
-    },
-    {
-      "id": "nber_w35373",
-      "title": "How Do State “Auto-IRA” Policies Affect Household Balance Sheets?",
-      "authors": [
-        {
-          "name": "Adam Bloomfield",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Ngoc Dao",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Kyung Min Lee",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Sita Slavov",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "We examine how state policies requiring firms to facilitate workplace retirement saving affect household balance sheets. Using data from the Survey of Income and Program Participation (SIPP), we compare private-sector workers likely exposed to Oregon’s Automatic-Enrollment Individual Retirement Account (Auto-IRA) policy with similar workers in not-yet-adopting states. We find that the Auto-IRA policy is associated with increases in IRA and employer-sponsored retirement plan ownership and assets. We also find increases in checking or savings account ownership and balances, as well as higher credit card debt. The results suggest that Auto-IRA policies spill over to household liquidity management and borrowing.",
-      "publication_date": "2026-07-19",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w35373#fromrss",
-      "topics": [
-        "consumption_savings",
-        "private_pensions"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-07-19"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35430",
@@ -1397,6 +1362,41 @@
       "url": "https://www.nber.org/papers/w35430#fromrss",
       "topics": [
         "consumption_savings"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-07-19"
+    },
+    {
+      "id": "nber_w35373",
+      "title": "How Do State “Auto-IRA” Policies Affect Household Balance Sheets?",
+      "authors": [
+        {
+          "name": "Adam Bloomfield",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Ngoc Dao",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Kyung Min Lee",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Sita Slavov",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We examine how state policies requiring firms to facilitate workplace retirement saving affect household balance sheets. Using data from the Survey of Income and Program Participation (SIPP), we compare private-sector workers likely exposed to Oregon’s Automatic-Enrollment Individual Retirement Account (Auto-IRA) policy with similar workers in not-yet-adopting states. We find that the Auto-IRA policy is associated with increases in IRA and employer-sponsored retirement plan ownership and assets. We also find increases in checking or savings account ownership and balances, as well as higher credit card debt. The results suggest that Auto-IRA policies spill over to household liquidity management and borrowing.",
+      "publication_date": "2026-07-19",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35373#fromrss",
+      "topics": [
+        "consumption_savings",
+        "private_pensions"
       ],
       "concepts": [],
       "matched_by": "nber_rss",
@@ -1641,7 +1641,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7168249942",
@@ -1684,7 +1684,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7168162437",
@@ -1740,7 +1740,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35396",
@@ -1935,7 +1935,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7165660871",
@@ -1982,7 +1982,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35323",
@@ -2157,7 +2157,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35280",
@@ -2272,7 +2272,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4407850825",
@@ -2323,7 +2323,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35220",
@@ -2412,7 +2412,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7162023839",
@@ -2463,7 +2463,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35173",
@@ -2579,7 +2579,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35146",
@@ -2835,7 +2835,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7160076895",
@@ -2883,7 +2883,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7160173250",
@@ -2926,7 +2926,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7160037262",
@@ -2973,7 +2973,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7160040194",
@@ -3032,7 +3032,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w35082",
@@ -3264,7 +3264,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7140275549",
@@ -3307,7 +3307,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "nber_w34966",
@@ -3450,7 +3450,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7131390878",
@@ -3498,7 +3498,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7130643125",
@@ -3549,7 +3549,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7165682263",
@@ -3588,7 +3588,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7127647932",
@@ -3643,7 +3643,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7127639882",
@@ -3696,7 +3696,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7127622621",
@@ -3739,7 +3739,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7127592864",
@@ -3790,7 +3790,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7126193704",
@@ -3845,7 +3845,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7126120302",
@@ -3896,7 +3896,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7125009254",
@@ -3951,7 +3951,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W1504388888",
@@ -3998,7 +3998,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7118192714",
@@ -4042,7 +4042,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7139110589",
@@ -4089,7 +4089,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7171685980",
@@ -4137,7 +4137,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W3207058961",
@@ -4192,7 +4192,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7118022352",
@@ -4372,7 +4372,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W7116980467",
@@ -4420,7 +4420,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4416952202",
@@ -4467,7 +4467,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4414414795",
@@ -4528,7 +4528,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4416431798",
@@ -4583,7 +4583,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4416233231",
@@ -4639,7 +4639,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4416176458",
@@ -4683,7 +4683,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4415700305",
@@ -4727,7 +4727,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4415659132",
@@ -4782,7 +4782,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4415598714",
@@ -4825,7 +4825,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     },
     {
       "id": "W4415157192",
@@ -4868,94 +4868,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-01"
-    },
-    {
-      "id": "W4415092550",
-      "title": "Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: a demographic analysis for the Global Burden of Disease Study 2023",
-      "authors": [
-        {
-          "name": "Austin E Schumacher",
-          "affiliation": ""
-        },
-        {
-          "name": "Peng Zheng",
-          "affiliation": ""
-        },
-        {
-          "name": "Ryan M Barber",
-          "affiliation": ""
-        },
-        {
-          "name": "A Bhoomadevi",
-          "affiliation": ""
-        },
-        {
-          "name": "Mohammad Amin Aalipour",
-          "affiliation": ""
-        },
-        {
-          "name": "Hasan Aalruz",
-          "affiliation": ""
-        },
-        {
-          "name": "Hazim Ababneh",
-          "affiliation": ""
-        },
-        {
-          "name": "Ukachukwu Okoroafor Abaraogu",
-          "affiliation": ""
-        },
-        {
-          "name": "Cristiana Abbafati",
-          "affiliation": ""
-        },
-        {
-          "name": "Nasir Abbas",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "BACKGROUND: Comprehensive, comparable, and timely estimates of demographic metrics-including life expectancy and age-specific mortality-are essential for evaluating, understanding, and addressing trends in population health. The COVID-19 pandemic highlighted the importance of timely and all-cause mortality estimates for being able to respond to changing trends in health outcomes, showing a strong need for demographic analysis tools that can produce all-cause mortality estimates more rapidly with more readily available all-age vital registration (VR) data. The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) is an ongoing research effort that quantifies human health by estimating a range of epidemiological quantities of interest across time, age, sex, location, cause, and risk. This study-part of the latest GBD release, GBD 2023-aims to provide new and updated estimates of all-cause mortality and life expectancy for 1950 to 2023 using a novel statistical model that accounts for complex correlation structures in demographic data across age and time. METHODS: We used 24 025 data sources from VR, sample registration, surveys, censuses, and other sources to estimate all-cause mortality for males, females, and all sexes combined across 25 age groups in 204 countries and territories as well as 660 subnational units in 20 countries and territories, for the years 1950-2023. For the first time, we used complete birth history data for ages 5-14 years, age-specific sibling history data for ages 15-49 years, and age-specific mortality data from Health and Demographic Surveillance Systems. We developed a single statistical model that incorporates both parametric and non-parametric methods, referred to as OneMod, to produce estimates of all-cause mortality for each age-sex-location group. OneMod includes two main steps: a detailed regression analysis with a generalised linear modelling tool that accounts for age-specific covariate effects such as the Socio-demographic Index (SDI) and a population attributable fraction (PAF) for all risk factors combined; and a non-parametric analysis of residuals using a multivariate kernel regression model that smooths across age and time to adaptably follow trends in the data without overfitting. We calibrated asymptotic uncertainty estimates using Pearson residuals to produce 95% uncertainty intervals (UIs) and corresponding 1000 draws. Life expectancy was calculated from age-specific mortality rates with standard demographic methods. For each measure, 95% UIs were calculated with the 25th and 975th ordered values from a 1000-draw posterior distribution. FINDINGS: In 2023, 60·1 million (95% UI 59·0-61·1) deaths occurred globally, of which 4·67 million (4·59-4·75) were in children younger than 5 years. Due to considerable population growth and ageing since 1950, the number of annual deaths globally increased by 35·2% (32·2-38·4) over the 1950-2023 study period, during which the global age-standardised all-cause mortality rate declined by 66·6% (65·8-67·3). Trends in age-specific mortality rates between 2011 and 2023 varied by age group and location, with the largest decline in under-5 mortality occurring in east Asia (67·7% decrease); the largest increases in mortality for those aged 5-14 years, 25-29 years, and 30-39 years occurring in high-income North America (11·5%, 31·7%, and 49·9%, respectively); and the largest increases in mortality for those aged 15-19 years and 20-24 years occurring in Eastern Europe (53·9% and 40·1%, respectively). We also identified higher than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 5-14 years (87·3% higher in GBD 2023 than GBD 2021 on average across countries and territories over the 1950-2021 period) and for females aged 15-29 years (61·2% higher), as well as lower than previously estimated mortality rates in sub-Saharan Africa for all sexes combined aged 50 years and older (13·2% lower), reflecting advances in our modelling approach. Global life expectancy followed three distinct trends over the study period. First, between 1950 and 2019, there were considerable improvements, from 51·2 (50·6-51·7) years for females and 47·9 (47·4-48·4) years for males in 1950 to 76·3 (76·2-76·4) years for females and 71·4 (71·3-71·5) years for males in 2019. Second, this period was followed by a decrease in life expectancy during the COVID-19 pandemic, to 74·7 (74·6-74·8) years for females and 69·3 (69·2-69·4) years for males in 2021. Finally, the world experienced a period of post-pandemic recovery in 2022 and 2023, wherein life expectancy generally returned to pre-pandemic (2019) levels in 2023 (76·3 [76·0-76·6] years for females and 71·5 [71·2-71·8] years for males). 194 (95·1%) of 204 countries and territories experienced at least partial post-pandemic recovery in age-standardised mortality rates by 2023, with 61·8% (126 of 204) recovering to or falling below pre-pandemic levels. There were several mortality trajectories during and following the pandemic across countries and territories. Long-term mortality trends also varied considerably between age groups and locations, demonstrating the diverse landscape of health outcomes globally. INTERPRETATION: This analysis identified several key differences in mortality trends from previous estimates, including higher rates of adolescent mortality, higher rates of young adult mortality in females, and lower rates of mortality in older age groups in much of sub-Saharan Africa. The findings also highlight stark differences across countries and territories in the timing and scale of changes in all-cause mortality trends during and following the COVID-19 pandemic (2020-23). Our estimates of evolving trends in mortality and life expectancy across locations, ages, sexes, and SDI levels in recent years as well as over the entire 1950-2023 study period provide crucial information for governments, policy makers, and the public to ensure that health-care systems, economies, and societies are prepared to address the world's health needs, particularly in populations with higher rates of mortality than previously known. The estimates from this study provide a robust framework for GBD and a valuable foundation for policy development, implementation, and evaluation around the world. FUNDING: Gates Foundation.",
-      "publication_date": "2025-10-01",
-      "source": "The Lancet",
-      "source_type": "journal",
-      "doi": "10.1016/s0140-6736(25)01330-3",
-      "url": "https://doi.org/10.1016/s0140-6736(25)01330-3",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Life expectancy",
-          "score": 0.869
-        },
-        {
-          "name": "Burden of disease",
-          "score": 0.706
-        },
-        {
-          "name": "Environmental health",
-          "score": 0.553
-        },
-        {
-          "name": "Demographic analysis",
-          "score": 0.479
-        },
-        {
-          "name": "Disease burden",
-          "score": 0.478
-        }
-      ],
-      "matched_by": "concept",
-      "added_date": "2026-10-01"
+      "added_date": "2026-10-02"
     }
   ],
   "meta": {
-    "last_updated": "2026-10-01T17:11:13Z",
-    "paper_count": 123,
+    "last_updated": "2026-10-02T16:24:39Z",
+    "paper_count": 122,
     "date_range": {
-      "from": "2025-10-01",
-      "to": "2026-10-01"
+      "from": "2025-10-14",
+      "to": "2026-10-02"
     }
   }
 }
