@@ -1,6 +1,70 @@
 {
   "papers": [
     {
+      "id": "nber_w35849",
+      "title": "Avoiding Regulation: Evidence from Nursing Homes",
+      "authors": [
+        {
+          "name": "Alden Cheng",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Riley League",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "We study strategic responses by firms to threshold-based regulations. We document extensive bunching in response to additional staffing requirements for California nursing homes with at least 100 beds. To estimate the regulation’s effect on staffing, we develop a novel treatment effects estimator for threshold-based regulations under precise manipulation, by decomposing firms into response types based on counterfactual and realized staffing and size, separating causal effects from selection. We estimate that higher staffing above the threshold is nearly entirely due to selection, with low-staffing facilities manipulating their size to avoid the regulation. These size distortions limit access, particularly for disadvantaged patients.",
+      "publication_date": "2026-10-06",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35849#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-10-06"
+    },
+    {
+      "id": "nber_w35861",
+      "title": "Labor Supply and Wages over the Life Cycle: Human Capital and Disability Benefits",
+      "authors": [
+        {
+          "name": "Richard Blundell",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Monica Costa-Dias",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Graham Mazeine",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Costas Meghir",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Tom Waters",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Work experience has been found to be a key determinant of work and wages for educated women, but it seems to play a smaller role for the less educated. For them, welfare, tax credits and family composition matter more, and increasingly so does participation in disability programmes. Here we document how labor supply, wages, health, and disability claims have evolved in the UK over the last three decades, and examine how reforms to tax credits, disability benefits and other welfare programs have changed work incentives over this period. We then introduce these features into an empirical dynamic structural model of life-cycle labor supply, human capital and disability benefit application, in which human capital combines health capital, experience accumulated in work, and education. Estimating the model on a panel of working-age women in the UK, we examine the interactions between experience capital and health capital in driving life-cycle earnings across different education groups. Our results highlight the importance of interactions in the disability benefit, welfare and tax-credit systems for understanding the life cycle pattern of hours, employment, earnings, and disability claims, and for evaluating policy counterfactuals.",
+      "publication_date": "2026-10-06",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35861#fromrss",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-10-06"
+    },
+    {
       "id": "nber_w35791",
       "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK",
       "authors": [
@@ -98,7 +162,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7112995595",
@@ -147,7 +211,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7214584790",
@@ -198,7 +262,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35771",
@@ -398,7 +462,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7213456135",
@@ -446,7 +510,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35693",
@@ -540,7 +604,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35664",
@@ -656,7 +720,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35600",
@@ -825,7 +889,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35574",
@@ -1018,7 +1082,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7171724687",
@@ -1070,7 +1134,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35441",
@@ -1327,7 +1391,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35430",
@@ -1641,7 +1705,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7168249942",
@@ -1684,7 +1748,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7168162437",
@@ -1740,7 +1804,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35396",
@@ -1935,7 +1999,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7165660871",
@@ -1982,7 +2046,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35323",
@@ -2157,7 +2221,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35280",
@@ -2272,7 +2336,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4407850825",
@@ -2323,7 +2387,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35220",
@@ -2412,7 +2476,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7162023839",
@@ -2463,7 +2527,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35173",
@@ -2579,7 +2643,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35146",
@@ -2835,7 +2899,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7160076895",
@@ -2883,7 +2947,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7160173250",
@@ -2926,7 +2990,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7160037262",
@@ -2973,7 +3037,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7160040194",
@@ -3032,7 +3096,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w35082",
@@ -3264,7 +3328,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7140275549",
@@ -3307,7 +3371,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "nber_w34966",
@@ -3450,7 +3514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7131390878",
@@ -3498,7 +3562,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7130643125",
@@ -3549,7 +3613,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7165682263",
@@ -3588,7 +3652,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7127647932",
@@ -3643,7 +3707,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7127639882",
@@ -3696,7 +3760,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7127622621",
@@ -3739,7 +3803,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7127592864",
@@ -3790,7 +3854,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7126193704",
@@ -3845,7 +3909,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7126120302",
@@ -3896,7 +3960,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7125009254",
@@ -3951,7 +4015,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W1504388888",
@@ -3998,7 +4062,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7118192714",
@@ -4042,7 +4106,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7139110589",
@@ -4089,7 +4153,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7171685980",
@@ -4137,7 +4201,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W3207058961",
@@ -4192,7 +4256,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7118022352",
@@ -4372,7 +4436,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W7116980467",
@@ -4420,7 +4484,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4416952202",
@@ -4467,7 +4531,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4414414795",
@@ -4528,7 +4592,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4416431798",
@@ -4583,7 +4647,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4416233231",
@@ -4639,7 +4703,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4416176458",
@@ -4683,7 +4747,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4415700305",
@@ -4727,7 +4791,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4415659132",
@@ -4782,7 +4846,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4415598714",
@@ -4825,7 +4889,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     },
     {
       "id": "W4415157192",
@@ -4868,15 +4932,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-04"
+      "added_date": "2026-10-06"
     }
   ],
   "meta": {
-    "last_updated": "2026-10-04T15:33:06Z",
-    "paper_count": 122,
+    "last_updated": "2026-10-06T16:58:57Z",
+    "paper_count": 124,
     "date_range": {
       "from": "2025-10-14",
-      "to": "2026-10-04"
+      "to": "2026-10-06"
     }
   }
 }
