@@ -1,6 +1,63 @@
 {
   "papers": [
     {
+      "id": "nber_w35876",
+      "title": "Survival versus Scale: The Effects of Critical Access Hospital Designation",
+      "authors": [
+        {
+          "name": "Ian McCarthy",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Katie Leinenbach",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The Critical Access Hospital (CAH) program, established under the Balanced Budget Act of 1997, provides cost-based Medicare reimbursement to small rural hospitals in exchange for limits on inpatient capacity and service scope. We estimate the effects of CAH designation on hospital finances, capacity, and organizational outcomes using a synthetic difference-in-differences design that exploits the staggered 1999– 2002 rollout of state-level CAH availability. We find that CAH designation raises operating margins by three to four percentage points, with no change in liquidity or capital investment, as cost-based reimbursement sustains revenue while expenses fall with scale. Designation also reduces inpatient scale, with significant declines in total beds, obstetric capacity, and nursing staff. Emergency department visits also decline meaningfully, while outpatient volume is largely unchanged. At the same time, CAH designation reduces hospital closures, with no meaningful effect on mergers. These results point to a “survival versus scale” tradeoff across hospitals within a state, wherein designation-based subsidies avert closure for a small number of hospitals while inducing widespread inpatient downsizing among the many more hospitals that convert. Because converting hospitals shed more inpatient capacity than averted closures preserve, the program may reduce aggregate rural inpatient capacity even as it keeps hospitals open.",
+      "publication_date": "2026-10-12",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35876#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-10-12"
+    },
+    {
+      "id": "nber_w35896",
+      "title": "When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds",
+      "authors": [
+        {
+          "name": "Aleksandar Andonov",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Kristy A. E. Jansen",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Joshua Rauh",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.",
+      "publication_date": "2026-10-12",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35896#fromrss",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-10-12"
+    },
+    {
       "id": "nber_w35849",
       "title": "Avoiding Regulation: Evidence from Nursing Homes",
       "authors": [
@@ -113,7 +170,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35791",
@@ -213,7 +270,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7112995595",
@@ -262,7 +319,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7214584790",
@@ -313,7 +370,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35771",
@@ -513,7 +570,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7213456135",
@@ -561,7 +618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35693",
@@ -655,7 +712,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35664",
@@ -771,7 +828,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35600",
@@ -940,7 +997,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35574",
@@ -1133,7 +1190,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7171724687",
@@ -1185,7 +1242,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35441",
@@ -1442,7 +1499,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35430",
@@ -1756,7 +1813,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7168249942",
@@ -1799,7 +1856,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7168162437",
@@ -1855,7 +1912,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35396",
@@ -2050,7 +2107,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7165660871",
@@ -2097,7 +2154,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35323",
@@ -2272,7 +2329,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35280",
@@ -2387,7 +2444,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4407850825",
@@ -2438,7 +2495,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35220",
@@ -2527,7 +2584,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7162023839",
@@ -2578,7 +2635,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35173",
@@ -2694,7 +2751,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35146",
@@ -2950,7 +3007,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7160076895",
@@ -2998,7 +3055,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7160173250",
@@ -3041,14 +3098,14 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7160037262",
       "title": "Retirement choice architecture: insights from India’s National Pension System",
       "authors": [
         {
-          "name": "Aparna Α S",
+          "name": "A. S. Aparna",
           "affiliation": "Jain University"
         },
         {
@@ -3088,7 +3145,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7160040194",
@@ -3099,7 +3156,7 @@
           "affiliation": "National Bureau of Economic Research"
         },
         {
-          "name": "Leemore S. Dafny",
+          "name": "Leemore Dafny",
           "affiliation": "Harvard University"
         },
         {
@@ -3111,7 +3168,7 @@
           "affiliation": "Brown University"
         },
         {
-          "name": "Christopher Ody",
+          "name": "Christopher J. Ody",
           "affiliation": ""
         }
       ],
@@ -3147,7 +3204,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w35082",
@@ -3379,7 +3436,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7140275549",
@@ -3422,7 +3479,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "nber_w34966",
@@ -3565,7 +3622,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7131390878",
@@ -3613,7 +3670,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7130643125",
@@ -3664,7 +3721,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7165682263",
@@ -3703,7 +3760,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7127647932",
@@ -3758,7 +3815,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7127639882",
@@ -3811,7 +3868,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7127622621",
@@ -3854,7 +3911,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7127592864",
@@ -3905,7 +3962,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7126193704",
@@ -3960,7 +4017,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7126120302",
@@ -4011,7 +4068,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7125009254",
@@ -4066,7 +4123,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W1504388888",
@@ -4113,7 +4170,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7118192714",
@@ -4157,10 +4214,61 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
-      "id": "W7139110589",
+      "id": "W7119469223",
+      "title": "Optimal Management of DC Pension Plan with InflationRisk and Tail VaR Constraint",
+      "authors": [
+        {
+          "name": "Hui Mi",
+          "affiliation": "Nanjing Normal University"
+        },
+        {
+          "name": "Zuo Quan Xu",
+          "affiliation": "Hong Kong Polytechnic University"
+        },
+        {
+          "name": "Dongfang Yang",
+          "affiliation": "Xidian University"
+        }
+      ],
+      "abstract": "",
+      "publication_date": "2026-01-01",
+      "source": "SSRN Electronic Journal",
+      "source_type": "preprint",
+      "doi": "10.2139/ssrn.6042566",
+      "url": "https://doi.org/10.2139/ssrn.6042566",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Constraint (computer-aided design)",
+          "score": 0.643
+        },
+        {
+          "name": "Economics",
+          "score": 0.583
+        },
+        {
+          "name": "Investment strategy",
+          "score": 0.557
+        },
+        {
+          "name": "Investment (military)",
+          "score": 0.551
+        },
+        {
+          "name": "Mathematical optimization",
+          "score": 0.511
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-12"
+    },
+    {
+      "id": "W7134116583",
       "title": "WAN-IFRA: World Press Trends Outlook 2025-2026",
       "authors": [
         {
@@ -4172,7 +4280,7 @@
           "affiliation": ""
         }
       ],
-      "abstract": "",
+      "abstract": "WAN-IFRA’s annual flagship research report reveals an industry that is not in retreat, instead innovating and adapting – all in the face of daunting challenges, both to its journalism and its business. This is the 36th annual World Press Trends Outlook report. The 2025-26 report reveals that publishers are feeling optimistic about the future – despite the myriad challenges the industry is facing. As in previous years, this study is grounded in findings from a comprehensive survey of senior media executives and newsroom leaders. This data is supplemented by a rich cornucopia of case studies from around the world, which help to illustrate and add further depth to our survey findings. A total of 172 respondents participated, representing five continents and 66 countries. Between them, these participants come from some of the world’s wealthiest nations, such as Japan, Luxembourg, Norway, and the United States, emerging markets like India, Brazil, and the United Arab Emirates, as well as some of the challenging and troubled parts of the world, such as Palestine (West Bank and Gaza) and Ukraine. Between them, input from this global sample provides valuable insights into areas such as revenue streams, digital transformation efforts, investment priorities, attitudes towards relationships with platforms and Generative AI, as well as the state of media and press freedom. In keeping with recent editions of this report, roughly half of our survey respondents are in developed economies, with the other half based in what the World Bank classifies as developing markets. Blending expert insights from senior media leaders around the world with case studies from different markets, this report offers a valuable snapshot of the health of today’s media landscape and the global news industry. e",
       "publication_date": "2026-01-01",
       "source": "SSRN Electronic Journal",
       "source_type": "preprint",
@@ -4183,28 +4291,28 @@
       ],
       "concepts": [
         {
-          "name": "Journalism",
-          "score": 0.6
+          "name": "Emerging markets",
+          "score": 0.621
+        },
+        {
+          "name": "Debt",
+          "score": 0.546
+        },
+        {
+          "name": "Gratitude",
+          "score": 0.523
         },
         {
           "name": "Revenue",
-          "score": 0.549
-        },
-        {
-          "name": "Sample (material)",
-          "score": 0.495
-        },
-        {
-          "name": "Investment (military)",
           "score": 0.461
         },
         {
-          "name": "Face (sociological concept)",
-          "score": 0.453
+          "name": "Political science",
+          "score": 0.38
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7171685980",
@@ -4252,7 +4360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W3207058961",
@@ -4307,7 +4415,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7118022352",
@@ -4487,7 +4595,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W7116980467",
@@ -4535,7 +4643,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4416952202",
@@ -4582,7 +4690,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4414414795",
@@ -4643,7 +4751,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4416431798",
@@ -4698,7 +4806,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4416233231",
@@ -4754,7 +4862,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4416176458",
@@ -4798,7 +4906,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4415700305",
@@ -4842,7 +4950,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4415659132",
@@ -4897,7 +5005,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4415598714",
@@ -4940,7 +5048,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-11"
+      "added_date": "2026-10-12"
     },
     {
       "id": "W4415157192",
@@ -4987,11 +5095,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-10-11T16:27:19Z",
-    "paper_count": 125,
+    "last_updated": "2026-10-12T20:02:45Z",
+    "paper_count": 128,
     "date_range": {
       "from": "2025-10-14",
-      "to": "2026-10-11"
+      "to": "2026-10-12"
     }
   }
 }
