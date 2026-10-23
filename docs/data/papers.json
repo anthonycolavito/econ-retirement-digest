@@ -1,6 +1,100 @@
 {
   "papers": [
     {
+      "id": "W7223186675",
+      "title": "Financial trust and self-directed retirement investing in pension plans",
+      "authors": [
+        {
+          "name": "Joelle H. Y. Fong",
+          "affiliation": "National University of Singapore"
+        },
+        {
+          "name": "Zeewan Lee",
+          "affiliation": "National University of Singapore"
+        }
+      ],
+      "abstract": "Abstract Despite the increasing popularity of self-directed accounts within pension plans, little is known about what drives voluntary participation in such accounts. This paper examines how financial trust influences the usage of self-directed accounts in Singapore’s national pension scheme using data from the World Values Survey and instrumental variable methods. We find that financial trust drives self-investment of pension monies: A one-unit increase in trust increases the likelihood of participation by 45 percentage points, controlling for covariates. This finding remains robust when potential endogeneity and alternative empirical specifications are considered. Our findings highlight the critical role of trust in shaping retirement investment behavior and pension choices.",
+      "publication_date": "2026-10-22",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100225",
+      "url": "https://doi.org/10.1017/s1474747226100225",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Endogeneity",
+          "score": 0.907
+        },
+        {
+          "name": "Pension",
+          "score": 0.779
+        },
+        {
+          "name": "Popularity",
+          "score": 0.651
+        },
+        {
+          "name": "Investment (military)",
+          "score": 0.569
+        },
+        {
+          "name": "Instrumental variable",
+          "score": 0.534
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-23"
+    },
+    {
+      "id": "W7223240599",
+      "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk, and Moral Hazard",
+      "authors": [
+        {
+          "name": "Jonathan Gruber A B",
+          "affiliation": "Massachusetts Institute of Technology"
+        },
+        {
+          "name": "Adam Solomon",
+          "affiliation": "New York University"
+        }
+      ],
+      "abstract": "Abstract Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 51%, comparable to the level of subsidization before the recent reform.",
+      "publication_date": "2026-10-20",
+      "source": "The Quarterly Journal of Economics",
+      "source_type": "journal",
+      "doi": "10.1093/qje/qjag051",
+      "url": "https://doi.org/10.1093/qje/qjag051",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Subsidy",
+          "score": 0.732
+        },
+        {
+          "name": "Flood insurance",
+          "score": 0.724
+        },
+        {
+          "name": "Moral hazard",
+          "score": 0.636
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.565
+        },
+        {
+          "name": "Flood myth",
+          "score": 0.518
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-23"
+    },
+    {
       "id": "nber_w35876",
       "title": "Survival versus Scale: The Effects of Critical Access Hospital Designation",
       "authors": [
@@ -170,7 +264,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35791",
@@ -270,7 +364,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7112995595",
@@ -319,7 +413,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7214584790",
@@ -370,7 +464,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35771",
@@ -570,7 +664,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7213456135",
@@ -618,7 +712,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35693",
@@ -712,7 +806,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35664",
@@ -828,7 +922,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35600",
@@ -997,7 +1091,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35574",
@@ -1190,7 +1284,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7171724687",
@@ -1242,7 +1336,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35441",
@@ -1499,7 +1593,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35430",
@@ -1813,7 +1907,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7168249942",
@@ -1856,7 +1950,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7168162437",
@@ -1912,7 +2006,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35396",
@@ -1937,32 +2031,6 @@
       "source_type": "working_paper",
       "doi": "",
       "url": "https://www.nber.org/papers/w35396#fromrss",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-07-12"
-    },
-    {
-      "id": "nber_w35408",
-      "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk and Moral Hazard",
-      "authors": [
-        {
-          "name": "Jonathan Gruber",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Adam Solomon",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 52%, comparable to the level of subsidization before the recent reform.",
-      "publication_date": "2026-07-12",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w35408#fromrss",
       "topics": [
         "longevity_mortality"
       ],
@@ -2107,7 +2175,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7165660871",
@@ -2154,7 +2222,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35323",
@@ -2329,7 +2397,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35280",
@@ -2444,7 +2512,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4407850825",
@@ -2495,7 +2563,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35220",
@@ -2584,7 +2652,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7162023839",
@@ -2635,7 +2703,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35173",
@@ -2751,7 +2819,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35146",
@@ -2998,7 +3066,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7160064659",
@@ -3050,7 +3118,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7160076895",
@@ -3098,7 +3166,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7160037262",
@@ -3145,7 +3213,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7160040194",
@@ -3204,7 +3272,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w35082",
@@ -3401,7 +3469,7 @@
       "authors": [
         {
           "name": "Pascale Lengagne",
-          "affiliation": "Institut de Recherche et de Documentation en Économie de la Santé"
+          "affiliation": "IRDES Institut de Recherche et Documentation en Économie de la Santé"
         }
       ],
       "abstract": "This paper examines the effects of experience rating of workers’ compensation (WC) insurance on workers’ absences and employment. I exploit a French reform that increased the degree of experience rating assigned to medium-size firms, thereby strengthening their incentives to reduce WC benefit expenditures of their employees. The findings show that a higher degree of experience rating led to a significant reduction in absences due to work-related injuries or illnesses; the estimates imply an elasticity of a worker’s annual number of work-related absence days with respect to the share of WC benefit expenditures borne by the firm of −1.20, with an extensive-margin elasticity of −0.43. This reduction is not offset by an increase in nonwork-related absences, suggesting that this effect does not reflect a substitution toward filing claims under the nonwork-related insurance scheme. I find no evidence of adverse effects on employment. Instead, the results suggest that increasing the degree of experience rating significantly improved the employment of workers. • Experience rating creates incentives for firms to reduce workers’ compensation benefit payments. • A French reform increased the degree of experience rating, thereby strengthening these incentives. • Stronger incentives led to a substantial reduction in work-related absences taken by workers. • This reduction was not offset by an increase in nonwork-related absences. • Stronger incentives led to improvements in workers’ employment outcomes.",
@@ -3436,7 +3504,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7140275549",
@@ -3479,7 +3547,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "nber_w34966",
@@ -3622,7 +3690,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7131390878",
@@ -3670,7 +3738,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7130643125",
@@ -3721,7 +3789,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7165682263",
@@ -3760,7 +3828,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7127647932",
@@ -3815,7 +3883,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7127639882",
@@ -3868,7 +3936,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7127622621",
@@ -3911,7 +3979,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7127592864",
@@ -3962,7 +4030,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7126193704",
@@ -4017,7 +4085,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7126120302",
@@ -4068,7 +4136,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7125009254",
@@ -4123,7 +4191,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W1504388888",
@@ -4170,7 +4238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7118192714",
@@ -4214,7 +4282,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7215976351",
@@ -4257,7 +4325,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7119469223",
@@ -4638,7 +4706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W7116980467",
@@ -4686,7 +4754,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4416952202",
@@ -4733,7 +4801,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4414414795",
@@ -4794,7 +4862,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4416431798",
@@ -4849,7 +4917,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4416233231",
@@ -4905,7 +4973,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4416176458",
@@ -4949,7 +5017,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4415700305",
@@ -4993,7 +5061,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4415659132",
@@ -5048,7 +5116,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     },
     {
       "id": "W4415598714",
@@ -5091,15 +5159,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-22"
+      "added_date": "2026-10-23"
     }
   ],
   "meta": {
-    "last_updated": "2026-10-22T15:42:47Z",
-    "paper_count": 128,
+    "last_updated": "2026-10-23T15:32:33Z",
+    "paper_count": 129,
     "date_range": {
       "from": "2025-10-27",
-      "to": "2026-10-17"
+      "to": "2026-10-22"
     }
   }
 }
