@@ -14,7 +14,7 @@
         }
       ],
       "abstract": "During research and development, firms must decide which types of individuals to engage in developing and testing their products. We investigate how lowering the cost of including one group shapes its representation, subsequent innovation, and product adoption. In 2000, Medicare expanded coverage of clinical trial costs for elderly trial participants, a historically underrepresented group in drug development. This policy increases representation: trial sponsors expand trial eligibility to include elderly participants and increase the share of elderly participants. We find an immediate and large increase in the number of clinical trials for diseases common among the elderly, with the largest increase in drugs not yet approved and in approved drugs tested in new diseases. We document an increase in drug utilization of newly tested drugs among elderly individuals and analyze trial results, adverse events, and drug approvals. Our findings show how financial incentives can increase representation in product development and shift the rate, direction, and adoption of innovation to potentially benefit underserved groups.",
-      "publication_date": "2026-10-28",
+      "publication_date": "2026-10-29",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -24,7 +24,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35944",
@@ -52,7 +52,7 @@
         }
       ],
       "abstract": "It has been widely documented that patients in the US who are associated with disadvantaged demographics receive care at lower quality nursing homes. To understand the role that selective admissions may play in contributing to this pattern, we conducted a nationwide audit study of the impact of patient race, payer, and medical condition on responses to about 5,500 availability inquiries sent to about 3,000 nursing homes. We find 10-15% lower availability for Medicaid patients compared to private-pay patients and for patients with Alzheimer’s disease compared to those without; these availability gaps generally increase with nursing home quality. We find no statistically significant evidence of differential availability by race. To quantify the implications of these selective admissions practices, we embed the audit study results in a model of constrained nursing home choice. We estimate that if, counterfactually, Medicaid patients had the same choice sets as their private-pay counterparts, they would attend higher quality nursing homes on average, but the private-Medicaid gap in quality would be reduced by only 5-10%. Our results suggest that supply-side availability differences by payer are widespread, but that they are unlikely to be the primary factor behind the observed gap in quality of nursing homes attended.",
-      "publication_date": "2026-10-28",
+      "publication_date": "2026-10-29",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -62,7 +62,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35946",
@@ -90,7 +90,7 @@
         }
       ],
       "abstract": "We estimate the returns to specialization in medical oncology, in which subspecialists focus on specific cancer types. Using 2.2 million Medicare chemotherapy episodes from 2008–2020, we instrument for subspecialist access with differential distance to cancer-type-specific subspecialists versus general oncologists. Access to a relevant subspecialist reduces three-year mortality by 4.5 percentage points (10 percent), without increasing Medicare spending or measured provider fragmentation. Subspecialists also increase the use of newer therapies and diagnosis-specific clinical trials. These findings show that specialization raises productivity when expertise is closely matched to the task.",
-      "publication_date": "2026-10-28",
+      "publication_date": "2026-10-29",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -100,7 +100,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35955",
@@ -124,7 +124,7 @@
         }
       ],
       "abstract": "In 2017, the federal government ended payments for cost-sharing reduction (CSR) subsidies for the Health Insurance Marketplaces created by the Affordable Care Act. Rather than uniformly increase Marketplace plans’ premiums to offset the loss of these payments, over 40 states responded by silver loading—only increasing the premiums of silver plans to which CSR subsidies apply and premium tax credits are tied. Silver loading was intended to increase the affordability of Marketplace coverage by increasing premium tax credits and thereby enrollment, though the literature lacks causal estimates. Furthermore, Congress is considering reinstating CSR subsidy funding, effectively undoing silver loading. We use panel data on 2015-2021 Marketplace health plan premiums and enrollment in 12 states from the Centers for Medicare and Medicaid Services to estimate silver loading’s effects using contiguous county-pair models. We find that silver loading functioned as intended, lowering the cost of Marketplace coverage and increasing enrollment by 8-14% among subsidized Marketplace enrollees with incomes between 250% and 400% of the poverty level. We project that Congress ending silver loading would decrease Marketplace enrollment by at least 330,000 enrollees in 2027.",
-      "publication_date": "2026-10-28",
+      "publication_date": "2026-10-29",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -134,7 +134,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W3128394795",
@@ -189,7 +189,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7223364794",
@@ -240,7 +240,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7223186675",
@@ -334,7 +334,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35876",
@@ -506,7 +506,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35791",
@@ -561,54 +561,6 @@
       "added_date": "2026-10-04"
     },
     {
-      "id": "W7214673424",
-      "title": "Does economic policy uncertainty affect public pension spending? Evidence from Japan",
-      "authors": [
-        {
-          "name": "Esmatullah Karimi",
-          "affiliation": "Wuhan University"
-        },
-        {
-          "name": "Fei Fan",
-          "affiliation": "Wuhan University"
-        }
-      ],
-      "abstract": "Abstract We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
-      "publication_date": "2026-09-28",
-      "source": "Journal of Pensions Economics and Finance",
-      "source_type": "journal",
-      "doi": "10.1017/s1474747226100213",
-      "url": "https://doi.org/10.1017/s1474747226100213",
-      "topics": [
-        "public_pensions",
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.669
-        },
-        {
-          "name": "Distributed lag",
-          "score": 0.589
-        },
-        {
-          "name": "Pension",
-          "score": 0.573
-        },
-        {
-          "name": "Affect (linguistics)",
-          "score": 0.477
-        },
-        {
-          "name": "Financial crisis",
-          "score": 0.439
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-28"
-    },
-    {
       "id": "W7112995595",
       "title": "The Long-Term Effects of Cash Assistance",
       "authors": [
@@ -655,7 +607,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7214584790",
@@ -703,6 +655,54 @@
         {
           "name": "Job loss",
           "score": 0.489
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-29"
+    },
+    {
+      "id": "W7214673424",
+      "title": "Does economic policy uncertainty affect public pension spending? Evidence from Japan",
+      "authors": [
+        {
+          "name": "Esmatullah Karimi",
+          "affiliation": "Wuhan University"
+        },
+        {
+          "name": "Fei Fan",
+          "affiliation": "Wuhan University"
+        }
+      ],
+      "abstract": "Abstract We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
+      "publication_date": "2026-09-28",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100213",
+      "url": "https://doi.org/10.1017/s1474747226100213",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.669
+        },
+        {
+          "name": "Distributed lag",
+          "score": 0.589
+        },
+        {
+          "name": "Pension",
+          "score": 0.573
+        },
+        {
+          "name": "Affect (linguistics)",
+          "score": 0.477
+        },
+        {
+          "name": "Financial crisis",
+          "score": 0.439
         }
       ],
       "matched_by": "keyword",
@@ -1048,7 +1048,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35664",
@@ -1164,7 +1164,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35600",
@@ -1333,7 +1333,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35574",
@@ -1526,7 +1526,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7171724687",
@@ -1835,7 +1835,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35430",
@@ -2149,7 +2149,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7168249942",
@@ -2417,7 +2417,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7165660871",
@@ -2639,7 +2639,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35280",
@@ -2754,7 +2754,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W4407850825",
@@ -2894,7 +2894,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7162023839",
@@ -2945,7 +2945,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35173",
@@ -3061,7 +3061,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35146",
@@ -3308,7 +3308,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7160064659",
@@ -3360,7 +3360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7160076895",
@@ -3408,7 +3408,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7160037262",
@@ -3514,7 +3514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w35082",
@@ -3746,7 +3746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7140275549",
@@ -3789,7 +3789,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "nber_w34966",
@@ -3932,7 +3932,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7131390878",
@@ -3980,7 +3980,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7130643125",
@@ -4031,7 +4031,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7165682263",
@@ -4070,7 +4070,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7127647932",
@@ -4125,7 +4125,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7127639882",
@@ -4178,58 +4178,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
-    },
-    {
-      "id": "W7128534083",
-      "title": "Is Immigration Good for Health? The Effect of Immigration on Older Adult Mortality in the United States",
-      "authors": [
-        {
-          "name": "David C. Grabowski",
-          "affiliation": "Harvard University"
-        },
-        {
-          "name": "Jonathan Gruber A B",
-          "affiliation": "National Bureau of Economic Research"
-        },
-        {
-          "name": "Brian E. McGarry",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We measure the impact of increased immigration on mortality among elderly Americans, who rely on the immigrant-intensive health and long-term care sectors.Using a shift-share approach we find a strong impact of immigration on the size of the immigrant care workforce: admitting 1,000 new immigrants would lead to 142 new foreign healthcare workers, without evidence of crowd out of native health care workers.We also find striking effects on mortality: a 25% increase in the steady state flow of immigrants to the US would result in 5,000 fewer deaths nationwide.We identify reduced use of nursing homes as a key mechanism driving this result.",
-      "publication_date": "2026-02-01",
-      "source": "National Bureau of Economic Research",
-      "source_type": "working_paper",
-      "doi": "10.3386/w34791",
-      "url": "https://doi.org/10.3386/w34791",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [
-        {
-          "name": "Immigration",
-          "score": 0.801
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.387
-        },
-        {
-          "name": "Demography",
-          "score": 0.376
-        },
-        {
-          "name": "Population",
-          "score": 0.356
-        },
-        {
-          "name": "Political science",
-          "score": 0.341
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7127622621",
@@ -4272,7 +4221,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7127592864",
@@ -4320,6 +4269,57 @@
         {
           "name": "Demographic economics",
           "score": 0.576
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-29"
+    },
+    {
+      "id": "W7128534083",
+      "title": "Is Immigration Good for Health? The Effect of Immigration on Older Adult Mortality in the United States",
+      "authors": [
+        {
+          "name": "David C. Grabowski",
+          "affiliation": "Harvard University"
+        },
+        {
+          "name": "Jonathan Gruber A B",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Brian E. McGarry",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We measure the impact of increased immigration on mortality among elderly Americans, who rely on the immigrant-intensive health and long-term care sectors.Using a shift-share approach we find a strong impact of immigration on the size of the immigrant care workforce: admitting 1,000 new immigrants would lead to 142 new foreign healthcare workers, without evidence of crowd out of native health care workers.We also find striking effects on mortality: a 25% increase in the steady state flow of immigrants to the US would result in 5,000 fewer deaths nationwide.We identify reduced use of nursing homes as a key mechanism driving this result.",
+      "publication_date": "2026-02-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34791",
+      "url": "https://doi.org/10.3386/w34791",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Immigration",
+          "score": 0.801
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.387
+        },
+        {
+          "name": "Demography",
+          "score": 0.376
+        },
+        {
+          "name": "Population",
+          "score": 0.356
+        },
+        {
+          "name": "Political science",
+          "score": 0.341
         }
       ],
       "matched_by": "keyword",
@@ -4429,7 +4429,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7125009254",
@@ -4484,7 +4484,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7125736606",
@@ -5042,7 +5042,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W7116980467",
@@ -5411,7 +5411,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W4416233231",
@@ -5511,7 +5511,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     },
     {
       "id": "W4416294782",
@@ -5763,15 +5763,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-29"
     }
   ],
   "meta": {
-    "last_updated": "2026-10-28T16:52:11Z",
+    "last_updated": "2026-10-29T17:11:41Z",
     "paper_count": 142,
     "date_range": {
       "from": "2025-10-29",
-      "to": "2026-10-28"
+      "to": "2026-10-29"
     }
   }
 }
