@@ -14,7 +14,7 @@
         }
       ],
       "abstract": "During research and development, firms must decide which types of individuals to engage in developing and testing their products. We investigate how lowering the cost of including one group shapes its representation, subsequent innovation, and product adoption. In 2000, Medicare expanded coverage of clinical trial costs for elderly trial participants, a historically underrepresented group in drug development. This policy increases representation: trial sponsors expand trial eligibility to include elderly participants and increase the share of elderly participants. We find an immediate and large increase in the number of clinical trials for diseases common among the elderly, with the largest increase in drugs not yet approved and in approved drugs tested in new diseases. We document an increase in drug utilization of newly tested drugs among elderly individuals and analyze trial results, adverse events, and drug approvals. Our findings show how financial incentives can increase representation in product development and shift the rate, direction, and adoption of innovation to potentially benefit underserved groups.",
-      "publication_date": "2026-10-29",
+      "publication_date": "2026-10-30",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -24,7 +24,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35944",
@@ -52,7 +52,7 @@
         }
       ],
       "abstract": "It has been widely documented that patients in the US who are associated with disadvantaged demographics receive care at lower quality nursing homes. To understand the role that selective admissions may play in contributing to this pattern, we conducted a nationwide audit study of the impact of patient race, payer, and medical condition on responses to about 5,500 availability inquiries sent to about 3,000 nursing homes. We find 10-15% lower availability for Medicaid patients compared to private-pay patients and for patients with Alzheimer’s disease compared to those without; these availability gaps generally increase with nursing home quality. We find no statistically significant evidence of differential availability by race. To quantify the implications of these selective admissions practices, we embed the audit study results in a model of constrained nursing home choice. We estimate that if, counterfactually, Medicaid patients had the same choice sets as their private-pay counterparts, they would attend higher quality nursing homes on average, but the private-Medicaid gap in quality would be reduced by only 5-10%. Our results suggest that supply-side availability differences by payer are widespread, but that they are unlikely to be the primary factor behind the observed gap in quality of nursing homes attended.",
-      "publication_date": "2026-10-29",
+      "publication_date": "2026-10-30",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -62,7 +62,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35946",
@@ -90,7 +90,7 @@
         }
       ],
       "abstract": "We estimate the returns to specialization in medical oncology, in which subspecialists focus on specific cancer types. Using 2.2 million Medicare chemotherapy episodes from 2008–2020, we instrument for subspecialist access with differential distance to cancer-type-specific subspecialists versus general oncologists. Access to a relevant subspecialist reduces three-year mortality by 4.5 percentage points (10 percent), without increasing Medicare spending or measured provider fragmentation. Subspecialists also increase the use of newer therapies and diagnosis-specific clinical trials. These findings show that specialization raises productivity when expertise is closely matched to the task.",
-      "publication_date": "2026-10-29",
+      "publication_date": "2026-10-30",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -100,7 +100,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35955",
@@ -124,7 +124,7 @@
         }
       ],
       "abstract": "In 2017, the federal government ended payments for cost-sharing reduction (CSR) subsidies for the Health Insurance Marketplaces created by the Affordable Care Act. Rather than uniformly increase Marketplace plans’ premiums to offset the loss of these payments, over 40 states responded by silver loading—only increasing the premiums of silver plans to which CSR subsidies apply and premium tax credits are tied. Silver loading was intended to increase the affordability of Marketplace coverage by increasing premium tax credits and thereby enrollment, though the literature lacks causal estimates. Furthermore, Congress is considering reinstating CSR subsidy funding, effectively undoing silver loading. We use panel data on 2015-2021 Marketplace health plan premiums and enrollment in 12 states from the Centers for Medicare and Medicaid Services to estimate silver loading’s effects using contiguous county-pair models. We find that silver loading functioned as intended, lowering the cost of Marketplace coverage and increasing enrollment by 8-14% among subsidized Marketplace enrollees with incomes between 250% and 400% of the poverty level. We project that Congress ending silver loading would decrease Marketplace enrollment by at least 330,000 enrollees in 2027.",
-      "publication_date": "2026-10-29",
+      "publication_date": "2026-10-30",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -134,7 +134,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W3128394795",
@@ -189,7 +189,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7223364794",
@@ -240,7 +240,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7223186675",
@@ -287,7 +287,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7223240599",
@@ -334,7 +334,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35876",
@@ -506,7 +506,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35791",
@@ -561,6 +561,54 @@
       "added_date": "2026-10-04"
     },
     {
+      "id": "W7214673424",
+      "title": "Does economic policy uncertainty affect public pension spending? Evidence from Japan",
+      "authors": [
+        {
+          "name": "Esmatullah Karimi",
+          "affiliation": "Wuhan University"
+        },
+        {
+          "name": "Fei Fan",
+          "affiliation": "Wuhan University"
+        }
+      ],
+      "abstract": "Abstract We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
+      "publication_date": "2026-09-28",
+      "source": "Journal of Pensions Economics and Finance",
+      "source_type": "journal",
+      "doi": "10.1017/s1474747226100213",
+      "url": "https://doi.org/10.1017/s1474747226100213",
+      "topics": [
+        "public_pensions",
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Economics",
+          "score": 0.669
+        },
+        {
+          "name": "Distributed lag",
+          "score": 0.589
+        },
+        {
+          "name": "Pension",
+          "score": 0.573
+        },
+        {
+          "name": "Affect (linguistics)",
+          "score": 0.477
+        },
+        {
+          "name": "Financial crisis",
+          "score": 0.439
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-30"
+    },
+    {
       "id": "W7112995595",
       "title": "The Long-Term Effects of Cash Assistance",
       "authors": [
@@ -607,7 +655,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7214584790",
@@ -658,55 +706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
-    },
-    {
-      "id": "W7214673424",
-      "title": "Does economic policy uncertainty affect public pension spending? Evidence from Japan",
-      "authors": [
-        {
-          "name": "Esmatullah Karimi",
-          "affiliation": "Wuhan University"
-        },
-        {
-          "name": "Fei Fan",
-          "affiliation": "Wuhan University"
-        }
-      ],
-      "abstract": "Abstract We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
-      "publication_date": "2026-09-28",
-      "source": "Journal of Pensions Economics and Finance",
-      "source_type": "journal",
-      "doi": "10.1017/s1474747226100213",
-      "url": "https://doi.org/10.1017/s1474747226100213",
-      "topics": [
-        "public_pensions",
-        "private_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Economics",
-          "score": 0.669
-        },
-        {
-          "name": "Distributed lag",
-          "score": 0.589
-        },
-        {
-          "name": "Pension",
-          "score": 0.573
-        },
-        {
-          "name": "Affect (linguistics)",
-          "score": 0.477
-        },
-        {
-          "name": "Financial crisis",
-          "score": 0.439
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35771",
@@ -906,7 +906,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7213456135",
@@ -954,7 +954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35693",
@@ -1048,7 +1048,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35664",
@@ -1164,7 +1164,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35600",
@@ -1333,7 +1333,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35574",
@@ -1526,7 +1526,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7171724687",
@@ -1578,7 +1578,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35441",
@@ -1835,7 +1835,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35430",
@@ -2149,7 +2149,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7168249942",
@@ -2192,7 +2192,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7168162437",
@@ -2248,7 +2248,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35396",
@@ -2417,7 +2417,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7165660871",
@@ -2464,7 +2464,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35323",
@@ -2639,7 +2639,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35280",
@@ -2754,7 +2754,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4407850825",
@@ -2894,7 +2894,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7162023839",
@@ -2945,7 +2945,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35173",
@@ -3061,7 +3061,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35146",
@@ -3308,7 +3308,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7160064659",
@@ -3360,7 +3360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7160076895",
@@ -3408,7 +3408,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7160037262",
@@ -3455,7 +3455,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7160040194",
@@ -3514,7 +3514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w35082",
@@ -3746,7 +3746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7140275549",
@@ -3789,7 +3789,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "nber_w34966",
@@ -3932,7 +3932,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7131390878",
@@ -3980,7 +3980,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7130643125",
@@ -4031,7 +4031,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7165682263",
@@ -4070,7 +4070,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7127647932",
@@ -4125,7 +4125,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7127639882",
@@ -4178,101 +4178,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
-    },
-    {
-      "id": "W7127622621",
-      "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
-      "authors": [
-        {
-          "name": "David Nathan Weil",
-          "affiliation": "Brown University"
-        }
-      ],
-      "abstract": "I assess the effect of continued sub-replacement fertility on age-adjusted consumption per capita. Channels assessed include transfers from working-age adults to children and the elderly, the effect of the labor force growth rate on required capital investment, sustainability of government debt, the interaction of population size with fixed natural resources (including a clean environment), and the effect of population size on the speed of technological progress. To isolate the effect of low fertility from other ongoing demographic changes, I use simulation models as well as projections from the United Nations and Social Security Administration that vary fertility rates while holding other factors constant. My main finding is that the impact of low fertility is likely to be negative but small. In addition, this negative impact arrives only after a long adjustment period. An increase in fertility back to the replacement rate would lower the standard of living for several decades.",
-      "publication_date": "2026-02-01",
-      "source": "The Journal of Economic Perspectives",
-      "source_type": "journal",
-      "doi": "10.1257/jep.20251462",
-      "url": "https://doi.org/10.1257/jep.20251462",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Fertility",
-          "score": 0.862
-        },
-        {
-          "name": "Total fertility rate",
-          "score": 0.701
-        },
-        {
-          "name": "Economics",
-          "score": 0.646
-        },
-        {
-          "name": "Social security",
-          "score": 0.565
-        },
-        {
-          "name": "Population",
-          "score": 0.526
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-29"
-    },
-    {
-      "id": "W7127592864",
-      "title": "Family Institutions and the Global Fertility Transition",
-      "authors": [
-        {
-          "name": "Paula E. Gobbi",
-          "affiliation": "Université Libre de Bruxelles"
-        },
-        {
-          "name": "Anne Hannusch",
-          "affiliation": "University of Bonn"
-        },
-        {
-          "name": "Pauline Rossi",
-          "affiliation": "École Polytechnique"
-        }
-      ],
-      "abstract": "Much of the observed cross-country variation in fertility aligns with the predictions of classic theories of the fertility transition: countries with higher levels of human capital, higher GDP per capita, or lower mortality rates tend to exhibit lower fertility. However, when examining changes within countries over the past 60 years, larger fertility declines are only weakly associated with greater improvements in human capital, per capita GDP, or survival rates. To understand why, we focus on the role of family institutions, particularly marriage and inheritance customs. We argue that, together with the diffusion of cultural norms, they help explain variations in the timing, speed and magnitude of the fertility decline. We propose a stylized model integrating economic, health, institutional and cultural factors to study how these factors interact to shape fertility transition paths. We find that family institutions can mediate the effect of economic development by constraining fertility responses.",
-      "publication_date": "2026-02-01",
-      "source": "The Journal of Economic Perspectives",
-      "source_type": "journal",
-      "doi": "10.1257/jep.20251460",
-      "url": "https://doi.org/10.1257/jep.20251460",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Fertility",
-          "score": 0.894
-        },
-        {
-          "name": "Stylized fact",
-          "score": 0.789
-        },
-        {
-          "name": "Demographic transition",
-          "score": 0.725
-        },
-        {
-          "name": "Economics",
-          "score": 0.583
-        },
-        {
-          "name": "Demographic economics",
-          "score": 0.576
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7128534083",
@@ -4323,7 +4229,101 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
+    },
+    {
+      "id": "W7127622621",
+      "title": "How Much Would Continued Low Fertility Affect the US Standard of Living?",
+      "authors": [
+        {
+          "name": "David Nathan Weil",
+          "affiliation": "Brown University"
+        }
+      ],
+      "abstract": "I assess the effect of continued sub-replacement fertility on age-adjusted consumption per capita. Channels assessed include transfers from working-age adults to children and the elderly, the effect of the labor force growth rate on required capital investment, sustainability of government debt, the interaction of population size with fixed natural resources (including a clean environment), and the effect of population size on the speed of technological progress. To isolate the effect of low fertility from other ongoing demographic changes, I use simulation models as well as projections from the United Nations and Social Security Administration that vary fertility rates while holding other factors constant. My main finding is that the impact of low fertility is likely to be negative but small. In addition, this negative impact arrives only after a long adjustment period. An increase in fertility back to the replacement rate would lower the standard of living for several decades.",
+      "publication_date": "2026-02-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251462",
+      "url": "https://doi.org/10.1257/jep.20251462",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Fertility",
+          "score": 0.862
+        },
+        {
+          "name": "Total fertility rate",
+          "score": 0.701
+        },
+        {
+          "name": "Economics",
+          "score": 0.646
+        },
+        {
+          "name": "Social security",
+          "score": 0.565
+        },
+        {
+          "name": "Population",
+          "score": 0.526
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-30"
+    },
+    {
+      "id": "W7127592864",
+      "title": "Family Institutions and the Global Fertility Transition",
+      "authors": [
+        {
+          "name": "Paula E. Gobbi",
+          "affiliation": "Université Libre de Bruxelles"
+        },
+        {
+          "name": "Anne Hannusch",
+          "affiliation": "University of Bonn"
+        },
+        {
+          "name": "Pauline Rossi",
+          "affiliation": "École Polytechnique"
+        }
+      ],
+      "abstract": "Much of the observed cross-country variation in fertility aligns with the predictions of classic theories of the fertility transition: countries with higher levels of human capital, higher GDP per capita, or lower mortality rates tend to exhibit lower fertility. However, when examining changes within countries over the past 60 years, larger fertility declines are only weakly associated with greater improvements in human capital, per capita GDP, or survival rates. To understand why, we focus on the role of family institutions, particularly marriage and inheritance customs. We argue that, together with the diffusion of cultural norms, they help explain variations in the timing, speed and magnitude of the fertility decline. We propose a stylized model integrating economic, health, institutional and cultural factors to study how these factors interact to shape fertility transition paths. We find that family institutions can mediate the effect of economic development by constraining fertility responses.",
+      "publication_date": "2026-02-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251460",
+      "url": "https://doi.org/10.1257/jep.20251460",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Fertility",
+          "score": 0.894
+        },
+        {
+          "name": "Stylized fact",
+          "score": 0.789
+        },
+        {
+          "name": "Demographic transition",
+          "score": 0.725
+        },
+        {
+          "name": "Economics",
+          "score": 0.583
+        },
+        {
+          "name": "Demographic economics",
+          "score": 0.576
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7126193704",
@@ -4378,7 +4378,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7126120302",
@@ -4429,7 +4429,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7125009254",
@@ -4484,7 +4484,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7125736606",
@@ -4527,7 +4527,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W1504388888",
@@ -4574,7 +4574,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7118192714",
@@ -4618,7 +4618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7215976351",
@@ -5042,7 +5042,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7116980467",
@@ -5090,7 +5090,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416952202",
@@ -5137,7 +5137,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W7117554262",
@@ -5184,7 +5184,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4414414795",
@@ -5245,7 +5245,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4417138600",
@@ -5309,7 +5309,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4417344531",
@@ -5356,7 +5356,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416431798",
@@ -5411,7 +5411,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416233231",
@@ -5467,7 +5467,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416176458",
@@ -5511,7 +5511,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416294782",
@@ -5562,7 +5562,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4416589603",
@@ -5613,7 +5613,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4417344533",
@@ -5664,7 +5664,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
+      "added_date": "2026-10-30"
     },
     {
       "id": "W4415700305",
@@ -5708,70 +5708,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-10-28"
-    },
-    {
-      "id": "W4415659132",
-      "title": "Take-up of Social Benefits: Experimental Evidence from France",
-      "authors": [
-        {
-          "name": "Laura Castell",
-          "affiliation": "Institut National de la Statistique et des Etudes Economiques"
-        },
-        {
-          "name": "Marc Gurgand",
-          "affiliation": "Centre National de la Recherche Scientifique"
-        },
-        {
-          "name": "Clément Imbert",
-          "affiliation": "Institut d'Etudes Politiques de Paris"
-        },
-        {
-          "name": "Todor Tochev",
-          "affiliation": ""
-        }
-      ],
-      "abstract": "We report on two nationwide experiments with job seekers in France. We first show that a meeting with social services to assess eligibility and help with applications to social benefits increased new benefit take-up by 29 percent. By contrast, an online simulator that gave personalized information on benefit eligibility did not increase take-up. Marginal treatment effects show that individuals who benefit the most from the meetings are the least likely to attend. Overall, without ruling out information frictions, our results suggest that transaction costs represent the main obstacle to applying for benefits or accessing government’s assistance in applying. (JEL D83, I38, J22, J65, R38)",
-      "publication_date": "2025-10-29",
-      "source": "American Economic Journal Economic Policy",
-      "source_type": "journal",
-      "doi": "10.1257/pol.20220786",
-      "url": "https://doi.org/10.1257/pol.20220786",
-      "topics": [
-        "public_pensions"
-      ],
-      "concepts": [
-        {
-          "name": "Seekers",
-          "score": 0.588
-        },
-        {
-          "name": "Obstacle",
-          "score": 0.476
-        },
-        {
-          "name": "Social assistance",
-          "score": 0.451
-        },
-        {
-          "name": "Business",
-          "score": 0.431
-        },
-        {
-          "name": "Public economics",
-          "score": 0.421
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-10-29"
+      "added_date": "2026-10-30"
     }
   ],
   "meta": {
-    "last_updated": "2026-10-29T17:11:41Z",
-    "paper_count": 142,
+    "last_updated": "2026-10-30T16:50:47Z",
+    "paper_count": 141,
     "date_range": {
-      "from": "2025-10-29",
-      "to": "2026-10-29"
+      "from": "2025-10-30",
+      "to": "2026-10-30"
     }
   }
 }
