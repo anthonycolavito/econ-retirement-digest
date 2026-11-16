@@ -1,6 +1,85 @@
 {
   "papers": [
     {
+      "id": "nber_w36006",
+      "title": "How Will the 340B Rebate Model Pilot Affect Covered Entity Finances?",
+      "authors": [
+        {
+          "name": "Charles J. Courtemanche",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Expansion to all of 340B would increase the predicted losses to $22.8 billion, cutting net revenues from the program by 32%. The majority of losses will come from administrative and staffing costs, which do not benefit manufacturers, implying a net negative effect of switching to a rebate model. Covered entity losses from the RMP will be limited by the pilot only applying to a small percentage of 340B sales as well as restrictions HRSA’s guidance places on manufacturers. If the rebate model expands to all of 340B or if the restrictions are inadequately enforced, the losses will grow substantially.",
+      "publication_date": "2026-11-16",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w36006#fromrss",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-11-16"
+    },
+    {
+      "id": "nber_w36020",
+      "title": "The Effects of Years of Health Insurance on the Health of Older Adults",
+      "authors": [
+        {
+          "name": "Yu Liu",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Kevin Callison",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Robert Kaestner",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one additional year among previously uninsured respondents relative to those insured at baseline. Instrumental-variable estimates provide no statistically significant evidence of improvements in self-rated health, depressive symptoms, or hypertension over a four-year follow-up period. These findings are robust across alternative specifications. Overall, results provide little evidence that longer insurance coverage translates into measurable short-term health improvements, while leaving open the possibility of modest or longer-term benefits.",
+      "publication_date": "2026-11-16",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w36020#fromrss",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-11-16"
+    },
+    {
+      "id": "nber_w36031",
+      "title": "A Blessing in Disguise: The Long-Term Effects of Childhood Exposure to the Boll Weevil on Old-Age Male Longevity",
+      "authors": [
+        {
+          "name": "Hamid Noghanibehambari",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Jason Fletcher",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-3 months of higher longevity. We show that the estimated effects are robust across a wide array of specifications, are not driven by sociodemographic and socioeconomic compositional change in the final sample, and are not associated with pre-existing trends in the outcome. Further, we find larger impacts among Blacks, children of lower educated mothers, whose fathers work in the farming industry, and those born in high cotton intensity counties. Moreover, the effects appear to be substantially larger among children in states with less restrictive child labor policies, implying the role of these policies in reducing the adverse effects of child labor in the absence of the boll weevil in cotton production counties. Affected children are more likely to migrate, and their destination counties are more likely to be urban and have higher socioeconomic scores. The 1940 census suggests that the exposed children attain higher levels of education and have higher socioeconomic scores. We discuss the policy implications of these results in relation to child labor and school attendance policies in developing countries.",
+      "publication_date": "2026-11-16",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w36031#fromrss",
+      "topics": [
+        "public_pensions"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-11-16"
+    },
+    {
       "id": "nber_w35990",
       "title": "Financial Advisors and Retirees' Risk-taking",
       "authors": [
@@ -109,7 +188,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35936",
@@ -300,7 +379,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7223364794",
@@ -351,7 +430,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7223186675",
@@ -398,7 +477,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7223240599",
@@ -445,7 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35876",
@@ -617,7 +696,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35791",
@@ -717,7 +796,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7112995595",
@@ -766,7 +845,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7214584790",
@@ -817,7 +896,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35771",
@@ -1017,7 +1096,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7213456135",
@@ -1065,7 +1144,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35693",
@@ -1159,7 +1238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35664",
@@ -1275,7 +1354,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35600",
@@ -1444,7 +1523,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35574",
@@ -1615,7 +1694,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7171724687",
@@ -1667,7 +1746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35441",
@@ -1924,7 +2003,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35430",
@@ -2238,7 +2317,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7168249942",
@@ -2281,7 +2360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7168162437",
@@ -2337,7 +2416,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35396",
@@ -2549,7 +2628,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7165660871",
@@ -2596,7 +2675,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35323",
@@ -2771,7 +2850,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35280",
@@ -2886,7 +2965,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W4407850825",
@@ -3026,7 +3105,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7162023839",
@@ -3077,7 +3156,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35173",
@@ -3193,33 +3272,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
-    },
-    {
-      "id": "nber_w35146",
-      "title": "Understanding Medicaid Managed Care: The Procured Competition Model",
-      "authors": [
-        {
-          "name": "Mark Shepard",
-          "affiliation": "NBER"
-        },
-        {
-          "name": "Jacob Wallace",
-          "affiliation": "NBER"
-        }
-      ],
-      "abstract": "Medicaid is one of the largest public programs in the United States — providing health insurance to over 75 million low-income Americans — and over three quarters of its enrollees receive care via private “managed care” insurers. In this summary article, we make three central points about the economics of contracting out Medicaid to private insurers. First, the empirical evidence on Medicaid privatization is mixed: contracting out has not meaningfully reduced public costs or improved quality of care. Second, we propose a framework, which we call “procured competition,” to describe the unique structure of Medicaid managed care as a hybrid of public procurement and regulated competition. Third, we discuss the key policy levers across procurement, competition, and consumer choice in this model. Throughout, we highlight open research questions, arguing that the enormous variation in how states design these programs — combined with limited evidence on what works — represents a promising area for high-impact scholarship.",
-      "publication_date": "2026-05-10",
-      "source": "NBER Working Papers",
-      "source_type": "working_paper",
-      "doi": "",
-      "url": "https://www.nber.org/papers/w35146#fromrss",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [],
-      "matched_by": "nber_rss",
-      "added_date": "2026-05-10"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35145",
@@ -3263,6 +3316,32 @@
       "topics": [
         "consumption_savings",
         "insurance_markets"
+      ],
+      "concepts": [],
+      "matched_by": "nber_rss",
+      "added_date": "2026-05-10"
+    },
+    {
+      "id": "nber_w35146",
+      "title": "Understanding Medicaid Managed Care: The Procured Competition Model",
+      "authors": [
+        {
+          "name": "Mark Shepard",
+          "affiliation": "NBER"
+        },
+        {
+          "name": "Jacob Wallace",
+          "affiliation": "NBER"
+        }
+      ],
+      "abstract": "Medicaid is one of the largest public programs in the United States — providing health insurance to over 75 million low-income Americans — and over three quarters of its enrollees receive care via private “managed care” insurers. In this summary article, we make three central points about the economics of contracting out Medicaid to private insurers. First, the empirical evidence on Medicaid privatization is mixed: contracting out has not meaningfully reduced public costs or improved quality of care. Second, we propose a framework, which we call “procured competition,” to describe the unique structure of Medicaid managed care as a hybrid of public procurement and regulated competition. Third, we discuss the key policy levers across procurement, competition, and consumer choice in this model. Throughout, we highlight open research questions, arguing that the enormous variation in how states design these programs — combined with limited evidence on what works — represents a promising area for high-impact scholarship.",
+      "publication_date": "2026-05-10",
+      "source": "NBER Working Papers",
+      "source_type": "working_paper",
+      "doi": "",
+      "url": "https://www.nber.org/papers/w35146#fromrss",
+      "topics": [
+        "health_retirement"
       ],
       "concepts": [],
       "matched_by": "nber_rss",
@@ -3440,7 +3519,55 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
+    },
+    {
+      "id": "W7160076895",
+      "title": "Competition in Health Insurance Markets",
+      "authors": [
+        {
+          "name": "Martin Gaynor",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Amanda Starc",
+          "affiliation": "Northwestern University"
+        }
+      ],
+      "abstract": "The United States relies primarily on private health insurance markets, yet these markets are highly concentrated and becoming more so over time. We document concentration across commercial, Medicare Advantage, and Medicaid markets. We then examine how asymmetric information—particularly adverse selection—interacts with market power to shape premiums, plan design, and consumer welfare. Empirical evidence confirms that insurer consolidation raises premiums. We discuss how antitrust enforcement, risk adjustment, regulation, and informational interventions shape competition and consumer welfare in these markets.",
+      "publication_date": "2026-05-01",
+      "source": "The Journal of Economic Perspectives",
+      "source_type": "journal",
+      "doi": "10.1257/jep.20251459",
+      "url": "https://doi.org/10.1257/jep.20251459",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Business",
+          "score": 0.598
+        },
+        {
+          "name": "Competition (biology)",
+          "score": 0.559
+        },
+        {
+          "name": "Health plan",
+          "score": 0.545
+        },
+        {
+          "name": "Consolidation (business)",
+          "score": 0.532
+        },
+        {
+          "name": "Welfare",
+          "score": 0.515
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7160064659",
@@ -3492,55 +3619,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
-    },
-    {
-      "id": "W7160076895",
-      "title": "Competition in Health Insurance Markets",
-      "authors": [
-        {
-          "name": "Martin Gaynor",
-          "affiliation": "National Bureau of Economic Research"
-        },
-        {
-          "name": "Amanda Starc",
-          "affiliation": "Northwestern University"
-        }
-      ],
-      "abstract": "The United States relies primarily on private health insurance markets, yet these markets are highly concentrated and becoming more so over time. We document concentration across commercial, Medicare Advantage, and Medicaid markets. We then examine how asymmetric information—particularly adverse selection—interacts with market power to shape premiums, plan design, and consumer welfare. Empirical evidence confirms that insurer consolidation raises premiums. We discuss how antitrust enforcement, risk adjustment, regulation, and informational interventions shape competition and consumer welfare in these markets.",
-      "publication_date": "2026-05-01",
-      "source": "The Journal of Economic Perspectives",
-      "source_type": "journal",
-      "doi": "10.1257/jep.20251459",
-      "url": "https://doi.org/10.1257/jep.20251459",
-      "topics": [
-        "insurance_markets",
-        "health_retirement"
-      ],
-      "concepts": [
-        {
-          "name": "Business",
-          "score": 0.598
-        },
-        {
-          "name": "Competition (biology)",
-          "score": 0.559
-        },
-        {
-          "name": "Health plan",
-          "score": 0.545
-        },
-        {
-          "name": "Consolidation (business)",
-          "score": 0.532
-        },
-        {
-          "name": "Welfare",
-          "score": 0.515
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7160037262",
@@ -3587,7 +3666,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7160040194",
@@ -3646,7 +3725,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w35082",
@@ -3878,7 +3957,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7140275549",
@@ -3921,7 +4000,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "nber_w34966",
@@ -4064,7 +4143,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7131390878",
@@ -4112,7 +4191,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7130643125",
@@ -4163,7 +4242,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7165682263",
@@ -4202,7 +4281,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7127647932",
@@ -4257,7 +4336,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7127639882",
@@ -4310,7 +4389,70 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
+    },
+    {
+      "id": "W7128549714",
+      "title": "Competition and Fraud in Health Care",
+      "authors": [
+        {
+          "name": "Renuka Diwan",
+          "affiliation": "Boston University"
+        },
+        {
+          "name": "Paul J. Eliason",
+          "affiliation": "University of Utah"
+        },
+        {
+          "name": "Riley J. League",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "Jetson Leder-Luis",
+          "affiliation": "Boston University"
+        },
+        {
+          "name": "Ryan McDevitt",
+          "affiliation": "National Bureau of Economic Research"
+        },
+        {
+          "name": "James Roberts",
+          "affiliation": "National Bureau of Economic Research"
+        }
+      ],
+      "abstract": "Governments rely on private firms to provide public goods and services.Although competition among these firms reduces prices and the costs of procurement, it has an ambiguous effect on fraud: competition can both dissipate the rents that attracted fraudulent firms to the market while at the same time reducing margins to the point where legitimate firms no longer remain viable.We study this tradeoff in the government's procurement of durable medical equipment.Following Medicare's switch from regulated prices to competitive bidding, we find that fraudulent firms' cost advantage allowed them to gain market share as legitimate firms exited the market.",
+      "publication_date": "2026-02-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34802",
+      "url": "https://doi.org/10.3386/w34802",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Competition (biology)",
+          "score": 0.792
+        },
+        {
+          "name": "Business",
+          "score": 0.711
+        },
+        {
+          "name": "Economic rent",
+          "score": 0.692
+        },
+        {
+          "name": "Procurement",
+          "score": 0.668
+        },
+        {
+          "name": "Point (geometry)",
+          "score": 0.584
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7128534083",
@@ -4361,7 +4503,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7127622621",
@@ -4404,7 +4546,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7127592864",
@@ -4455,7 +4597,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7126193704",
@@ -4510,7 +4652,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7126120302",
@@ -4561,7 +4703,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7125009254",
@@ -4616,7 +4758,58 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
+    },
+    {
+      "id": "W7119008759",
+      "title": "Family Spillovers of Dementia",
+      "authors": [
+        {
+          "name": "Onur Altındağ",
+          "affiliation": "Bentley University"
+        },
+        {
+          "name": "Jane Greve",
+          "affiliation": "VIVE - The Danish Center for Social Science Research"
+        },
+        {
+          "name": "Yulya Truskinovsky",
+          "affiliation": ""
+        }
+      ],
+      "abstract": "We use population-wide administrative data from Denmark and an event-study design spanning nearly two decades to examine the impact of having a parent with dementia on adult children's labor market, physical health, and mental health outcomes.We find no meaningful effects on labor supply, earnings, or physical health care use.In contrast, mental health care use increases substantially, driven by daughters, beginning five years before a parent's dementia-related death, peaking around the time of death, and converging to the counterfactual trend over seven years.Results suggest that robust long-term care policy can largely insulate adult children economically from parental dementia, but mental health spillovers persist, spurring nearly a decade of elevated use.",
+      "publication_date": "2026-01-01",
+      "source": "National Bureau of Economic Research",
+      "source_type": "working_paper",
+      "doi": "10.3386/w34635",
+      "url": "https://doi.org/10.3386/w34635",
+      "topics": [
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Counterfactual thinking",
+          "score": 0.794
+        },
+        {
+          "name": "Dementia",
+          "score": 0.745
+        },
+        {
+          "name": "Mental health",
+          "score": 0.65
+        },
+        {
+          "name": "Health care",
+          "score": 0.466
+        },
+        {
+          "name": "Psychology",
+          "score": 0.447
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7125736606",
@@ -4659,7 +4852,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W1504388888",
@@ -4706,7 +4899,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7123356187",
@@ -5276,7 +5469,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7116980467",
@@ -5324,7 +5517,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W4416952202",
@@ -5371,7 +5564,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W7117554262",
@@ -5418,7 +5611,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     },
     {
       "id": "W4417138600",
@@ -5704,15 +5897,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-15"
+      "added_date": "2026-11-16"
     }
   ],
   "meta": {
-    "last_updated": "2026-11-15T17:29:24Z",
-    "paper_count": 141,
+    "last_updated": "2026-11-16T20:44:00Z",
+    "paper_count": 146,
     "date_range": {
       "from": "2025-11-20",
-      "to": "2026-11-15"
+      "to": "2026-11-16"
     }
   }
 }
