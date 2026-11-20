@@ -10,7 +10,7 @@
         }
       ],
       "abstract": "The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Expansion to all of 340B would increase the predicted losses to $22.8 billion, cutting net revenues from the program by 32%. The majority of losses will come from administrative and staffing costs, which do not benefit manufacturers, implying a net negative effect of switching to a rebate model. Covered entity losses from the RMP will be limited by the pilot only applying to a small percentage of 340B sales as well as restrictions HRSA’s guidance places on manufacturers. If the rebate model expands to all of 340B or if the restrictions are inadequately enforced, the losses will grow substantially.",
-      "publication_date": "2026-11-19",
+      "publication_date": "2026-11-20",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -20,7 +20,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w36020",
@@ -40,7 +40,7 @@
         }
       ],
       "abstract": "Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one additional year among previously uninsured respondents relative to those insured at baseline. Instrumental-variable estimates provide no statistically significant evidence of improvements in self-rated health, depressive symptoms, or hypertension over a four-year follow-up period. These findings are robust across alternative specifications. Overall, results provide little evidence that longer insurance coverage translates into measurable short-term health improvements, while leaving open the possibility of modest or longer-term benefits.",
-      "publication_date": "2026-11-19",
+      "publication_date": "2026-11-20",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -51,7 +51,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w36031",
@@ -67,7 +67,7 @@
         }
       ],
       "abstract": "The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-3 months of higher longevity. We show that the estimated effects are robust across a wide array of specifications, are not driven by sociodemographic and socioeconomic compositional change in the final sample, and are not associated with pre-existing trends in the outcome. Further, we find larger impacts among Blacks, children of lower educated mothers, whose fathers work in the farming industry, and those born in high cotton intensity counties. Moreover, the effects appear to be substantially larger among children in states with less restrictive child labor policies, implying the role of these policies in reducing the adverse effects of child labor in the absence of the boll weevil in cotton production counties. Affected children are more likely to migrate, and their destination counties are more likely to be urban and have higher socioeconomic scores. The 1940 census suggests that the exposed children attain higher levels of education and have higher socioeconomic scores. We discuss the policy implications of these results in relation to child labor and school attendance policies in developing countries.",
-      "publication_date": "2026-11-19",
+      "publication_date": "2026-11-20",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -77,7 +77,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35990",
@@ -156,7 +156,7 @@
           "affiliation": "De Nederlandsche Bank"
         }
       ],
-      "abstract": "Abstract One of the key missions of pension funds is to maximise returns on pension investments. The pension market structure should be as efficient as possible, one key factor being the optimal pension fund size. The five largest pension funds in the Netherlands benefit from cost economies of scale; they allocate more of their assets to alternative, high-rewarding assets than smaller pension funds do, and their returns on these assets are higher. However, the returns on their fixed income and interest rate risk hedge portfolio are significantly lower to such a degree that the overall returns are fairly similar across all pension fund sizes.",
+      "abstract": "One of the key missions of pension funds is to maximise returns on pension investments. The pension market structure should be as efficient as possible, one key factor being the optimal pension fund size. The five largest pension funds in the Netherlands benefit from cost economies of scale; they allocate more of their assets to alternative, high-rewarding assets than smaller pension funds do, and their returns on these assets are higher. However, the returns on their fixed income and interest rate risk hedge portfolio are significantly lower to such a degree that the overall returns are fairly similar across all pension fund sizes.",
       "publication_date": "2026-11-06",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -188,7 +188,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35936",
@@ -379,7 +379,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7223364794",
@@ -430,7 +430,54 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
+    },
+    {
+      "id": "W7223240599",
+      "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk, and Moral Hazard",
+      "authors": [
+        {
+          "name": "Jonathan Gruber A B",
+          "affiliation": "Massachusetts Institute of Technology"
+        },
+        {
+          "name": "Adam Solomon",
+          "affiliation": "New York University"
+        }
+      ],
+      "abstract": "Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 51%, comparable to the level of subsidization before the recent reform.",
+      "publication_date": "2026-10-22",
+      "source": "The Quarterly Journal of Economics",
+      "source_type": "journal",
+      "doi": "10.1093/qje/qjag051",
+      "url": "https://doi.org/10.1093/qje/qjag051",
+      "topics": [
+        "longevity_mortality"
+      ],
+      "concepts": [
+        {
+          "name": "Subsidy",
+          "score": 0.732
+        },
+        {
+          "name": "Flood insurance",
+          "score": 0.724
+        },
+        {
+          "name": "Moral hazard",
+          "score": 0.636
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.565
+        },
+        {
+          "name": "Flood myth",
+          "score": 0.518
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7223186675",
@@ -445,7 +492,7 @@
           "affiliation": "National University of Singapore"
         }
       ],
-      "abstract": "Abstract Despite the increasing popularity of self-directed accounts within pension plans, little is known about what drives voluntary participation in such accounts. This paper examines how financial trust influences the usage of self-directed accounts in Singapore’s national pension scheme using data from the World Values Survey and instrumental variable methods. We find that financial trust drives self-investment of pension monies: A one-unit increase in trust increases the likelihood of participation by 45 percentage points, controlling for covariates. This finding remains robust when potential endogeneity and alternative empirical specifications are considered. Our findings highlight the critical role of trust in shaping retirement investment behavior and pension choices.",
+      "abstract": "Despite the increasing popularity of self-directed accounts within pension plans, little is known about what drives voluntary participation in such accounts. This paper examines how financial trust influences the usage of self-directed accounts in Singapore’s national pension scheme using data from the World Values Survey and instrumental variable methods. We find that financial trust drives self-investment of pension monies: A one-unit increase in trust increases the likelihood of participation by 45 percentage points, controlling for covariates. This finding remains robust when potential endogeneity and alternative empirical specifications are considered. Our findings highlight the critical role of trust in shaping retirement investment behavior and pension choices.",
       "publication_date": "2026-10-22",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -477,54 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
-    },
-    {
-      "id": "W7223240599",
-      "title": "Optimal Flood Insurance in a Second-Best World: Fiscal Spillovers, Reclassification Risk, and Moral Hazard",
-      "authors": [
-        {
-          "name": "Jonathan Gruber A B",
-          "affiliation": "Massachusetts Institute of Technology"
-        },
-        {
-          "name": "Adam Solomon",
-          "affiliation": "New York University"
-        }
-      ],
-      "abstract": "Abstract Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 51%, comparable to the level of subsidization before the recent reform.",
-      "publication_date": "2026-10-20",
-      "source": "The Quarterly Journal of Economics",
-      "source_type": "journal",
-      "doi": "10.1093/qje/qjag051",
-      "url": "https://doi.org/10.1093/qje/qjag051",
-      "topics": [
-        "longevity_mortality"
-      ],
-      "concepts": [
-        {
-          "name": "Subsidy",
-          "score": 0.732
-        },
-        {
-          "name": "Flood insurance",
-          "score": 0.724
-        },
-        {
-          "name": "Moral hazard",
-          "score": 0.636
-        },
-        {
-          "name": "Actuarial science",
-          "score": 0.565
-        },
-        {
-          "name": "Flood myth",
-          "score": 0.518
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35876",
@@ -696,7 +696,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35791",
@@ -763,7 +763,7 @@
           "affiliation": "Wuhan University"
         }
       ],
-      "abstract": "Abstract We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
+      "abstract": "We study the impact of economic policy uncertainty (EPU) on public pension spending (PPS) in Japan from 1997 to 2024, employing the autoregressive distributed lag (ARDL) approach alongside kernel-based regularized least squares (KRLS), a machine learning method that does not require a predefined functional form. The results show that higher EPU is negatively associated with PPS in the long run, while short-run estimates indicate a significant positive association. The KRLS results show a somewhat larger negative association compared to the ARDL model, and estimates across EPU quantiles indicate that the negative association varies across the EPU distribution. Heterogeneity analysis further shows that the negative association differs between the pre- and post-Abenomics periods and strengthens during major global shocks, particularly the 2008 global financial crisis and the COVID-19 pandemic. Based on these findings, we discuss the policy implications and identify directions for future research.",
       "publication_date": "2026-09-28",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -796,7 +796,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7112995595",
@@ -845,7 +845,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7214584790",
@@ -896,7 +896,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35771",
@@ -1063,7 +1063,7 @@
           "affiliation": "Milliman (United States)"
         }
       ],
-      "abstract": "Abstract The welfare impact of allowing flexible payouts in a tontine is investigated. This is achieved by simulating an open tontine with consistent membership numbers. Certainty equivalent payouts are used to measure welfare loss compared to an equivalent actuarially fair annuity. In the base scenario with no flexible payouts or adverse selection, welfare loss is 0.56 per cent compared to the equivalent annuity, of which more than 80 per cent is due to systematic mortality uncertainty and less than 20 per cent is due to idiosyncratic mortality uncertainty. Where biased (adverse selection) flexible payments are present, additional welfare loss is also present. However, with appropriate constraints on flexible payout structures, the average welfare loss is smaller than the loading applied to an equivalent annuity. This investigation is presented in an administratively feasible structure, and hence the key findings of this paper can be broadly applied by product providers keen to innovate.",
+      "abstract": "The welfare impact of allowing flexible payouts in a tontine is investigated. This is achieved by simulating an open tontine with consistent membership numbers. Certainty equivalent payouts are used to measure welfare loss compared to an equivalent actuarially fair annuity. In the base scenario with no flexible payouts or adverse selection, welfare loss is 0.56 per cent compared to the equivalent annuity, of which more than 80 per cent is due to systematic mortality uncertainty and less than 20 per cent is due to idiosyncratic mortality uncertainty. Where biased (adverse selection) flexible payments are present, additional welfare loss is also present. However, with appropriate constraints on flexible payout structures, the average welfare loss is smaller than the loading applied to an equivalent annuity. This investigation is presented in an administratively feasible structure, and hence the key findings of this paper can be broadly applied by product providers keen to innovate.",
       "publication_date": "2026-09-17",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -1096,7 +1096,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7213456135",
@@ -1111,7 +1111,7 @@
           "affiliation": "Clemson University"
         }
       ],
-      "abstract": "Abstract How does health affect retirement expectations? We revisit this question using updated data from the Health and Retirement Study and an event study framework to estimate the causal effects of various health shocks on the self-assessed probabilities of working past older ages. Importantly, recent waves of survey data contain information on expectations for current workers and non-workers, which avoids sample selection issues encountered by previous studies. We find that declines in subjective health status and new diagnoses of objective health conditions decrease the probabilities of working past 62 and 65. Our findings highlight how poor health can cause people to expect to retire before becoming eligible for Social Security and Medicare benefits.",
+      "abstract": "How does health affect retirement expectations? We revisit this question using updated data from the Health and Retirement Study and an event study framework to estimate the causal effects of various health shocks on the self-assessed probabilities of working past older ages. Importantly, recent waves of survey data contain information on expectations for current workers and non-workers, which avoids sample selection issues encountered by previous studies. We find that declines in subjective health status and new diagnoses of objective health conditions decrease the probabilities of working past 62 and 65. Our findings highlight how poor health can cause people to expect to retire before becoming eligible for Social Security and Medicare benefits.",
       "publication_date": "2026-09-17",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -1144,7 +1144,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35693",
@@ -1206,7 +1206,7 @@
           "affiliation": "Rice University"
         }
       ],
-      "abstract": "Abstract I propose a model of insurance demand where non-monetary attributes determine which plans an individual considers, and monetary attributes determine an individual's expected utility. This approach reconciles the classic view of insurance as purely financial with the empirical finding that choice is driven by additional attributes. I estimate the model using Medicare Part D data, allowing for unobserved heterogeneity in consideration and preferences. I find the former plays a crucial role: more than 90% of individuals consider 5 or fewer plans, approximately lO°lo of the menu. Additionally, estimates of risk preferences are comparable to existing studies of similar stakes.",
+      "abstract": "I propose a model of insurance demand where non-monetary attributes determine which plans an individual considers, and monetary attributes determine an individual's expected utility. This approach reconciles the classic view of insurance as purely financial with the empirical finding that choice is driven by additional attributes. I estimate the model using Medicare Part D data, allowing for unobserved heterogeneity in consideration and preferences. I find the former plays a crucial role: more than 90% of individuals consider 5 or fewer plans, approximately lO°lo of the menu. Additionally, estimates of risk preferences are comparable to existing studies of similar stakes.",
       "publication_date": "2026-09-08",
       "source": "The Review of Economics and Statistics",
       "source_type": "journal",
@@ -1238,7 +1238,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35664",
@@ -1354,7 +1354,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35600",
@@ -1523,7 +1523,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35574",
@@ -1694,7 +1694,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7171724687",
@@ -1713,7 +1713,7 @@
           "affiliation": "University of Tartu"
         }
       ],
-      "abstract": "Abstract Both insufficient saving and early withdrawal of retirement savings jeopardize financial well-being in old age, but the latter is rarely studied. We examined which individual differences relate to both regular saving and early withdrawal decisions. These decisions are economically similar (accumulating retirement assets) but psychologically different (incurring regular small losses vs. abstaining from a one-off large gain). We analyzed three representative surveys conducted in Estonia in 2020, 2021, and 2022, surrounding a policy reform that introduced an early withdrawal option to a previously mandatory pension saving scheme. Limited trust in financial institutions and non-Estonian nationality emerged as statistically and economically significant factors associated with the pair of decisions both not to save and to withdraw early. Fostering institutional trust represents a key strategic goal for pension systems. Our findings also call for caution with pension freedom reforms, which may put those who already save too little in double jeopardy.",
+      "abstract": "Both insufficient saving and early withdrawal of retirement savings jeopardize financial well-being in old age, but the latter is rarely studied. We examined which individual differences relate to both regular saving and early withdrawal decisions. These decisions are economically similar (accumulating retirement assets) but psychologically different (incurring regular small losses vs. abstaining from a one-off large gain). We analyzed three representative surveys conducted in Estonia in 2020, 2021, and 2022, surrounding a policy reform that introduced an early withdrawal option to a previously mandatory pension saving scheme. Limited trust in financial institutions and non-Estonian nationality emerged as statistically and economically significant factors associated with the pair of decisions both not to save and to withdraw early. Fostering institutional trust represents a key strategic goal for pension systems. Our findings also call for caution with pension freedom reforms, which may put those who already save too little in double jeopardy.",
       "publication_date": "2026-07-29",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -1746,7 +1746,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35441",
@@ -2003,7 +2003,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35430",
@@ -2317,7 +2317,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7168249942",
@@ -2328,7 +2328,7 @@
           "affiliation": "Pepperdine University"
         }
       ],
-      "abstract": "Abstract We evaluated the ICanRetire-Hispanic Segment Experience, which was a culturally tailored digital program to improve retirement preparedness. Using a randomized controlled trial and Complier Average Causal Effect framework, we evaluate the program’s impact among a sample of Hispanic and White workers. We find that our program had robust positive effect on engagement with printed retirement materials for Hispanic participants. Our program had a positive treatment effect on retirement saving among Hispanics aged 50 and older. We do not find differences on the impact of our program among Hispanics with different levels of income, financial literacy, and retirement knowledge.",
+      "abstract": "We evaluated the ICanRetire-Hispanic Segment Experience, which was a culturally tailored digital program to improve retirement preparedness. Using a randomized controlled trial and Complier Average Causal Effect framework, we evaluate the program’s impact among a sample of Hispanic and White workers. We find that our program had robust positive effect on engagement with printed retirement materials for Hispanic participants. Our program had a positive treatment effect on retirement saving among Hispanics aged 50 and older. We do not find differences on the impact of our program among Hispanics with different levels of income, financial literacy, and retirement knowledge.",
       "publication_date": "2026-07-14",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -2360,7 +2360,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7168162437",
@@ -2383,7 +2383,7 @@
           "affiliation": "Tilburg University"
         }
       ],
-      "abstract": "Abstract This paper investigates how much time people spend on retirement planning information available on the online portal of the largest pension fund for government and education sector employees in the Netherlands. The portal records the time participants devote to reviewing their retirement information on a daily basis and at the individual level. This dataset offers a fine-grained view of pension information use across all age groups. On average, participants spent only 833 seconds (about 14 minutes) in the portal during a 13-month observation period – highlighting that they make little use of it overall. When participants do devote significantly more time, it is only when concrete retirement options become available. We exploit a 2019 reform of the statutory retirement age in a Tobit regression discontinuity design to show, causally, that greater clarity about retirement timing substantially increases the time participants spend in the portal.",
+      "abstract": "This paper investigates how much time people spend on retirement planning information available on the online portal of the largest pension fund for government and education sector employees in the Netherlands. The portal records the time participants devote to reviewing their retirement information on a daily basis and at the individual level. This dataset offers a fine-grained view of pension information use across all age groups. On average, participants spent only 833 seconds (about 14 minutes) in the portal during a 13-month observation period – highlighting that they make little use of it overall. When participants do devote significantly more time, it is only when concrete retirement options become available. We exploit a 2019 reform of the statutory retirement age in a Tobit regression discontinuity design to show, causally, that greater clarity about retirement timing substantially increases the time participants spend in the portal.",
       "publication_date": "2026-07-13",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -2416,7 +2416,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35396",
@@ -2478,6 +2478,57 @@
       "concepts": [],
       "matched_by": "nber_rss",
       "added_date": "2026-07-05"
+    },
+    {
+      "id": "W4392730713",
+      "title": "Information Transmission in Groups: Peer Influence in High-Stakes, Irreversible Financial Decisions",
+      "authors": [
+        {
+          "name": "Tom Ahn",
+          "affiliation": "Naval Postgraduate School"
+        },
+        {
+          "name": "Jesse M. Cunha",
+          "affiliation": "Naval Postgraduate School"
+        },
+        {
+          "name": "Patrick Veith",
+          "affiliation": "United States Navy"
+        }
+      ],
+      "abstract": "We study the influence of workplace peers on a high-stakes, irreversible retirement plan choice. Midcareer U.S. military personnel choose between higher future pension payouts or an immediate bonus plus lower future payouts. With peers defined as those who have locked in their choices and personnel assignment rules ensuring that peer groups are exogenously formed, we capture the causal impact of peers. Greater peer take-up of the bonus, which is difficult to compare to the alternative plan but often extremely costly over one’s lifetime, discourages choosers from selecting the bonus. Peers have special impact within professional, race, and gender groups.",
+      "publication_date": "2026-07-01",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest_a_01426",
+      "url": "https://doi.org/10.1162/rest_a_01426",
+      "topics": [
+        "private_pensions"
+      ],
+      "concepts": [
+        {
+          "name": "Information transmission",
+          "score": 0.579
+        },
+        {
+          "name": "Transmission (telecommunications)",
+          "score": 0.503
+        },
+        {
+          "name": "Business",
+          "score": 0.487
+        },
+        {
+          "name": "Peer group",
+          "score": 0.424
+        },
+        {
+          "name": "Economics",
+          "score": 0.401
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7172277234",
@@ -2628,7 +2679,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7165660871",
@@ -2643,7 +2694,7 @@
           "affiliation": "Yonsei University"
         }
       ],
-      "abstract": "Abstract The Korean National Pension Fund is projected to be depleted within thirty years. This paper examines whether short-term economic fluctuations affect fund projections and whether raising the target return can delay fund depletion. Using Vector Auto-Regression analysis, we find that contributions and returns are highly responsive to short-run fluctuations. However, business cycle volatility has a limited effect on fund forecasts. Our simulations suggest that increasing expected returns by taking on more risk can help delay depletion, even when accounting for increased volatility.",
+      "abstract": "The Korean National Pension Fund is projected to be depleted within thirty years. This paper examines whether short-term economic fluctuations affect fund projections and whether raising the target return can delay fund depletion. Using Vector Auto-Regression analysis, we find that contributions and returns are highly responsive to short-run fluctuations. However, business cycle volatility has a limited effect on fund forecasts. Our simulations suggest that increasing expected returns by taking on more risk can help delay depletion, even when accounting for increased volatility.",
       "publication_date": "2026-06-23",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -2675,7 +2726,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35323",
@@ -2850,7 +2901,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35280",
@@ -2965,7 +3016,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W4407850825",
@@ -3105,7 +3156,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7162023839",
@@ -3156,7 +3207,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35173",
@@ -3240,7 +3291,7 @@
           "affiliation": "Centre for European Economic Research"
         }
       ],
-      "abstract": "Abstract In 2001, Germany abolished public occupational disability insurance (ODI)—the second tier of its public DI system—for cohorts born after 1960. Using administrative data, we first document that, in the long run, overall DI inflows declined by roughly one-third. Second, using representative survey data, we document at best modest ODI insurance take-up responses in the private individual, risk-rated market, which lacks guaranteed issue. Third, an equilibrium model incorporating interactions between the public safety net, the first-tier public DI, and the private market reveals that coverage denials and weak insurance demand, driven by complementary social insurance, can explain the modest private ODI take-up response. Coverage gradients by income and health are thus substantial. Finally, counterfactual simulations highlight the limited scope of incremental reforms.",
+      "abstract": "In 2001, Germany abolished public occupational disability insurance (ODI)—the second tier of its public DI system—for cohorts born after 1960. Using administrative data, we first document that, in the long run, overall DI inflows declined by roughly one-third. Second, using representative survey data, we document at best modest ODI insurance take-up responses in the private individual, risk-rated market, which lacks guaranteed issue. Third, an equilibrium model incorporating interactions between the public safety net, the first-tier public DI, and the private market reveals that coverage denials and weak insurance demand, driven by complementary social insurance, can explain the modest private ODI take-up response. Coverage gradients by income and health are thus substantial. Finally, counterfactual simulations highlight the limited scope of incremental reforms.",
       "publication_date": "2026-05-14",
       "source": "The Review of Economics and Statistics",
       "source_type": "journal",
@@ -3272,7 +3323,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35145",
@@ -3519,7 +3570,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7160076895",
@@ -3567,7 +3618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7160064659",
@@ -3619,7 +3670,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7160037262",
@@ -3634,7 +3685,7 @@
           "affiliation": "University of Kerala"
         }
       ],
-      "abstract": "Abstract This paper examines how choice architecture shapes retirement planning decisions in India’s National Pension System (NPS) — “All Citizens Model”. The study investigates whether enrolment decisions are driven by rational economic calculations or by the system’s behavioural design. Using a qualitative approach, in-depth interviews with 15 NPS subscribers were analysed through reflexive thematic analysis via MAXQDA software. Tax incentives emerged as the dominant enrolment factor, followed by government backing, peer influence, expert management, simplified registration, and protected returns. NPS structural features operating through financial utility and trust-building mechanisms exert the strongest influence on participation. The findings confirm the effectiveness of socially oriented, expertise-based, and risk-calibrated approaches grounded in prospect theory and bounded rationality. Policymakers should integrate behavioural insights alongside traditional economic incentives in pension scheme design. This study contributes to behavioural pension economics by empirically evaluating retirement choice architecture within a major emerging market context.",
+      "abstract": "This paper examines how choice architecture shapes retirement planning decisions in India’s National Pension System (NPS) — “All Citizens Model”. The study investigates whether enrolment decisions are driven by rational economic calculations or by the system’s behavioural design. Using a qualitative approach, in-depth interviews with 15 NPS subscribers were analysed through reflexive thematic analysis via MAXQDA software. Tax incentives emerged as the dominant enrolment factor, followed by government backing, peer influence, expert management, simplified registration, and protected returns. NPS structural features operating through financial utility and trust-building mechanisms exert the strongest influence on participation. The findings confirm the effectiveness of socially oriented, expertise-based, and risk-calibrated approaches grounded in prospect theory and bounded rationality. Policymakers should integrate behavioural insights alongside traditional economic incentives in pension scheme design. This study contributes to behavioural pension economics by empirically evaluating retirement choice architecture within a major emerging market context.",
       "publication_date": "2026-04-30",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -3666,7 +3717,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7160040194",
@@ -3725,7 +3776,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w35082",
@@ -3957,7 +4008,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7140275549",
@@ -4000,7 +4051,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "nber_w34966",
@@ -4143,7 +4194,51 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
+    },
+    {
+      "id": "W4389472826",
+      "title": "Imperfect Private Information in Insurance Markets",
+      "authors": [
+        {
+          "name": "Adam Solomon",
+          "affiliation": "Massachusetts Institute of Technology"
+        }
+      ],
+      "abstract": "This paper studies imperfectly perceived private information in insurance markets when contracts endogenously respond. Equilibrium contracts, pooling, and welfare depend on the joint distribution of risk and misperception. In the Health and Retirement Study (HRS), I show that misperceptions typically covary with (medical, long-term care, disability, and mortality) risk type: high types underperceive their risk and low types overperceive. I develop a general model and algorithm to estimate the equilibrium contracts, pooling, and welfare impact of misperceptions that is applicable in many settings. I offer suggestive evidence from U.S. annuity markets that contracts are distorted due to misperceptions, with welfare likely increasing.",
+      "publication_date": "2026-02-27",
+      "source": "The Review of Economics and Statistics",
+      "source_type": "journal",
+      "doi": "10.1162/rest_a_01403",
+      "url": "https://doi.org/10.1162/rest_a_01403",
+      "topics": [
+        "insurance_markets",
+        "health_retirement"
+      ],
+      "concepts": [
+        {
+          "name": "Pooling",
+          "score": 0.878
+        },
+        {
+          "name": "Private information retrieval",
+          "score": 0.749
+        },
+        {
+          "name": "Welfare",
+          "score": 0.696
+        },
+        {
+          "name": "Imperfect",
+          "score": 0.654
+        },
+        {
+          "name": "Actuarial science",
+          "score": 0.614
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7131390878",
@@ -4191,7 +4286,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7130643125",
@@ -4242,7 +4337,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7165682263",
@@ -4281,7 +4376,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7127647932",
@@ -4304,7 +4399,7 @@
           "affiliation": ""
         }
       ],
-      "abstract": "Abstract Many social insurance programs have low take-up, but it is unclear whether this is due to administrative barriers, information, or low insurance valuations. We study a Thai policy that offered large incentives for informal workers in selected provinces to enroll. The incentives increased insurance coverage by 67 percentage points- from 6 percent of informal workers to 73 percent- within two months. However, 12 months later, only 13 percent remained insured. Using choices among insurance tiers to back out revealed valuations, we find that low social insurance enrollment may be due to low ex-ante valuations of insurance, rather than administrative barriers.",
+      "abstract": "Many social insurance programs have low take-up, but it is unclear whether this is due to administrative barriers, information, or low insurance valuations. We study a Thai policy that offered large incentives for informal workers in selected provinces to enroll. The incentives increased insurance coverage by 67 percentage points- from 6 percent of informal workers to 73 percent- within two months. However, 12 months later, only 13 percent remained insured. Using choices among insurance tiers to back out revealed valuations, we find that low social insurance enrollment may be due to low ex-ante valuations of insurance, rather than administrative barriers.",
       "publication_date": "2026-02-04",
       "source": "The Review of Economics and Statistics",
       "source_type": "journal",
@@ -4336,7 +4431,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7127639882",
@@ -4355,7 +4450,7 @@
           "affiliation": "National Bureau of Economic Research"
         }
       ],
-      "abstract": "Abstract Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
+      "abstract": "Social Security Disability Insurance (DI) awards rise in recessions, especially for workers over age 50. We use Medicare data to investigate how health, entry costs, and age-based DI eligibility rules shape this pattern. Entrants induced by recessions have lower medical spending and mortality than typical recipients. Entry responses to unemployment jump two- to fourfold at ages 50 and 55, when eligibility rules relax. Using these age-based discontinuities as instruments, we find no shift in marginal entrants' health across unemployment levels. These findings show that DI's age-based eligibility rules are a primary driver of cyclical entry, while health shocks are not.",
       "publication_date": "2026-02-04",
       "source": "The Review of Economics and Statistics",
       "source_type": "journal",
@@ -4389,7 +4484,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7128549714",
@@ -4452,7 +4547,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7127622621",
@@ -4495,7 +4590,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7127592864",
@@ -4546,7 +4641,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7128534083",
@@ -4652,7 +4747,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7126120302",
@@ -4703,7 +4798,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7125009254",
@@ -4726,7 +4821,7 @@
           "affiliation": "University of Zurich"
         }
       ],
-      "abstract": "Abstract Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7%. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.",
+      "abstract": "Does information about the long-run financial costs of reduced labor supply increase mothers’ working hours? We document descriptively that long-term financial factors are not top of mind when mothers decide on their employment level. Moreover, a substantial share of women holds overly optimistic expectations about pension receipt and wage growth under part-time work. In a large-scale field experiment in Switzerland, we randomly assign mothers working part-time as teachers to receive objective information about the long-run costs of reduced labor supply. The treatment increases both demand for financial information and future labor supply plans, in particular among women who underestimate the costs of part-time work. Leveraging linked employer administrative data one year post-intervention, we find that this group of mothers increases working hours by 7%. These findings underscore that policies reducing information frictions in labor supply decisions may help address remaining gender gaps in the labor market.",
       "publication_date": "2026-01-20",
       "source": "The Quarterly Journal of Economics",
       "source_type": "journal",
@@ -4758,7 +4853,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7119008759",
@@ -4809,7 +4904,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7125736606",
@@ -4852,7 +4947,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W1504388888",
@@ -5469,7 +5564,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7116980467",
@@ -5484,7 +5579,7 @@
           "affiliation": ""
         }
       ],
-      "abstract": "Abstract This paper contributes to the literature on augmented wealth (the sum of public pension entitlements and net wealth) along three dimensions. First, it provides new country-specific estimates of augmented wealth for Austria in the year 2017 by combining data from the HFCS (Household Finance and Consumption Survey) and the social security registry. Second, it shows that the main results, which are based on statistical matching, are surprisingly similar to estimates that utilize direct survey responses or information on work history. This finding suggests that international comparisons might be possible even if the results are based on different methodologies. Third, the paper also contrasts the size and distribution of augmented wealth for Austria with comparable estimates for other countries. The household averages of the present value of pension entitlements and of private net wealth turn out to be similar (both amounting to around € 250,000), which is in line with the results for other countries like Switzerland, Germany, and the US. Also, the reduction in the Gini coefficient due to the inclusion of pension entitlements (a decrease from 0.73 to 0.53) is similar for Austria in comparison to other countries.",
+      "abstract": "This paper contributes to the literature on augmented wealth (the sum of public pension entitlements and net wealth) along three dimensions. First, it provides new country-specific estimates of augmented wealth for Austria in the year 2017 by combining data from the HFCS (Household Finance and Consumption Survey) and the social security registry. Second, it shows that the main results, which are based on statistical matching, are surprisingly similar to estimates that utilize direct survey responses or information on work history. This finding suggests that international comparisons might be possible even if the results are based on different methodologies. Third, the paper also contrasts the size and distribution of augmented wealth for Austria with comparable estimates for other countries. The household averages of the present value of pension entitlements and of private net wealth turn out to be similar (both amounting to around € 250,000), which is in line with the results for other countries like Switzerland, Germany, and the US. Also, the reduction in the Gini coefficient due to the inclusion of pension entitlements (a decrease from 0.73 to 0.53) is similar for Austria in comparison to other countries.",
       "publication_date": "2025-12-23",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -5517,7 +5612,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W4416952202",
@@ -5532,7 +5627,7 @@
           "affiliation": "UCLouvain"
         }
       ],
-      "abstract": "Abstract Many countries have implemented a variety of pension reforms in response to the challenges posed by an aging population. These reforms typically involve a trade-off between ‘refinancing’ (i.e., increasing contributions) and ‘retrenchment’ (i.e., reducing benefits). The primary question addressed in this study is whether policymakers in the European Union (EU) possess the necessary capacity to sustain legislated pension reforms, particularly given the growing political influence of the elderly. To examine this issue, we develop a bargaining model designed to optimally allocate the economic burden of aging between successive cohorts of workers and retirees, incorporating retirement incentives. In a scenario where bargaining power remains constant, the optimal allocation rule dictates a fixed-contribution system, effectively shifting the full burden of aging onto the elderly. However, when bargaining power is allowed to fluctuate in response to changes in the relative size of the retiree population (i.e., the dependency rate), the optimal allocation rule involves a compromise between increasing contributions and reducing benefits. In the empirical analysis, we compare these theoretical optimal allocation rules with projections of pension benefit rates and dependency ratios from the 2021 Economic Policy Committee. By calculating the implicit bargaining power required to align projected pension benefits with the optimal sharing rule for each year, we demonstrate a growing divergence between projected pension benefits and the optimal levels in many EU countries, as demographic shifts progress. Furthermore, our findings indicate that for most countries, projected pension benefits are increasingly falling below optimal levels when bargaining power adjusts in accordance with population aging.",
+      "abstract": "Many countries have implemented a variety of pension reforms in response to the challenges posed by an aging population. These reforms typically involve a trade-off between ‘refinancing’ (i.e., increasing contributions) and ‘retrenchment’ (i.e., reducing benefits). The primary question addressed in this study is whether policymakers in the European Union (EU) possess the necessary capacity to sustain legislated pension reforms, particularly given the growing political influence of the elderly. To examine this issue, we develop a bargaining model designed to optimally allocate the economic burden of aging between successive cohorts of workers and retirees, incorporating retirement incentives. In a scenario where bargaining power remains constant, the optimal allocation rule dictates a fixed-contribution system, effectively shifting the full burden of aging onto the elderly. However, when bargaining power is allowed to fluctuate in response to changes in the relative size of the retiree population (i.e., the dependency rate), the optimal allocation rule involves a compromise between increasing contributions and reducing benefits. In the empirical analysis, we compare these theoretical optimal allocation rules with projections of pension benefit rates and dependency ratios from the 2021 Economic Policy Committee. By calculating the implicit bargaining power required to align projected pension benefits with the optimal sharing rule for each year, we demonstrate a growing divergence between projected pension benefits and the optimal levels in many EU countries, as demographic shifts progress. Furthermore, our findings indicate that for most countries, projected pension benefits are increasingly falling below optimal levels when bargaining power adjusts in accordance with population aging.",
       "publication_date": "2025-12-03",
       "source": "Journal of Pensions Economics and Finance",
       "source_type": "journal",
@@ -5564,7 +5659,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7117554262",
@@ -5611,7 +5706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W4417344502",
@@ -5658,7 +5753,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W4417138600",
@@ -5722,7 +5817,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     },
     {
       "id": "W7108223278",
@@ -5944,15 +6039,15 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-19"
+      "added_date": "2026-11-20"
     }
   ],
   "meta": {
-    "last_updated": "2026-11-19T19:14:39Z",
-    "paper_count": 147,
+    "last_updated": "2026-11-20T18:54:11Z",
+    "paper_count": 149,
     "date_range": {
       "from": "2025-11-20",
-      "to": "2026-11-19"
+      "to": "2026-11-20"
     }
   }
 }
