@@ -10,7 +10,7 @@
         }
       ],
       "abstract": "The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Expansion to all of 340B would increase the predicted losses to $22.8 billion, cutting net revenues from the program by 32%. The majority of losses will come from administrative and staffing costs, which do not benefit manufacturers, implying a net negative effect of switching to a rebate model. Covered entity losses from the RMP will be limited by the pilot only applying to a small percentage of 340B sales as well as restrictions HRSA’s guidance places on manufacturers. If the rebate model expands to all of 340B or if the restrictions are inadequately enforced, the losses will grow substantially.",
-      "publication_date": "2026-11-20",
+      "publication_date": "2026-11-21",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -20,7 +20,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w36020",
@@ -40,7 +40,7 @@
         }
       ],
       "abstract": "Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one additional year among previously uninsured respondents relative to those insured at baseline. Instrumental-variable estimates provide no statistically significant evidence of improvements in self-rated health, depressive symptoms, or hypertension over a four-year follow-up period. These findings are robust across alternative specifications. Overall, results provide little evidence that longer insurance coverage translates into measurable short-term health improvements, while leaving open the possibility of modest or longer-term benefits.",
-      "publication_date": "2026-11-20",
+      "publication_date": "2026-11-21",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -51,7 +51,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w36031",
@@ -67,7 +67,7 @@
         }
       ],
       "abstract": "The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-3 months of higher longevity. We show that the estimated effects are robust across a wide array of specifications, are not driven by sociodemographic and socioeconomic compositional change in the final sample, and are not associated with pre-existing trends in the outcome. Further, we find larger impacts among Blacks, children of lower educated mothers, whose fathers work in the farming industry, and those born in high cotton intensity counties. Moreover, the effects appear to be substantially larger among children in states with less restrictive child labor policies, implying the role of these policies in reducing the adverse effects of child labor in the absence of the boll weevil in cotton production counties. Affected children are more likely to migrate, and their destination counties are more likely to be urban and have higher socioeconomic scores. The 1940 census suggests that the exposed children attain higher levels of education and have higher socioeconomic scores. We discuss the policy implications of these results in relation to child labor and school attendance policies in developing countries.",
-      "publication_date": "2026-11-20",
+      "publication_date": "2026-11-21",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -77,7 +77,54 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
+    },
+    {
+      "id": "W4401998537",
+      "title": "The life-cycle dynamics of wealth mobility",
+      "authors": [
+        {
+          "name": "Richard Audoly",
+          "affiliation": "Federal Reserve"
+        },
+        {
+          "name": "Rory McGee",
+          "affiliation": "Western University"
+        },
+        {
+          "name": "Sergio Ocampo-Diaz",
+          "affiliation": "Western University"
+        },
+        {
+          "name": "Gonzalo Paz-Pardo",
+          "affiliation": "European Central Bank"
+        }
+      ],
+      "abstract": "We use 25 years of tax records for the Norwegian population to study the mobility of wealth over people’s lifetimes. We find considerable wealth mobility over the life cycle. To understand the underlying mobility patterns, we group individuals with similar wealth rank histories using agglomerative hierarchical clustering, a tool from statistical learning. The mobility patterns we elicit provide evidence of segmented mobility. Over 60 percent of the population remains at the top or bottom of the wealth distribution throughout their lives. Mobility is driven by the remaining 40 percent, who move only within the middle of the distribution. Movements are tied to differential income trajectories and business activities across groups. We show parental wealth is the key predictor of who is persistently rich or poor, while human capital is the main predictor of those who rise and fall through the middle of the distribution.",
+      "publication_date": "2026-11-20",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105828",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105828",
+      "topics": [
+        "consumption_savings"
+      ],
+      "concepts": [
+        {
+          "name": "Dynamics (music)",
+          "score": 0.606
+        },
+        {
+          "name": "Economics",
+          "score": 0.36
+        },
+        {
+          "name": "Economic geography",
+          "score": 0.336
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35990",
@@ -188,7 +235,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35936",
@@ -379,7 +426,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7223364794",
@@ -430,7 +477,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7223240599",
@@ -477,7 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7223186675",
@@ -524,7 +571,50 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
+    },
+    {
+      "id": "W7223120056",
+      "title": "Will markets provide humane jobs?",
+      "authors": [
+        {
+          "name": "Arash Nekoei",
+          "affiliation": "Stockholm University"
+        }
+      ],
+      "abstract": "Legislation regulates the key amenities of our jobs—paid sick leave and holidays, working hours, safe working conditions, and workers’ compensation—and social movements have been essential to their adoption. Why do laws, rather than markets, secure these amenities? This paper studies one answer: adverse selection on productivity. When workers who value an amenity more are, on average, less productive, employers offering it attract a lower-productivity workforce. The resulting compensating wage differential exceeds the direct cost, leading to underprovision—even when the amenity is costless. I formalize this mechanism using a new notion of stochastic dependence, the correlation in expectation , which captures the severity of adverse selection. In a competitive screening equilibrium with heterogeneous jobs, underprovision intensifies with the strength of this correlation and, in extreme cases, the market unravels entirely. A universal mandate is optimal when the correlation is strong; when it is moderate, policies leveraging observable heterogeneity—such as flexibility rights for parents—outperform both the mandate and laissez-faire. The paper contrasts this productivity-based selection with the traditional cost-based selection studied in prior work and discusses the distinct empirical tests each implies.",
+      "publication_date": "2026-10-21",
+      "source": "Journal of Public Economics",
+      "source_type": "journal",
+      "doi": "10.1016/j.jpubeco.2026.105737",
+      "url": "https://doi.org/10.1016/j.jpubeco.2026.105737",
+      "topics": [
+        "social_insurance"
+      ],
+      "concepts": [
+        {
+          "name": "Mandate",
+          "score": 0.738
+        },
+        {
+          "name": "Economics",
+          "score": 0.656
+        },
+        {
+          "name": "Adverse selection",
+          "score": 0.582
+        },
+        {
+          "name": "Flexibility (engineering)",
+          "score": 0.578
+        },
+        {
+          "name": "Wage",
+          "score": 0.494
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35876",
@@ -696,7 +786,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35791",
@@ -796,7 +886,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7112995595",
@@ -845,7 +935,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7214584790",
@@ -896,7 +986,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35771",
@@ -1096,7 +1186,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7213456135",
@@ -1144,7 +1234,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35693",
@@ -1238,7 +1328,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35664",
@@ -1354,7 +1444,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35600",
@@ -1523,7 +1613,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35574",
@@ -1694,7 +1784,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7171724687",
@@ -1746,7 +1836,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35441",
@@ -2003,7 +2093,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35430",
@@ -2317,7 +2407,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7168249942",
@@ -2360,7 +2450,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7168162437",
@@ -2416,7 +2506,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35396",
@@ -2528,7 +2618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7172277234",
@@ -2679,7 +2769,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7165660871",
@@ -2726,7 +2816,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35323",
@@ -2901,7 +2991,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35280",
@@ -3016,7 +3106,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W4407850825",
@@ -3156,7 +3246,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7162023839",
@@ -3207,7 +3297,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35173",
@@ -3323,7 +3413,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35145",
@@ -3570,7 +3660,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7160076895",
@@ -3618,7 +3708,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7160064659",
@@ -3670,7 +3760,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7160037262",
@@ -3717,7 +3807,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7160040194",
@@ -3776,7 +3866,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w35082",
@@ -4008,7 +4098,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7140275549",
@@ -4051,7 +4141,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "nber_w34966",
@@ -4194,7 +4284,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W4389472826",
@@ -4238,7 +4328,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7131390878",
@@ -4286,7 +4376,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7130643125",
@@ -4337,7 +4427,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7165682263",
@@ -4376,7 +4466,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7127647932",
@@ -4431,7 +4521,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7127639882",
@@ -4484,7 +4574,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7128549714",
@@ -4547,7 +4637,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7127622621",
@@ -4590,7 +4680,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7127592864",
@@ -4641,7 +4731,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7128534083",
@@ -4747,7 +4837,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7126120302",
@@ -4798,7 +4888,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7125009254",
@@ -4853,7 +4943,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7119008759",
@@ -4904,7 +4994,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7125736606",
@@ -4947,7 +5037,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W1504388888",
@@ -5564,7 +5654,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7116980467",
@@ -5612,7 +5702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W4416952202",
@@ -5659,7 +5749,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W7117554262",
@@ -5706,7 +5796,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W4417344502",
@@ -5753,7 +5843,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-20"
+      "added_date": "2026-11-21"
     },
     {
       "id": "W4417138600",
@@ -5985,69 +6075,14 @@
       ],
       "matched_by": "keyword",
       "added_date": "2026-11-06"
-    },
-    {
-      "id": "W4416431798",
-      "title": "Regulating quasi-legal markets: Evidence from pain management clinic laws",
-      "authors": [
-        {
-          "name": "Yuji Mizushima",
-          "affiliation": "RAND Corporation"
-        },
-        {
-          "name": "David Powell",
-          "affiliation": "University of Pennsylvania"
-        },
-        {
-          "name": "Rahi Abouk",
-          "affiliation": "William Paterson University"
-        },
-        {
-          "name": "Cheryl L. Damberg",
-          "affiliation": "RAND Corporation"
-        }
-      ],
-      "abstract": "The opioid crisis has often been fueled by its simultaneous interaction with both medical and illicit markets, including \"pill mills\" that distribute legal substances in inappropriate and quasi-legal ways. Pain management clinic laws (PMCLs) aim to address this property by enforcing stricter regulatory licensing requirements and regulatory oversight on opioid prescribing establishments. Using a difference-in-differences framework and Medicare claims data, we find that PMCLs reduce problematic opioid prescribing and doctor shopping. Drawing on transaction-level information on opioid shipments, we estimate that PMCLs lead to strikingly large reductions in the volume of opioids dispensed directly by practitioners to patients. Studying mortality data, we estimate reductions in overdose death rates involving prescription opioids, with little evidence of substitution to illicit opioid markets. As PMCLs have not been adopted in most states, our results suggest they warrant greater attention from policymakers, even amid the declining role of prescription opioids in the annual death toll of the opioid crisis.",
-      "publication_date": "2025-11-20",
-      "source": "Journal of Public Economics",
-      "source_type": "journal",
-      "doi": "10.1016/j.jpubeco.2025.105515",
-      "url": "https://doi.org/10.1016/j.jpubeco.2025.105515",
-      "topics": [
-        "health_retirement"
-      ],
-      "concepts": [
-        {
-          "name": "Warrant",
-          "score": 0.705
-        },
-        {
-          "name": "Medicine",
-          "score": 0.697
-        },
-        {
-          "name": "Medical prescription",
-          "score": 0.683
-        },
-        {
-          "name": "Opioid",
-          "score": 0.659
-        },
-        {
-          "name": "Toll",
-          "score": 0.599
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-11-20"
     }
   ],
   "meta": {
-    "last_updated": "2026-11-20T18:54:11Z",
-    "paper_count": 149,
+    "last_updated": "2026-11-21T17:49:21Z",
+    "paper_count": 150,
     "date_range": {
-      "from": "2025-11-20",
-      "to": "2026-11-20"
+      "from": "2025-12-01",
+      "to": "2026-11-21"
     }
   }
 }
