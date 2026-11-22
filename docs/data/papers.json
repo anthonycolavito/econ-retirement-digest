@@ -10,7 +10,7 @@
         }
       ],
       "abstract": "The Health Resources and Services Administration (HRSA) plans to implement a pilot switching 340B from an upfront discount model to a rebate model for drugs in the Medicare Drug Price Negotiation Program (MDPNP). This study uses calibration methods to predict the impact of the rebate model pilot (RMP) on covered entities’ net revenues from the 340B program. I examine possible losses from averted duplicate discounts; denial of valid claims; manufacturers using data to exert influence; liquidity-related expenses; and administrative and staffing costs. I also project the effects of switching the entire 340B program to a rebate model. I project net revenue losses from the RMP of $1.5 billion. Expansion to all of 340B would increase the predicted losses to $22.8 billion, cutting net revenues from the program by 32%. The majority of losses will come from administrative and staffing costs, which do not benefit manufacturers, implying a net negative effect of switching to a rebate model. Covered entity losses from the RMP will be limited by the pilot only applying to a small percentage of 340B sales as well as restrictions HRSA’s guidance places on manufacturers. If the rebate model expands to all of 340B or if the restrictions are inadequately enforced, the losses will grow substantially.",
-      "publication_date": "2026-11-21",
+      "publication_date": "2026-11-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -20,7 +20,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w36020",
@@ -40,7 +40,7 @@
         }
       ],
       "abstract": "Whether longer exposure to health insurance improves health remains an open empirical question. This study examines the health effects of an additional year of health insurance coverage by exploiting differential changes in coverage pre-to-post implementation of the Affordable Care Act (ACA) for those who were and were not insured prior to the ACA. Using longitudinal data from the Health and Retirement Study (HRS), we instrument for insurance duration using baseline uninsured status interacted with the post-ACA period. We find that the ACA increased insurance coverage by approximately one additional year among previously uninsured respondents relative to those insured at baseline. Instrumental-variable estimates provide no statistically significant evidence of improvements in self-rated health, depressive symptoms, or hypertension over a four-year follow-up period. These findings are robust across alternative specifications. Overall, results provide little evidence that longer insurance coverage translates into measurable short-term health improvements, while leaving open the possibility of modest or longer-term benefits.",
-      "publication_date": "2026-11-21",
+      "publication_date": "2026-11-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -51,7 +51,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w36031",
@@ -67,7 +67,7 @@
         }
       ],
       "abstract": "The infamous agricultural pest, the boll weevil, spread across southern US counties between 1892 and 1920. It had devastating impacts on cotton production, a highly child-labor-intensive crop. This study examines how the arrival of the boll weevil and the subsequent reductions in child labor affect later-life mortality outcomes. Using Social Security Administration death records linked with the 1940 census, we document that the staggered spread of the boll weevil improved the longevity of exposed male children. Full exposure to the boll weevil is associated with an intent-to-treat effect of 1-3 months of higher longevity. We show that the estimated effects are robust across a wide array of specifications, are not driven by sociodemographic and socioeconomic compositional change in the final sample, and are not associated with pre-existing trends in the outcome. Further, we find larger impacts among Blacks, children of lower educated mothers, whose fathers work in the farming industry, and those born in high cotton intensity counties. Moreover, the effects appear to be substantially larger among children in states with less restrictive child labor policies, implying the role of these policies in reducing the adverse effects of child labor in the absence of the boll weevil in cotton production counties. Affected children are more likely to migrate, and their destination counties are more likely to be urban and have higher socioeconomic scores. The 1940 census suggests that the exposed children attain higher levels of education and have higher socioeconomic scores. We discuss the policy implications of these results in relation to child labor and school attendance policies in developing countries.",
-      "publication_date": "2026-11-21",
+      "publication_date": "2026-11-22",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -77,7 +77,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4401998537",
@@ -85,7 +85,7 @@
       "authors": [
         {
           "name": "Richard Audoly",
-          "affiliation": "Federal Reserve"
+          "affiliation": ""
         },
         {
           "name": "Rory McGee",
@@ -100,7 +100,7 @@
           "affiliation": "European Central Bank"
         }
       ],
-      "abstract": "We use 25 years of tax records for the Norwegian population to study the mobility of wealth over people’s lifetimes. We find considerable wealth mobility over the life cycle. To understand the underlying mobility patterns, we group individuals with similar wealth rank histories using agglomerative hierarchical clustering, a tool from statistical learning. The mobility patterns we elicit provide evidence of segmented mobility. Over 60 percent of the population remains at the top or bottom of the wealth distribution throughout their lives. Mobility is driven by the remaining 40 percent, who move only within the middle of the distribution. Movements are tied to differential income trajectories and business activities across groups. We show parental wealth is the key predictor of who is persistently rich or poor, while human capital is the main predictor of those who rise and fall through the middle of the distribution.",
+      "abstract": "We use 25 years of tax records for the Norwegian population to study the mobility of wealth over most of people’s working lives. We find considerable wealth mobility over the life cycle — exceeding income mobility. To understand the underlying mobility patterns, we group individuals with similar wealth histories using agglomerative hierarchical clustering, a tool from statistical learning. The mobility patterns we elicit provide evidence of segmented mobility . Over 60 percent of the population remain at the top or bottom of the wealth distribution throughout their working lives. Mobility is driven by the remaining 40 percent, who move only within the middle of the distribution. We show that parental wealth is the key predictor of who is persistently rich or poor, while human capital is the main predictor of those who rise and fall through the middle of the distribution. Highly-educated individuals drive upward mobility by converting high labor incomes into property wealth early in life and into financial assets afterwards. Downward mobility is primarily driven by declining or stalling business wealth.",
       "publication_date": "2026-11-20",
       "source": "Journal of Public Economics",
       "source_type": "journal",
@@ -124,7 +124,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35990",
@@ -235,7 +235,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35936",
@@ -426,7 +426,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7223364794",
@@ -477,7 +477,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7223240599",
@@ -524,7 +524,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7223186675",
@@ -571,7 +571,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7223120056",
@@ -614,7 +614,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35876",
@@ -754,7 +754,7 @@
           "affiliation": "University of California, Davis"
         }
       ],
-      "abstract": "Abstract We study the impact of Federal alcohol Prohibition in 1919 on workers in the alcohol industry and their families, using newly linked census records following spouses, sons, and daughters 1910-1940. Through 1930, affected men were less likely to work and worked in lower-skilled jobs when employed. By 1940, they were more likely to be employed, suggesting delayed retirement. Daughters of these workers were more likely to stay home, delay marriage, and work, even 20 years later. Sons were unaffected short-run. Those with sisters completed more schooling and earned more by 1940, suggesting daughters, not sons, served as the family’s safety net.",
+      "abstract": "We study the impact of Federal alcohol Prohibition in 1919 on workers in the alcohol industry and their families, using newly linked census records following spouses, sons, and daughters 1910-1940. Through 1930, affected men were less likely to work and worked in lower-skilled jobs when employed. By 1940, they were more likely to be employed, suggesting delayed retirement. Daughters of these workers were more likely to stay home, delay marriage, and work, even 20 years later. Sons were unaffected short-run. Those with sisters completed more schooling and earned more by 1940, suggesting daughters, not sons, served as the family’s safety net.",
       "publication_date": "2026-10-08",
       "source": "The Journal of Human Resources",
       "source_type": "journal",
@@ -786,7 +786,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35791",
@@ -886,7 +886,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7112995595",
@@ -935,7 +935,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7214584790",
@@ -986,7 +986,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35771",
@@ -1186,7 +1186,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7213456135",
@@ -1234,7 +1234,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35693",
@@ -1328,7 +1328,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35664",
@@ -1444,7 +1444,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35600",
@@ -1613,7 +1613,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35574",
@@ -1784,7 +1784,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7171724687",
@@ -1836,7 +1836,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35441",
@@ -2093,7 +2093,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35430",
@@ -2407,7 +2407,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7168249942",
@@ -2450,7 +2450,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7168162437",
@@ -2506,7 +2506,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35396",
@@ -2618,7 +2618,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7172277234",
@@ -2769,7 +2769,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7165660871",
@@ -2816,7 +2816,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35323",
@@ -2991,7 +2991,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35280",
@@ -3106,7 +3106,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4407850825",
@@ -3246,7 +3246,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7162023839",
@@ -3254,7 +3254,7 @@
       "authors": [
         {
           "name": "Bastián Castro Nofal",
-          "affiliation": "University of Chile"
+          "affiliation": "Universidad de Chile"
         },
         {
           "name": "Ignacio Flores",
@@ -3262,7 +3262,7 @@
         },
         {
           "name": "Pablo Gutiérrez Cubillos",
-          "affiliation": "University of Chile"
+          "affiliation": "Universidad de Chile"
         }
       ],
       "abstract": "",
@@ -3297,7 +3297,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35173",
@@ -3413,7 +3413,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35145",
@@ -3660,7 +3660,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7160076895",
@@ -3708,7 +3708,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7160064659",
@@ -3760,7 +3760,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7160037262",
@@ -3807,7 +3807,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7160040194",
@@ -3866,7 +3866,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w35082",
@@ -4066,7 +4066,7 @@
           "affiliation": "IRDES Institut de Recherche et Documentation en Économie de la Santé"
         }
       ],
-      "abstract": "This paper examines the effects of experience rating of workers’ compensation (WC) insurance on workers’ absences and employment. I exploit a French reform that increased the degree of experience rating assigned to medium-size firms, thereby strengthening their incentives to reduce WC benefit expenditures of their employees. The findings show that a higher degree of experience rating led to a significant reduction in absences due to work-related injuries or illnesses; the estimates imply an elasticity of a worker’s annual number of work-related absence days with respect to the share of WC benefit expenditures borne by the firm of −1.20, with an extensive-margin elasticity of −0.43. This reduction is not offset by an increase in nonwork-related absences, suggesting that this effect does not reflect a substitution toward filing claims under the nonwork-related insurance scheme. I find no evidence of adverse effects on employment. Instead, the results suggest that increasing the degree of experience rating significantly improved the employment of workers. • Experience rating creates incentives for firms to reduce workers’ compensation benefit payments. • A French reform increased the degree of experience rating, thereby strengthening these incentives. • Stronger incentives led to a substantial reduction in work-related absences taken by workers. • This reduction was not offset by an increase in nonwork-related absences. • Stronger incentives led to improvements in workers’ employment outcomes.",
+      "abstract": "This paper examines the effects of experience rating of workers’ compensation (WC) insurance on workers’ absences and employment. I exploit a French reform that increased the degree of experience rating assigned to medium-size firms, thereby strengthening their incentives to reduce WC benefit expenditures of their employees. The findings show that a higher degree of experience rating led to a significant reduction in absences due to work-related injuries or illnesses; the estimates imply an elasticity of a worker’s annual number of work-related absence days with respect to the share of WC benefit expenditures borne by the firm of −1.20, with an extensive-margin elasticity of −0.43. This reduction is not offset by an increase in nonwork-related absences, suggesting that this effect does not reflect a substitution toward filing claims under the nonwork-related insurance scheme. I find no evidence of adverse effects on employment. Instead, the results suggest that increasing the degree of experience rating significantly improved the employment of workers.",
       "publication_date": "2026-03-28",
       "source": "Journal of Public Economics",
       "source_type": "journal",
@@ -4098,7 +4098,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7140275549",
@@ -4109,7 +4109,7 @@
           "affiliation": "Ludwig-Maximilians-Universität München"
         }
       ],
-      "abstract": "This paper examines how interactions between genetic and behavioral risk factors influence the welfare effects of risk classification in health insurance. I show that using behavioral information in insurance pricing Pareto-improves welfare. It directly reduces moral hazard and indirectly mitigates adverse selection by lowering premiums. Under certain conditions, behavioral classification combined with a ban on genetic classification even implements the utilitarian optimum. A ban on genetic classification, however, may also induce inefficient prevention behaviors because insurers cannot tailor incentives to genetic dispositions. As a consequence, the ability of a regulated private market to achieve the utilitarian optimum hinges on how genetic factors influence the productivity of prevention. If interactions between genetic and behavioral factors lead to misaligned prevention incentives, social insurance that incorporates behavioral classification can resolve the remaining market inefficiencies and maximize utilitarian welfare. • Interactions between genetics and health behavior matter for insurance regulation. • Risk classification based on behavioral information improves welfare. • A ban on the use of genetic information may induce inefficient prevention behaviors. • A key criterion is how genetic dispositions affect the productivity of prevention. • The paper considers both a regulated private market and social insurance.",
+      "abstract": "This paper examines how interactions between genetic and behavioral risk factors influence the welfare effects of risk classification in health insurance. I show that using behavioral information in insurance pricing Pareto-improves welfare. It directly reduces moral hazard and indirectly mitigates adverse selection by lowering premiums. Under certain conditions, behavioral classification combined with a ban on genetic classification even implements the utilitarian optimum. A ban on genetic classification, however, may also induce inefficient prevention behaviors because insurers cannot tailor incentives to genetic dispositions. As a consequence, the ability of a regulated private market to achieve the utilitarian optimum hinges on how genetic factors influence the productivity of prevention. If interactions between genetic and behavioral factors lead to misaligned prevention incentives, social insurance that incorporates behavioral classification can resolve the remaining market inefficiencies and maximize utilitarian welfare.",
       "publication_date": "2026-03-25",
       "source": "Journal of Public Economics",
       "source_type": "journal",
@@ -4141,7 +4141,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "nber_w34966",
@@ -4252,7 +4252,7 @@
           "affiliation": "Flinders University"
         }
       ],
-      "abstract": "Abstract This paper examines the causal impact of retirement on social capital using nationally representative Australian panel data. Exploiting the eligibility age for the Age Pension, we find that retirement significantly enhances social capital by increasing social connectedness and community involvement. These gains improve physical and mental health, with effects comparable to those of physical activity. However, older individuals’ perceptions of social relationships remain unchanged. Our findings highlight a key policy tradeoff: while raising the retirement age may boost labor force participation, it may reduce opportunities for meaningful social engagement and, in turn, undermine the health of older adults.",
+      "abstract": "This paper examines the causal impact of retirement on social capital using nationally representative Australian panel data. Exploiting the eligibility age for the Age Pension, we find that retirement significantly enhances social capital by increasing social connectedness and community involvement. These gains improve physical and mental health, with effects comparable to those of physical activity. However, older individuals’ perceptions of social relationships remain unchanged. Our findings highlight a key policy tradeoff: while raising the retirement age may boost labor force participation, it may reduce opportunities for meaningful social engagement and, in turn, undermine the health of older adults.",
       "publication_date": "2026-03-11",
       "source": "The Journal of Human Resources",
       "source_type": "journal",
@@ -4284,7 +4284,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4389472826",
@@ -4328,7 +4328,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7131390878",
@@ -4376,7 +4376,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7130643125",
@@ -4427,7 +4427,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7165682263",
@@ -4466,7 +4466,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7127647932",
@@ -4521,7 +4521,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7127639882",
@@ -4574,7 +4574,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7128549714",
@@ -4637,7 +4637,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7127622621",
@@ -4680,7 +4680,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7127592864",
@@ -4731,7 +4731,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7128534083",
@@ -4837,7 +4837,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7126120302",
@@ -4888,7 +4888,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7125009254",
@@ -4943,7 +4943,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7119008759",
@@ -4994,7 +4994,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7125736606",
@@ -5037,7 +5037,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W1504388888",
@@ -5654,7 +5654,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7116980467",
@@ -5702,7 +5702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4416952202",
@@ -5749,7 +5749,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W7117554262",
@@ -5796,7 +5796,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4417344502",
@@ -5843,7 +5843,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-21"
+      "added_date": "2026-11-22"
     },
     {
       "id": "W4417138600",
@@ -6078,11 +6078,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-11-21T17:49:21Z",
+    "last_updated": "2026-11-22T18:07:17Z",
     "paper_count": 150,
     "date_range": {
       "from": "2025-12-01",
-      "to": "2026-11-21"
+      "to": "2026-11-22"
     }
   }
 }
