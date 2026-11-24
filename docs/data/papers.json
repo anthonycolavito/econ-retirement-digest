@@ -14,7 +14,7 @@
         }
       ],
       "abstract": "Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantage (MA) enrollment responds to payment despite the program’s rapid growth. We leverage the fact that the formula determining county-level “benchmark” payments (vouchers) involves coarse thresholds based on county-level spending and counties occasionally move across these thresholds, providing a shock to the vouchers unrelated to beneficiary demand. Using several complementary estimation strategies, we find that a 1 percent increase in a county’s benchmark raises MA enrollment by roughly half a percentage point within three years, implying an elasticity of about 2. Applying this estimate to a policy counterfactual that sets benchmarks at 95 percent of county fee-for-service spending implies a decline in MA enrollment of about 6.1 percentage points, or roughly one-quarter of our sample. We also provide suggestive evidence, consistent with prior work, that the increase in benchmarks gets passed through in the form of additional benefits, providing a mechanism for the enrollment increases.",
-      "publication_date": "2026-11-23",
+      "publication_date": "2026-11-24",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -26,7 +26,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-23"
+      "added_date": "2026-11-24"
     },
     {
       "id": "nber_w36047",
@@ -42,7 +42,7 @@
         }
       ],
       "abstract": "We examine how information about others’ retirement regret affects annuitization and savings recommendations. In a survey experiment, participants received information about regret over not purchasing annuities or not saving enough for retirement. Responses were concentrated among individuals who underestimated their survival probabilities relative to population benchmarks, consistent with a survival belief-updating mechanism. Among underestimators, annuity regret information increased annuitization recommendations by 16.9 percentage points (approximately 38%), while savings regret information reduced recommendations to significantly increase saving by 15.4 percentage points (approximately 28%). Less regret-averse individuals reduced aggressive savings recommendations, while the positive response to annuity regret information was concentrated among more risk-averse respondents. The annuity effect was strongest among respondents with greater annuity knowledge than less knowledgeable respondents.",
-      "publication_date": "2026-11-23",
+      "publication_date": "2026-11-24",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -52,7 +52,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-23"
+      "added_date": "2026-11-24"
     },
     {
       "id": "nber_w36058",
@@ -76,7 +76,7 @@
         }
       ],
       "abstract": "We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts – the marginal and the infra-marginal welfare loss – to a naive approach that fails to recognize the existence of other distortions operating alongside market power. We apply the framework to measure the impact of market power of OPEC in the global crude oil market. We leverage unique micro data on cost and production to quantify the deadweight loss and productive inefficiency due to the OPEC cartel. From 1970 onward, the naive approach implies that OPEC generated 2.2 trillion dollars of welfare losses, two-thirds from productive inefficiency and one-third from deadweight loss. Eliminating cost-minimization violations outside the cartel shrinks losses to around 0.7 trillion dollars, indicating that other frictions in the oil market are complementary to OPEC’s market power.",
-      "publication_date": "2026-11-23",
+      "publication_date": "2026-11-24",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -86,7 +86,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-23"
+      "added_date": "2026-11-24"
     },
     {
       "id": "nber_w36006",
@@ -6166,11 +6166,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-11-23T22:17:42Z",
+    "last_updated": "2026-11-24T20:55:20Z",
     "paper_count": 153,
     "date_range": {
       "from": "2025-12-01",
-      "to": "2026-11-23"
+      "to": "2026-11-24"
     }
   }
 }
