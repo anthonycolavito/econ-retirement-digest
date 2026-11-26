@@ -14,7 +14,7 @@
         }
       ],
       "abstract": "Some social insurance programs, including the Medicare program in the United States, allow beneficiaries to choose between public and private insurance firms. In these types of programs, the government will often provide a voucher to those who opt for private firms. A key policy decision is the level of this voucher, and a key input to that decision is the elasticity of enrollment in the public versus the private option with respect to the size of the voucher. We estimate this elasticity in the Medicare program, where recent work has provided remarkably little evidence on how Medicare Advantage (MA) enrollment responds to payment despite the program’s rapid growth. We leverage the fact that the formula determining county-level “benchmark” payments (vouchers) involves coarse thresholds based on county-level spending and counties occasionally move across these thresholds, providing a shock to the vouchers unrelated to beneficiary demand. Using several complementary estimation strategies, we find that a 1 percent increase in a county’s benchmark raises MA enrollment by roughly half a percentage point within three years, implying an elasticity of about 2. Applying this estimate to a policy counterfactual that sets benchmarks at 95 percent of county fee-for-service spending implies a decline in MA enrollment of about 6.1 percentage points, or roughly one-quarter of our sample. We also provide suggestive evidence, consistent with prior work, that the increase in benchmarks gets passed through in the form of additional benefits, providing a mechanism for the enrollment increases.",
-      "publication_date": "2026-11-25",
+      "publication_date": "2026-11-26",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -26,7 +26,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w36047",
@@ -42,7 +42,7 @@
         }
       ],
       "abstract": "We examine how information about others’ retirement regret affects annuitization and savings recommendations. In a survey experiment, participants received information about regret over not purchasing annuities or not saving enough for retirement. Responses were concentrated among individuals who underestimated their survival probabilities relative to population benchmarks, consistent with a survival belief-updating mechanism. Among underestimators, annuity regret information increased annuitization recommendations by 16.9 percentage points (approximately 38%), while savings regret information reduced recommendations to significantly increase saving by 15.4 percentage points (approximately 28%). Less regret-averse individuals reduced aggressive savings recommendations, while the positive response to annuity regret information was concentrated among more risk-averse respondents. The annuity effect was strongest among respondents with greater annuity knowledge than less knowledgeable respondents.",
-      "publication_date": "2026-11-25",
+      "publication_date": "2026-11-26",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -52,7 +52,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w36058",
@@ -76,7 +76,7 @@
         }
       ],
       "abstract": "We introduce an empirical framework to quantify the welfare impact of market power, through coordinated production decisions by a cartel, while allowing for other distortions. We contrast two novel concepts – the marginal and the infra-marginal welfare loss – to a naive approach that fails to recognize the existence of other distortions operating alongside market power. We apply the framework to measure the impact of market power of OPEC in the global crude oil market. We leverage unique micro data on cost and production to quantify the deadweight loss and productive inefficiency due to the OPEC cartel. From 1970 onward, the naive approach implies that OPEC generated 2.2 trillion dollars of welfare losses, two-thirds from productive inefficiency and one-third from deadweight loss. Eliminating cost-minimization violations outside the cartel shrinks losses to around 0.7 trillion dollars, indicating that other frictions in the oil market are complementary to OPEC’s market power.",
-      "publication_date": "2026-11-25",
+      "publication_date": "2026-11-26",
       "source": "NBER Working Papers",
       "source_type": "working_paper",
       "doi": "",
@@ -86,7 +86,7 @@
       ],
       "concepts": [],
       "matched_by": "nber_rss",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w36006",
@@ -212,7 +212,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35990",
@@ -323,7 +323,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35936",
@@ -514,7 +514,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7223364794",
@@ -565,7 +565,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7223240599",
@@ -612,7 +612,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7223186675",
@@ -659,7 +659,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7223120056",
@@ -702,7 +702,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35876",
@@ -874,7 +874,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35791",
@@ -974,7 +974,56 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
+    },
+    {
+      "id": "W7112995595",
+      "title": "The Long-Term Effects of Cash Assistance",
+      "authors": [
+        {
+          "name": "David J. Price",
+          "affiliation": "University of Toronto"
+        },
+        {
+          "name": "Jae Geun Song",
+          "affiliation": "United States Social Security Administration"
+        }
+      ],
+      "abstract": "We investigate the long-term effects of cash assistance on beneficiaries and their children among participants in the Seattle-Denver Income Maintenance Experiment. Treated families in this randomized experiment received thousands of dollars in extra government benefits for three or five years in the 1970s. We match experimental records to Social Security Administration data using a novel algorithm, finding that treatment decreased adults' postexperimental annual earnings by $1,800 and increased their disability benefit applications. Effects were strongest around retirement age; evidence suggests possible occupational mechanisms. In contrast, children experienced no significant effects on earnings or interaction with the disability system. (JEL G51, H55, H75, I32, I38, J12, J14)",
+      "publication_date": "2026-09-28",
+      "source": "American Economic Journal Applied Economics",
+      "source_type": "journal",
+      "doi": "10.1257/app.20210064",
+      "url": "https://doi.org/10.1257/app.20210064",
+      "topics": [
+        "public_pensions",
+        "social_insurance",
+        "retirement_decisions"
+      ],
+      "concepts": [
+        {
+          "name": "Earnings",
+          "score": 0.781
+        },
+        {
+          "name": "Cash",
+          "score": 0.689
+        },
+        {
+          "name": "Business",
+          "score": 0.521
+        },
+        {
+          "name": "Social security",
+          "score": 0.517
+        },
+        {
+          "name": "Government (linguistics)",
+          "score": 0.51
+        }
+      ],
+      "matched_by": "keyword",
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7214584790",
@@ -1025,56 +1074,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
-    },
-    {
-      "id": "W7112995595",
-      "title": "The Long-Term Effects of Cash Assistance",
-      "authors": [
-        {
-          "name": "David J. Price",
-          "affiliation": "University of Toronto"
-        },
-        {
-          "name": "Jae Geun Song",
-          "affiliation": "United States Social Security Administration"
-        }
-      ],
-      "abstract": "We investigate the long-term effects of cash assistance on beneficiaries and their children among participants in the Seattle-Denver Income Maintenance Experiment. Treated families in this randomized experiment received thousands of dollars in extra government benefits for three or five years in the 1970s. We match experimental records to Social Security Administration data using a novel algorithm, finding that treatment decreased adults' postexperimental annual earnings by $1,800 and increased their disability benefit applications. Effects were strongest around retirement age; evidence suggests possible occupational mechanisms. In contrast, children experienced no significant effects on earnings or interaction with the disability system. (JEL G51, H55, H75, I32, I38, J12, J14)",
-      "publication_date": "2026-09-28",
-      "source": "American Economic Journal Applied Economics",
-      "source_type": "journal",
-      "doi": "10.1257/app.20210064",
-      "url": "https://doi.org/10.1257/app.20210064",
-      "topics": [
-        "public_pensions",
-        "social_insurance",
-        "retirement_decisions"
-      ],
-      "concepts": [
-        {
-          "name": "Earnings",
-          "score": 0.781
-        },
-        {
-          "name": "Cash",
-          "score": 0.689
-        },
-        {
-          "name": "Business",
-          "score": 0.521
-        },
-        {
-          "name": "Social security",
-          "score": 0.517
-        },
-        {
-          "name": "Government (linguistics)",
-          "score": 0.51
-        }
-      ],
-      "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35771",
@@ -1274,7 +1274,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7213456135",
@@ -1322,7 +1322,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35693",
@@ -1416,7 +1416,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35664",
@@ -1532,7 +1532,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35600",
@@ -1701,7 +1701,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35574",
@@ -1872,7 +1872,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7171724687",
@@ -1924,7 +1924,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35441",
@@ -2181,7 +2181,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35430",
@@ -2495,7 +2495,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7168249942",
@@ -2538,7 +2538,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7168162437",
@@ -2594,7 +2594,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35396",
@@ -2706,7 +2706,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7172277234",
@@ -2857,7 +2857,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7165660871",
@@ -2904,7 +2904,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35323",
@@ -3079,7 +3079,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35280",
@@ -3194,7 +3194,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W4407850825",
@@ -3334,7 +3334,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7162023839",
@@ -3385,7 +3385,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35173",
@@ -3501,7 +3501,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35145",
@@ -3748,7 +3748,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7160076895",
@@ -3796,7 +3796,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7160064659",
@@ -3848,7 +3848,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7160037262",
@@ -3895,7 +3895,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7160040194",
@@ -3954,7 +3954,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w35082",
@@ -4186,7 +4186,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7140275549",
@@ -4229,7 +4229,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "nber_w34966",
@@ -4372,7 +4372,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W4389472826",
@@ -4416,7 +4416,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7131390878",
@@ -4464,7 +4464,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7130643125",
@@ -4515,7 +4515,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7165682263",
@@ -4554,7 +4554,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7127647932",
@@ -4609,7 +4609,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7127639882",
@@ -4662,7 +4662,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7128549714",
@@ -4685,7 +4685,7 @@
           "affiliation": "Boston University"
         },
         {
-          "name": "Ryan McDevitt",
+          "name": "Ryan C. McDevitt",
           "affiliation": "National Bureau of Economic Research"
         },
         {
@@ -4725,7 +4725,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7127622621",
@@ -4768,7 +4768,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7127592864",
@@ -4819,7 +4819,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7128534083",
@@ -4925,7 +4925,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7126120302",
@@ -4976,7 +4976,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7125009254",
@@ -5031,7 +5031,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7119008759",
@@ -5082,7 +5082,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7125736606",
@@ -5125,7 +5125,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W1504388888",
@@ -5742,7 +5742,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7116980467",
@@ -5790,7 +5790,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W4416952202",
@@ -5837,7 +5837,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W7117554262",
@@ -5884,7 +5884,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W4417344502",
@@ -5931,7 +5931,7 @@
         }
       ],
       "matched_by": "keyword",
-      "added_date": "2026-11-25"
+      "added_date": "2026-11-26"
     },
     {
       "id": "W4417138600",
@@ -6166,11 +6166,11 @@
     }
   ],
   "meta": {
-    "last_updated": "2026-11-25T20:17:32Z",
+    "last_updated": "2026-11-26T19:54:41Z",
     "paper_count": 153,
     "date_range": {
       "from": "2025-12-01",
-      "to": "2026-11-25"
+      "to": "2026-11-26"
     }
   }
 }
